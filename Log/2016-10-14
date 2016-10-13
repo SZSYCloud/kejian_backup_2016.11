@@ -5528,3 +5528,19 @@
 5:28:10 Commit Update
 5:29:10 Ready to Push
 5:29:10 Add Log
+5:29:10 Commit Update
+5:29:10 Ready to Push
+5:29:10 Delete /home/club/local/语文/【红树主人】高三10-11班/考试导航-文言诗文阅读/阅读强化训练15-古诗鉴赏(2)--题目答案联排.doc
+5:29:10 Delete /home/club/local/语文/【红树主人】高三10-11班/考试导航-现代文阅读/【2016红树主人课件】现代文阅读_小说专题1-文体专攻-.docx
+5:29:10 Delete /home/club/local/语文/【红树主人】高三10-11班/考试导航-现代文阅读/【2016红树主人课件】现代文阅读_小说专题2-真题真练.docx
+5:29:10 Delete /home/club/local/语文/【红树主人】高三10-11班/考试导航-现代文阅读/【2016红树主人课件】现代文阅读_小说专题3-考点1-分析情节结构.docx
+5:29:10 Delete /home/club/local/语文/【红树主人】高三10-11班/考试导航-文言诗文阅读/全品_第6讲_理解并翻译文中的句子.pptx
+5:29:10 Copying No.5512 【2016红树主人课件】现代文阅读 小说专题3-考点1-分析情节结构.docx	16.96 MB
+5:30:10 Update index Done
+5:30:10 Update cache Done
+5:30:10 Queue total size: 16.96 MB
+5:30:10 Add 【2016红树主人课件】现代文阅读 小说专题3-考点1-分析情节结构.docx
+5:30:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【2016红树主人课件】现代文阅读 小说专题3-考点1-分析情节结构.docx'])
+5:30:10 Commit Update
+5:30:10 Ready to Push
+5:30:10 Add Log

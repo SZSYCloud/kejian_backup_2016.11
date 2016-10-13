@@ -14748,3 +14748,16 @@
 11:16:10 Commit Update
 11:20:10 Ready to Push
 11:20:10 Add Log
+11:20:10 Commit Update
+11:20:10 Ready to Push
+11:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第一章_专题二.docx
+11:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第一章_专题一.docx
+11:20:10 Copying No.3386 现代文阅读 第一章 专题一.docx	10.56 MB
+11:20:10 Update index Done
+11:20:10 Update cache Done
+11:20:10 Queue total size: 10.56 MB
+11:20:10 Add 现代文阅读 第一章 专题一.docx
+11:20:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 现代文阅读 第一章 专题一.docx'])
+11:20:10 Commit Update
+11:20:10 Ready to Push
+11:20:10 Add Log

@@ -18753,3 +18753,15 @@
 20:52:10 Commit Update
 21:11:10 Ready to Push
 21:11:10 Add Log
+21:11:10 Commit Update
+21:11:10 Ready to Push
+21:11:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2017版全品高考复习方案语文教师用书word/PPT听课手册配套课件/第1部分-语言文字运用-语文-新课标-全国卷地区专用.pptx
+21:11:10 Copying No.4204 第1部分-语言文字运用-语文-新课标-全国卷地区专用.pptx	10.25 MB
+21:11:10 Update index Done
+21:11:10 Update cache Done
+21:11:10 Queue total size: 10.25 MB
+21:11:10 Add 第1部分-语言文字运用-语文-新课标-全国卷地区专用.pptx
+21:11:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第1部分-语言文字运用-语文-新课标-全国卷地区专用.pptx'])
+21:11:10 Commit Update
+21:11:10 Ready to Push
+21:11:10 Add Log

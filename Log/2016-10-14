@@ -12537,3 +12537,95 @@
 12:37:10 Commit Update
 12:37:10 Ready to Push
 12:37:10 Add Log
+12:37:10 Commit Update
+12:37:10 Ready to Push
+12:37:10 Delete /home/club/local/语文/廉茉/2015届高三毕业典礼（新体育馆屏幕）.pptx
+12:37:10 Copying No.7109 20160901座位.xlsx	9.51 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7110 20160901座位.xlsx	9.51 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Found too large 20160915--青木瓜之味【越南-1993】.rmvb
+12:37:10 Copying No.7111 325作文提纲.pptx	70.32 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7112 325作文提纲.pptx	70.32 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7113 8班教师通讯录.xlsx	24.1 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7114 8班教师通讯录.xlsx	24.1 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7115 8名条.xlsx	14.72 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7116 8名条.xlsx	14.72 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Found too large SANY0001.MP4
+12:37:10 Copying No.7117 班干部名单201509.xls	131.0 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7118 高二第一阶段命题说明书.docx	15.55 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7119 高二第一阶段命题说明书.docx	15.55 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7120 高二上一阶段考试讲评版.docx	60.62 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7121 高二上一阶段考试讲评版.docx	60.62 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7122 高一（8）班干部.xls	27.0 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7123 高中文言文助读（校）.docx	205.22 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7124 高中文言文助读（校）.docx	205.22 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7125 过秦论.ppt	1.5 MB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7126 考试安排.docx	15.1 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7127 考试安排.docx	15.1 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7128 科技文阅读方法：.ppt	20.0 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7129 人教版必修二《就任北京大学校长之演说》ppt课件_19页.ppt	554.0 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7130 暑假作业.docx	14.64 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7131 暑假作业.docx	14.64 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7132 孙傅.docx	19.55 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7133 孙傅.docx	19.55 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7134 寓言类新材料作文立意角度.ppt	290.0 KB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Copying No.7135 主题班会课件：时间管理技巧.ppt	10.88 MB
+12:37:10 Update index Done
+12:37:10 Update cache Done
+12:37:10 Queue total size: 14.26 MB
+12:37:10 Add 主题班会课件：时间管理技巧.ppt
+12:37:10 Commit Update
+12:48:10 CalledProcessError(1, ['git', 'push', '-u', 'origin', 'master'])
+12:48:10 Ready to Push
+12:48:10 Add Log

@@ -13570,3 +13570,26 @@
 13:42:10 Commit Update
 13:51:10 Ready to Push
 13:51:10 Add Log
+13:51:10 Commit Update
+13:51:10 Ready to Push
+13:51:10 Delete /home/club/local/语文/刘2018/kw/逍遥游/逍遥.ppt
+13:51:10 Delete /home/club/local/语文/刘2018/kw/滕王阁序/滕王阁序.ppt
+13:51:10 Delete /home/club/local/语文/刘2018/（7）2016--2017学年度上学期第一学段考试高二语文/2016—2017学年度上学期第一学段考试高二语文答案.docx
+13:51:10 Delete /home/club/local/语文/刘2018/（7）2016--2017学年度上学期第一学段考试高二语文/2016—2017学年度上学期第一学段考试高二语文试卷.docx
+13:51:10 Delete /home/club/local/语文/刘2018/（7）2016--2017学年度上学期第一学段考试高二语文/2016—2017学年度上学期第一学段考试高二语文题卡.doc
+13:51:10 Delete /home/club/local/语文/刘2018/（7）2016--2017学年度上学期第一学段考试高二语文/高二上一阶段考试讲评版.docx
+13:51:10 Delete /home/club/local/语文/刘2018/班级事务/常规周评价16-17上.xls
+13:51:10 Delete /home/club/local/语文/刘2018/班级事务/调查报告的写作.ppt
+13:51:10 Delete /home/club/local/语文/刘2018/班级事务/赴井冈山社会实践活动信息登记.xls
+13:51:10 Delete /home/club/local/语文/刘2018/班级事务/高一学生档案填写说明.doc
+13:51:10 Delete /home/club/local/语文/刘2018/班级事务/七班.pptx
+13:51:10 Delete /home/club/local/语文/刘2018/kw/逍遥游/庄子中的成语.ppt
+13:51:10 Copying No.7340 七班.pptx	19.92 MB
+13:51:10 Update index Done
+13:51:10 Update cache Done
+13:51:10 Queue total size: 19.92 MB
+13:51:10 Add 七班.pptx
+13:51:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 七班.pptx'])
+13:51:10 Commit Update
+13:51:10 Ready to Push
+13:51:10 Add Log

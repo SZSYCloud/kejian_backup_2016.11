@@ -12629,3 +12629,334 @@
 12:48:10 CalledProcessError(1, ['git', 'push', '-u', 'origin', 'master'])
 12:48:10 Ready to Push
 12:48:10 Add Log
+12:48:10 Commit Update
+13:10:10 Ready to Push
+13:10:10 Delete /home/club/local/语文/廉茉/20160901座位.xlsx
+13:10:10 Delete /home/club/local/语文/廉茉/325作文提纲.pptx
+13:10:10 Delete /home/club/local/语文/廉茉/8班教师通讯录.xlsx
+13:10:10 Delete /home/club/local/语文/廉茉/8名条.xlsx
+13:10:10 Delete /home/club/local/语文/廉茉/班干部名单201509.xls
+13:10:10 Delete /home/club/local/语文/廉茉/高二第一阶段命题说明书.docx
+13:10:10 Delete /home/club/local/语文/廉茉/高二上一阶段考试讲评版.docx
+13:10:10 Delete /home/club/local/语文/廉茉/高一（8）班干部.xls
+13:10:10 Delete /home/club/local/语文/廉茉/高中文言文助读（校）.docx
+13:10:10 Delete /home/club/local/语文/廉茉/过秦论.ppt
+13:10:10 Delete /home/club/local/语文/廉茉/考试安排.docx
+13:10:10 Delete /home/club/local/语文/廉茉/科技文阅读方法：.ppt
+13:10:10 Delete /home/club/local/语文/廉茉/人教版必修二《就任北京大学校长之演说》ppt课件_19页.ppt
+13:10:10 Delete /home/club/local/语文/廉茉/暑假作业.docx
+13:10:10 Delete /home/club/local/语文/廉茉/孙傅.docx
+13:10:10 Delete /home/club/local/语文/廉茉/寓言类新材料作文立意角度.ppt
+13:10:10 Delete /home/club/local/语文/廉茉/主题班会课件：时间管理技巧.ppt
+13:10:10 Creating /home/club/local/语文/林如元（高二下）2016年2月
+13:10:10 Creating /home/club/index/语文/林如元（高二下）2016年2月
+13:10:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月
+13:10:10 Write dirs in index Done
+13:10:10 Write dirs in cache Done
+13:10:10 Copying No.7136 120实词（用）.ppt	2.15 MB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7137 120实词（用）2.ppt	2.18 MB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7138 高三堂上作文（2）  掏鸟.pptx	278.03 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7139 高三堂上作文（2）  掏鸟.pptx	278.03 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7140 高三堂上作文（四）2.pptx	45.32 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7141 高三堂上作文（四）2.pptx	45.32 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7142 很穷但很快乐作文讲评.docx	37.19 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7143 很穷但很快乐作文讲评.docx	37.19 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7144 默写检测.pptx	45.0 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7145 默写检测.pptx	45.0 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7146 文言文读译本答案.pptx	75.66 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7147 文言文读译本答案.pptx	75.66 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7148 新课标卷高考古诗文背诵64篇篇目情景式默写汇编.doc	104.0 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7149 阅读强化训练15-古诗鉴赏(2)--题目答案联排.doc	61.0 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Creating /home/club/local/语文/林如元（高二下）2016年2月/2016高考作文汇总
+13:10:10 Creating /home/club/index/语文/林如元（高二下）2016年2月/2016高考作文汇总
+13:10:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月/2016高考作文汇总
+13:10:10 Write dirs in index Done
+13:10:10 Write dirs in cache Done
+13:10:10 Copying No.7150 2016-06-06 【红树主人编】2016年普通高等学校全国统一考试语文试题（1卷）.docx	78.79 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7151 2016-06-06 【红树主人编】2016年普通高等学校全国统一考试语文试题（1卷）.docx	78.79 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7152 2016高考独家.docx	84.16 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7153 2016高考独家.docx	84.16 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7154 2016高考作文题.pptx	48.66 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7155 2016高考作文题.pptx	48.66 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Creating /home/club/local/语文/林如元（高二下）2016年2月/高二下作文
+13:10:10 Creating /home/club/index/语文/林如元（高二下）2016年2月/高二下作文
+13:10:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月/高二下作文
+13:10:10 Write dirs in index Done
+13:10:10 Write dirs in cache Done
+13:10:10 Copying No.7156 2016高考作文.pptx	75.19 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7157 2016高考作文.pptx	75.19 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7158 2016广一模作文解析.pptx	77.45 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7159 2016广一模作文解析.pptx	77.45 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7160 2016年深一模高分作文.docx	84.47 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7161 2016年深一模高分作文.docx	84.47 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7162 2016深一模作文.pptx	43.87 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7163 2016深一模作文.pptx	43.87 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7164 第5周作文.pptx	96.04 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7165 第5周作文.pptx	96.04 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7166 对两次作文的管见.pptx	47.89 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7167 对两次作文的管见.pptx	47.89 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7168 中山大学中文系教授.docx	35.05 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7169 中山大学中文系教授.docx	35.05 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7170 追星之我见.pptx	44.21 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7171 追星之我见.pptx	44.21 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7172 作文  摔缸.pptx	89.3 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7173 作文  摔缸.pptx	89.3 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Creating /home/club/local/语文/林如元（高二下）2016年2月/高二下作文/漫画作文
+13:10:10 Creating /home/club/index/语文/林如元（高二下）2016年2月/高二下作文/漫画作文
+13:10:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月/高二下作文/漫画作文
+13:10:10 Write dirs in index Done
+13:10:10 Write dirs in cache Done
+13:10:10 Copying No.7174 2016-06-29 2016年广东高考优秀作文八篇出炉 分析严谨冷静超乎常人.docx	69.88 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7175 2016-06-29 2016年广东高考优秀作文八篇出炉 分析严谨冷静超乎常人.docx	69.88 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7176 2016高考作文.pptx	133.29 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7177 2016高考作文.pptx	133.29 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7178 关于四书五经六艺.pptx	42.46 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7179 关于四书五经六艺.pptx	42.46 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7180 广东十篇高分作文启示重要.doc	45.0 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7181 细数历年高考语文中的漫画作文.docx	113.49 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7182 细数历年高考语文中的漫画作文.docx	113.49 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Creating /home/club/local/语文/林如元（高二下）2016年2月/高三作文训练1
+13:10:10 Creating /home/club/index/语文/林如元（高二下）2016年2月/高三作文训练1
+13:10:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月/高三作文训练1
+13:10:10 Write dirs in index Done
+13:10:10 Write dirs in cache Done
+13:10:10 Copying No.7183 23日北京延庆区八达岭野生动物园老虎咬人惨剧.docx	14.87 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7184 23日北京延庆区八达岭野生动物园老虎咬人惨剧.docx	14.87 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7185 【议论文写作系列】（1）学习选择立论角度  命题与题解.pptx	68.42 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7186 【议论文写作系列】（1）学习选择立论角度  命题与题解.pptx	68.42 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7187 第三周积累8月20.docx	19.86 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7188 第三周积累8月20.docx	19.86 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7189 高三堂上作文（2）  掏鸟.pptx	51.46 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7190 高三堂上作文（2）  掏鸟.pptx	51.46 KB
+13:10:10 Update index Done
+13:10:10 Update cache Done
+13:10:10 Copying No.7191 高三作文（一）2016 08.pptx	73.32 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7192 高三作文（一）2016 08.pptx	73.32 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7193 高三作文话题一：物质与精神.docx	69.4 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7194 高三作文话题一：物质与精神.docx	69.4 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7195 舆论别成另一只伤人.docx	36.39 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7196 舆论别成另一只伤人.docx	36.39 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7197 追星之我见.pptx	44.24 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7198 追星之我见.pptx	44.24 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Creating /home/club/local/语文/林如元（高二下）2016年2月/基础滚动练答案1—12
+13:11:10 Creating /home/club/index/语文/林如元（高二下）2016年2月/基础滚动练答案1—12
+13:11:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月/基础滚动练答案1—12
+13:11:10 Write dirs in index Done
+13:11:10 Write dirs in cache Done
+13:11:10 Copying No.7199 小七题自测自评得分统计.xlsx	11.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7200 小七题自测自评得分统计.xlsx	11.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7201 小说阅读(1)--题目答案联排.doc	48.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7202 阅读强化训练14-古诗鉴赏(1)--题目答案联排.doc	54.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7203 阅读强化训练6-文学文本-小说阅读(2)--题目答案联排.doc	50.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Creating /home/club/local/语文/林如元（高二下）2016年2月/基础滚动练答案1—12/2017届一轮阅读强化训练（2016-08-23）
+13:11:10 Creating /home/club/index/语文/林如元（高二下）2016年2月/基础滚动练答案1—12/2017届一轮阅读强化训练（2016-08-23）
+13:11:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月/基础滚动练答案1—12/2017届一轮阅读强化训练（2016-08-23）
+13:11:10 Write dirs in index Done
+13:11:10 Write dirs in cache Done
+13:11:10 Copying No.7204 阅读强化训练1-论述类01--题目答案联排).doc	38.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7205 阅读强化训练10-实用文本-传记阅读(1)--题目答案联排.doc	50.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7206 阅读强化训练11-实用文本-传记阅读(2)--题目答案联排.doc	46.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7207 阅读强化训练12-实用文本-传记阅读(3)--题目答案联排.doc	45.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7208 阅读强化训练13-实用文本-传记阅读(4)--题目答案联排.doc	50.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7209 阅读强化训练14-古诗鉴赏(1)--题目答案联排.doc	54.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7210 阅读强化训练15-古诗鉴赏(2)--题目答案联排.doc	58.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7211 阅读强化训练16-文言文阅读(1)--题目答案联排.doc	72.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7212 阅读强化训练17-文言文阅读(2)--题目答案联排.doc	78.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7213 阅读强化训练18-文言语句翻译规范专项训练--题目+答案 联排.docx	43.52 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7214 阅读强化训练18-文言语句翻译规范专项训练--题目+答案 联排.docx	43.52 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7215 阅读强化训练2-论述类02--题目答案联排.doc	39.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7216 阅读强化训练3-论述类03--题目答案联排.doc	35.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7217 阅读强化训练4-论述类04--题目答案联排.doc	38.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7218 阅读强化训练5-文学文本-小说阅读(1)--答案.doc	35.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7219 阅读强化训练5-文学文本-小说阅读(1)--题目答案联排.doc	47.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7220 阅读强化训练6-文学文本-小说阅读(2)--题目答案联排.doc	49.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7221 阅读强化训练7-文学文本-小说阅读(3)--题目答案联排.doc	47.0 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7222 阅读强化训练8-文学文本-小说阅读(4)--题目答案联排.doc	50.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Copying No.7223 阅读强化训练9-文学文本-小说阅读(5)--题目答案联排.doc	47.5 KB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Creating /home/club/local/语文/林如元（高二下）2016年2月/基础滚动练答案1—12/滚动练
+13:11:10 Creating /home/club/index/语文/林如元（高二下）2016年2月/基础滚动练答案1—12/滚动练
+13:11:10 Creating /home/club/cache/语文/林如元（高二下）2016年2月/基础滚动练答案1—12/滚动练
+13:11:10 Write dirs in index Done
+13:11:10 Write dirs in cache Done
+13:11:10 Copying No.7224 2017届高三复习语基语用小7题滚动30练 （题目答案联排版）.doc	3.11 MB
+13:11:10 Update index Done
+13:11:10 Update cache Done
+13:11:10 Queue total size: 12.71 MB
+13:11:10 Add 2017届高三复习语基语用小7题滚动30练 （题目答案联排版）.doc
+13:11:10 Commit Update
+13:16:10 Ready to Push
+13:16:10 Add Log

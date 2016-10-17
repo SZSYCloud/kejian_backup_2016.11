@@ -15454,3 +15454,15 @@
 18:15:10 Commit Update
 18:30:10 Ready to Push
 18:30:10 Add Log
+18:30:10 Commit Update
+18:30:10 Ready to Push
+18:30:10 Delete /home/club/local/物理/2015级物理备课组/选修3-1（全品）/第3章-磁场-选修3-1-人教版-物理.pptx
+18:30:10 Copying No.2628 第3章-磁场-选修3-1-人教版-物理.pptx	21.99 MB
+18:30:10 Update index Done
+18:30:10 Update cache Done
+18:30:10 Queue total size: 21.99 MB
+18:30:10 Add 第3章-磁场-选修3-1-人教版-物理.pptx
+18:30:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第3章-磁场-选修3-1-人教版-物理.pptx'])
+18:30:10 Commit Update
+18:31:10 Ready to Push
+18:31:10 Add Log

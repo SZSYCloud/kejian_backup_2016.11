@@ -7492,3 +7492,56 @@
 13:44:10 CalledProcessError(1, ['git', 'push', '-u', 'origin', 'master'])
 13:44:10 Ready to Push
 13:44:10 Add Log
+13:44:10 Commit Update
+13:47:10 Ready to Push
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点14__光学.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点15__热学、光学实验.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点16__量子论初步_原子核.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点2__曲线运动.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点3__万有引力与航天.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点4__功和能.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点5__动量守恒定律.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点6__振动和波.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点7__力学实验.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点8__热学.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点9__静电场.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/新课标版/考点1__匀变速直线运动.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/新课标版/考点10__磁场.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/新课标版/考点11__电磁感应.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/新课标版/考点12__交变电流.doc
+13:47:10 Delete /home/club/local/物理/2015-2016_高二年级/《世纪金榜—高中全程学习方略》选修3-2/2010～2014高考分类题库/2011年高考分类题库/人教大纲版/考点13__电学实验.doc
+13:47:10 Copying No.1073 考点13  电学实验.doc	5.19 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1074 考点14  热学.doc	1.39 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1075 考点15  振动和波、光学.doc	3.03 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1076 考点16  动量、原子物理.doc	1.22 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1077 考点2  相互作用.doc	3.34 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1078 考点3  牛顿运动定律.doc	973.0 KB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1079 考点4  曲线运动.doc	867.0 KB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1080 考点5  万有引力与航天.doc	911.0 KB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1081 考点6  功和能.doc	2.61 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1082 考点7  力学实验.doc	7.39 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Queue total size: 26.86 MB
+13:48:10 Add 考点7  力学实验.doc
+13:48:10 Commit Update
+13:52:10 Ready to Push
+13:52:10 Add Log

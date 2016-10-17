@@ -15590,3 +15590,18 @@
 18:39:10 Commit Update
 18:51:10 Ready to Push
 18:51:10 Add Log
+18:51:10 Commit Update
+18:51:10 Ready to Push
+18:51:10 Delete /home/club/local/物理/2015级物理备课组/张老师/高二上/班主任工作/第5次班会课——高二的使命/铅笔的比喻.ppt
+18:51:10 Delete /home/club/local/物理/2015级物理备课组/张老师/高二上/班主任工作/第5次班会课——高二的使命/新建_Microsoft_PowerPoint_演示文稿.pptx
+18:51:10 Delete /home/club/local/物理/2015级物理备课组/张老师/高二上/班主任工作/第一次班会课/高二第一次班会课.pptx
+18:51:10 Delete /home/club/local/物理/2015级物理备课组/张老师/高二上/班主任工作/第4次班会课——安全教育/心理健康及安全教育ppt.ppt
+18:51:10 Copying No.2645 高二第一次班会课.pptx	26.58 MB
+18:51:10 Update index Done
+18:51:10 Update cache Done
+18:51:10 Queue total size: 26.58 MB
+18:51:10 Add 高二第一次班会课.pptx
+18:51:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 高二第一次班会课.pptx'])
+18:51:10 Commit Update
+18:51:10 Ready to Push
+18:51:10 Add Log

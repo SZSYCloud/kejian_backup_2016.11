@@ -18758,3 +18758,75 @@
 22:54:10 CalledProcessError(128, ['git', 'push', '-u', 'origin', 'master'])
 22:54:10 Ready to Push
 22:54:10 Add Log
+22:54:10 Commit Update
+23:1:10 Ready to Push
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/实验8.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/实验9.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关1.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关10.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关11.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关12.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关13.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关2.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关3.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/章末能力过关4.ppt
+23:1:10 Delete /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/PPT课件/实验7.ppt
+23:1:10 Copying No.3269 章末能力过关5.ppt	1.93 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3270 章末能力过关6.ppt	1.26 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3271 章末能力过关7.ppt	2.97 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3272 章末能力过关8.ppt	1.37 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3273 章末能力过关9.ppt	1.62 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Creating /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库
+23:1:10 Creating /home/club/index/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库
+23:1:10 Creating /home/club/cache/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库
+23:1:10 Write dirs in index Done
+23:1:10 Write dirs in cache Done
+23:1:10 Creating /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库/高考分类题库-随时加餐
+23:1:10 Creating /home/club/index/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库/高考分类题库-随时加餐
+23:1:10 Creating /home/club/cache/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库/高考分类题库-随时加餐
+23:1:10 Write dirs in index Done
+23:1:10 Write dirs in cache Done
+23:1:10 Creating /home/club/local/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库/高考分类题库-随时加餐/2011年物理高考试题分类汇编
+23:1:10 Creating /home/club/index/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库/高考分类题库-随时加餐/2011年物理高考试题分类汇编
+23:1:10 Creating /home/club/cache/物理/C_高三年级/备课组/2016新课标高考第一轮/高考分类题库/高考分类题库-随时加餐/2011年物理高考试题分类汇编
+23:1:10 Write dirs in index Done
+23:1:10 Write dirs in cache Done
+23:1:10 Copying No.3274 2011年高考物理试题汇编（磁场）.doc	3.1 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3275 2011年高考物理试题汇编（电磁感应）.doc	1.21 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3276 2011年高考物理试题汇编（功和能）.doc	2.19 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3277 2011年高考物理试题汇编（恒定电流）.doc	1.05 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3278 2011年高考物理试题汇编（交流电）.doc	186.5 KB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3279 2011年高考物理试题汇编（静电场）.doc	554.5 KB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3280 2011年高考物理试题汇编（牛顿运动定律）.doc	920.5 KB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Copying No.3281 2011年高考物理试题汇编（曲线运动）.doc	1.84 MB
+23:1:10 Update index Done
+23:1:10 Update cache Done
+23:1:10 Queue total size: 20.18 MB
+23:1:10 Add 2011年高考物理试题汇编（曲线运动）.doc
+23:1:10 Commit Update
+23:3:10 Ready to Push
+23:3:10 Add Log

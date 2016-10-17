@@ -9417,3 +9417,161 @@
 15:2:10 CalledProcessError(1, ['git', 'push', '-u', 'origin', 'master'])
 15:2:10 Ready to Push
 15:2:10 Add Log
+15:2:10 Commit Update
+15:3:10 Ready to Push
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案13.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案14.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案15.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案2.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案3.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案4.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案5.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案6.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案7.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案8.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案9.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第三章_学案1.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第三章_学案2.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第三章_学案3.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第三章_学案4.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第三章_学案5.docx
+15:3:10 Delete /home/club/local/物理/2015-2016_高二年级/步步高配套资料/全书完整的Word版文档/第二章_学案12.docx
+15:3:10 Copying No.1445 第三章 学案5.docx	644.1 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1446 第三章 学案6.docx	686.13 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1447 第三章 学案6.docx	686.13 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1448 第三章 学案7.docx	690.27 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1449 第三章 学案7.docx	690.27 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1450 第三章 学案8.docx	389.6 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1451 第三章 学案8.docx	389.6 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1452 第一章 学案1.docx	790.79 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1453 第一章 学案1.docx	790.79 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1454 第一章 学案10.docx	394.1 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1455 第一章 学案10.docx	394.1 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1456 第一章 学案11.docx	542.39 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1457 第一章 学案11.docx	542.39 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1458 第一章 学案12.docx	368.21 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1459 第一章 学案12.docx	368.21 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1460 第一章 学案13.docx	295.87 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1461 第一章 学案13.docx	295.87 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1462 第一章 学案2.docx	392.11 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1463 第一章 学案2.docx	392.11 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1464 第一章 学案3.docx	579.51 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1465 第一章 学案3.docx	579.51 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1466 第一章 学案4.docx	378.73 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1467 第一章 学案4.docx	378.73 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1468 第一章 学案5.docx	460.81 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1469 第一章 学案5.docx	460.81 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1470 第一章 学案6.docx	260.9 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1471 第一章 学案6.docx	260.9 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1472 第一章 学案7.docx	315.72 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1473 第一章 学案7.docx	315.72 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1474 第一章 学案8.docx	383.1 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1475 第一章 学案8.docx	383.1 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1476 第一章 学案9.docx	524.96 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1477 第一章 学案9.docx	524.96 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1478 章末检测卷(二).docx	308.09 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1479 章末检测卷(二).docx	308.09 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1480 章末检测卷(三).docx	436.23 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1481 章末检测卷(三).docx	436.23 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1482 章末检测卷(一).docx	145.69 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1483 章末检测卷(一).docx	145.69 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1484 综合检测卷.docx	469.01 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1485 综合检测卷.docx	469.01 KB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Creating /home/club/local/物理/2015-2016 高二年级/第15讲 整体法和隔离法
+15:3:10 Creating /home/club/index/物理/2015-2016 高二年级/第15讲 整体法和隔离法
+15:3:10 Creating /home/club/cache/物理/2015-2016 高二年级/第15讲 整体法和隔离法
+15:3:10 Write dirs in index Done
+15:3:10 Write dirs in cache Done
+15:3:10 Copying No.1486 第15讲 整体法和隔离法.docx	1.22 MB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Copying No.1487 第15讲 整体法和隔离法.docx	1.22 MB
+15:3:10 Update index Done
+15:3:10 Update cache Done
+15:3:10 Queue total size: 20.28 MB
+15:3:10 Add 第15讲 整体法和隔离法.docx
+15:3:10 Commit Update
+15:4:10 Ready to Push
+15:4:10 Add Log

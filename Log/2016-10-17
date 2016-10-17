@@ -2606,3 +2606,23 @@
 10:10:10 CalledProcessError(1, ['git', 'push', '-u', 'origin', 'master'])
 10:10:10 Ready to Push
 10:10:10 Add Log
+10:10:10 Commit Update
+10:10:10 Ready to Push
+10:10:10 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/7-2.ppt
+10:10:10 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/8-1.ppt
+10:10:10 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/8-2.ppt
+10:10:10 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/7-1.ppt
+10:10:10 Copying No.311 8-3.ppt	10.14 MB
+10:10:10 Update index Done
+10:10:10 Update cache Done
+10:10:10 Copying No.312 9-1.ppt	6.31 MB
+10:10:10 Update index Done
+10:10:10 Update cache Done
+10:10:10 Copying No.313 9-2.ppt	7.42 MB
+10:10:10 Update index Done
+10:10:10 Update cache Done
+10:10:10 Queue total size: 23.87 MB
+10:10:10 Add 9-2.ppt
+10:10:10 Commit Update
+10:11:10 Ready to Push
+10:11:10 Add Log

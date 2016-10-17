@@ -15516,3 +15516,21 @@
 18:31:10 Commit Update
 18:34:10 Ready to Push
 18:34:10 Add Log
+18:34:10 Commit Update
+18:34:10 Ready to Push
+18:34:10 Delete /home/club/local/物理/2015级物理备课组/张老师/2008年井冈山/井冈山班主任_指挥细节.doc
+18:34:10 Delete /home/club/local/物理/2015级物理备课组/张老师/2008年井冈山/井冈山上七经济、教育_调查报告麻晓桐.doc
+18:34:10 Delete /home/club/local/物理/2015级物理备课组/张老师/2008年井冈山/上七片.doc
+18:34:10 Delete /home/club/local/物理/2015级物理备课组/张老师/2008年井冈山/走近井冈山（2）.ppt
+18:34:10 Delete /home/club/local/物理/2015级物理备课组/张老师/高二上/班主任工作/2016-2017学年度第一学期第2周晚自习值班安排表.xls
+18:34:10 Delete /home/club/local/物理/2015级物理备课组/张老师/高二上/班主任工作/第二次班会课.pptx
+18:34:10 Delete /home/club/local/物理/2015级物理备课组/张老师/2008年井冈山/2005年井冈山社会实践活动__李灵溪小组.doc
+18:34:10 Copying No.2636 第二次班会课.pptx	22.51 MB
+18:34:10 Update index Done
+18:34:10 Update cache Done
+18:34:10 Queue total size: 22.51 MB
+18:34:10 Add 第二次班会课.pptx
+18:34:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第二次班会课.pptx'])
+18:34:10 Commit Update
+18:34:10 Ready to Push
+18:34:10 Add Log

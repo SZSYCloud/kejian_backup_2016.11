@@ -3477,3 +3477,101 @@
 11:17:10 CalledProcessError(128, ['git', 'push', '-u', 'origin', 'master'])
 11:17:10 Ready to Push
 11:17:10 Add Log
+11:17:10 Commit Update
+11:17:10 Ready to Push
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2011年高考分类题库/新课标版/考点9__恒定电流.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点1_匀变速直线运动.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点10_热学.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点11_静电场.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点12_恒定电流.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点13_磁场.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点14_电磁感应.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点15_交变电流.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点16_电学实验.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点17_光学.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点18_热学、光学实验.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点19_电磁波_相对论量子论初步和原子物理.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点2_相互作用.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点3_牛顿运动定律.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点4_曲线运动.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点5_万有引力与航天.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点6_功和能.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点7_碰撞与动量守恒.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点8_机械振动与机械波.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/人教大纲版/考点9_力学实验.doc
+11:17:10 Delete /home/club/local/物理/2015-2016_高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2011年高考分类题库/新课标版/考点8__静电场.doc
+11:17:10 Creating /home/club/local/物理/2015-2016 高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/新课标版
+11:17:10 Creating /home/club/index/物理/2015-2016 高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/新课标版
+11:17:10 Creating /home/club/cache/物理/2015-2016 高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2012年高考分类题库/新课标版
+11:17:10 Write dirs in index Done
+11:17:10 Write dirs in cache Done
+11:17:10 Copying No.492 考点1 匀变速直线运动.doc	719.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.493 考点10 磁场.doc	1.17 MB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.494 考点11 电磁感应.doc	1.04 MB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.495 考点12 交变电流.doc	0.98 MB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.496 考点13 电学实验.doc	1.58 MB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.497 考点14 热学.doc	843.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.498 考点15 机械振动与机械波.doc	951.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.499 考点16 光学.doc	0.98 MB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.500 考点17 碰撞与动量守恒.doc	873.5 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.501 考点18 波粒二象性 原子物理.doc	789.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.502 考点2 相互作用.doc	865.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.503 考点3 牛顿运动定律.doc	927.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.504 考点4 曲线运动.doc	841.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.505 考点5 万有引力与航天.doc	862.5 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.506 考点6 功和能.doc	936.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.507 考点7 力学实验.doc	1.42 MB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.508 考点8 静电场.doc	878.5 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.509 考点9 恒定电流.doc	686.0 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Creating /home/club/local/物理/2015-2016 高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2013年高考分类题库
+11:17:10 Creating /home/club/index/物理/2015-2016 高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2013年高考分类题库
+11:17:10 Creating /home/club/cache/物理/2015-2016 高二年级/2017世纪金榜一轮复习物理人教课件/2011～2015高考分类题库/2013年高考分类题库
+11:17:10 Write dirs in index Done
+11:17:10 Write dirs in cache Done
+11:17:10 Copying No.510 考点1 匀变速直线运动.doc	909.5 KB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Copying No.511 考点10  磁场.doc	2.63 MB
+11:17:10 Update index Done
+11:17:10 Update cache Done
+11:17:10 Queue total size: 20.61 MB
+11:17:10 Add 考点10  磁场.doc
+11:17:10 Commit Update
+11:17:10 Ready to Push
+11:17:10 Add Log

@@ -7854,3 +7854,17 @@
 13:14:10 Commit Update
 13:22:10 Ready to Push
 13:22:10 Add Log
+13:22:10 Commit Update
+13:22:10 Ready to Push
+13:22:10 Delete /home/club/local/化学/C_2017届高三年级/林进太/2016-5-6/第一章_第1讲_[修复的].ppt
+13:22:10 Delete /home/club/local/化学/C_2017届高三年级/林进太/2016-5-6/第一章_第1讲.pptx
+13:22:10 Delete /home/club/local/化学/C_2017届高三年级/林进太/2016-5-31/第一章_第4讲.pptx
+13:22:10 Copying No.1267 第一章 第1讲.pptx	39.18 MB
+13:22:10 Update index Done
+13:22:10 Update cache Done
+13:22:10 Queue total size: 39.18 MB
+13:22:10 Add 第一章 第1讲.pptx
+13:22:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第一章 第1讲.pptx'])
+13:22:10 Commit Update
+13:22:10 Ready to Push
+13:22:10 Add Log

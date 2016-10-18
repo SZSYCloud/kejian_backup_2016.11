@@ -4929,3 +4929,27 @@
 9:15:10 Commit Update
 9:42:10 Ready to Push
 9:42:10 Add Log
+9:42:10 Commit Update
+9:42:10 Ready to Push
+9:42:10 Delete /home/club/local/化学/2016.8.31/中学化学常用仪器大全/中学化学常用仪器大全.doc
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/2016-2017高二化学第一阶段考试参考答案.docx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/2016-2017高二化学第一阶段考试卷.docx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/演示文稿1.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/10.16_化学平衡转化率（新）.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/10.2_化学平衡及其标志.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/10.8_化学平衡移动.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/9.11_燃烧热_能源.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/9.17盖斯定律，反应热的计算.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/9.19_化学反应速率.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/9.22_影响化学反应速率的因素.pptx
+9:42:10 Delete /home/club/local/化学/B_2018届高二年级/黄毓展/9.6_化学反应与能量变化、_热化学反应方程式.pptx
+9:42:10 Delete /home/club/local/化学/2016.8.31/中学化学常用方程式大全/中学化学常用方程式大全.doc
+9:42:10 Copying No.692 9.6 化学反应与能量变化、 热化学反应方程式.pptx	38.93 MB
+9:42:10 Update index Done
+9:42:10 Update cache Done
+9:42:10 Queue total size: 38.93 MB
+9:42:10 Add 9.6 化学反应与能量变化、 热化学反应方程式.pptx
+9:42:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 9.6 化学反应与能量变化、 热化学反应方程式.pptx'])
+9:42:10 Commit Update
+9:42:10 Ready to Push
+9:42:10 Add Log

@@ -14533,3 +14533,472 @@
 16:23:10 Commit Update
 16:23:10 Ready to Push
 16:23:10 Add Log
+16:23:10 Commit Update
+16:26:10 CalledProcessError(128, ['git', 'push', '-u', 'origin', 'master'])
+16:26:10 Ready to Push
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/语文/分数段_3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/语文/小题分_3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/语文/小题分析_3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/政治/分数段_3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/政治/小题分_3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/政治/小题分析_3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/总分/分数段_3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/各科综合_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/学生成绩_理科_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/学生成绩_文科_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/地理/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/地理/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/地理/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/化学/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/化学/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/化学/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/理科综合/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/理科综合/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/理科综合/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/历史/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/历史/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/历史/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/生物/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/生物/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/生物/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/数学/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/数学/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/数学/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/文科综合/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/文科综合/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/文科综合/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/物理/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/物理/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/物理/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/英语/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/英语/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/英语/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/语文/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/语文/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/语文/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/政治/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/政治/小题分_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/政治/小题分析_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/4/总分/分数段_4.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/各科综合_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/学生成绩_理科_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/学生成绩_文科_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/地理/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/地理/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/地理/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/化学/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/化学/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/化学/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/理科综合/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/理科综合/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/理科综合/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/历史/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/历史/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/历史/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/生物/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/生物/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/生物/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/数学/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/数学/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/数学/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/文科综合/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/文科综合/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/文科综合/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/物理/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/物理/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/物理/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/英语/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/英语/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/英语/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/语文/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/语文/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/语文/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/政治/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/政治/小题分_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/政治/小题分析_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/5/总分/分数段_5.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/各科综合_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/学生成绩_理科_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/学生成绩_文科_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/地理/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/地理/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/地理/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/化学/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/化学/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/化学/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/理科综合/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/理科综合/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/理科综合/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/历史/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/历史/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/历史/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/生物/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/生物/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/生物/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/数学/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/数学/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/数学/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/文科综合/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/文科综合/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/文科综合/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/物理/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/物理/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/物理/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/英语/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/英语/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/英语/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/语文/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/语文/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/语文/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/政治/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/政治/小题分_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/政治/小题分析_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/6/总分/分数段_6.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/各科综合_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/学生成绩_理科_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/学生成绩_文科_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/地理/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/地理/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/地理/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/化学/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/化学/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/化学/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/理科综合/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/理科综合/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/理科综合/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/历史/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/历史/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/历史/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/生物/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/生物/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/生物/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/数学/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/数学/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/数学/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/文科综合/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/文科综合/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/文科综合/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/物理/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/物理/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/物理/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/英语/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/英语/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/英语/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/语文/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/语文/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/语文/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/政治/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/政治/小题分_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/政治/小题分析_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/7/总分/分数段_7.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/各科综合_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/学生成绩_理科_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/学生成绩_文科_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/地理/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/地理/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/地理/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/化学/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/化学/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/化学/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/理科综合/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/理科综合/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/理科综合/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/历史/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/历史/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/历史/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/生物/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/生物/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/生物/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/数学/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/数学/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/数学/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/文科综合/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/文科综合/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/文科综合/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/物理/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/物理/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/物理/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/英语/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/英语/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/英语/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/语文/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/语文/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/语文/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/政治/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/政治/小题分_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/政治/小题分析_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/8/总分/分数段_8.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/各科综合_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/学生成绩_理科_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/学生成绩_文科_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/地理/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/地理/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/地理/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/化学/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/化学/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/化学/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/理科综合/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/理科综合/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/理科综合/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/历史/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/历史/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/历史/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/生物/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/生物/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/生物/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/数学/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/数学/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/数学/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/文科综合/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/文科综合/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/文科综合/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/物理/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/物理/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/物理/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/英语/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/英语/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/英语/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/语文/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/语文/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/语文/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/政治/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/政治/小题分_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/政治/小题分析_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/9/总分/分数段_9.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/各科综合.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/平均分对比_理科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/平均分对比_文科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/上线情况_理科1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/上线情况_理科2.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/上线情况_理科3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/上线情况_文科1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/上线情况_文科2.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/上线情况_文科3.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/学科分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/学生成绩_理科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/学生成绩_文科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/学生学科分组分析_理科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/学生学科分组分析_文科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/地理/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/化学/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/学科分组分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/学科分组小题分（化学）.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/学科分组小题分（生物）.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/学科分组小题分（物理）.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/理科综合/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/历史/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/生物/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/数学/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/学科分组分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/学科分组小题分（地理）.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/学科分组小题分（历史）.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/学科分组小题分（政治）.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/文科综合/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/物理/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/英语/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/语文/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/分数段对比(横).xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/分数段对比(竖)1.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/名次段分布.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/小题分.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/小题分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/小题平均分对比.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/小题掌握情况分析.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/政治/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/分数段.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/分数段对比(横)_理科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/分数段对比(横)_文科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/分数段对比(竖)1_理科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/分数段对比(竖)1_文科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/基本指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/名次段分布_理科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/名次段分布_文科.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/综合指标.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/综合指标_理.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/全校报表/总分/综合指标_文.xls
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/高一化学素质竞赛/2011年全国高中竞赛复赛试题、答题卡及答案（广东省B组高一）.doc
+16:26:10 Delete /home/club/local/化学/C_江喻周蒋李/jhs/高一第二阶段考成绩排名及分析/班级报表/3/英语/小题分析_3.xls
+16:26:10 Copying No.2504 2011年验能力竞赛初赛试题（广东省B组）及答案（纯WORD版）.doc	455.0 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2505 2012年全国高中素质竞赛(广东省B组)高一.docx	3.87 MB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2506 2012年全国高中素质竞赛(广东省B组)高一.docx	3.87 MB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2507 2012年全国高中学生化学素质和实验能力竞赛复赛（B组）试题及答案.doc	339.5 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2508 2013年广东省高中学生化学竞赛试题（正式题的答案）.doc	130.0 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2509 选修物质结构与性质1.1.ppt	1.48 MB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2510 选修物质结构与性质1.2.ppt	1.67 MB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Creating /home/club/local/化学/C_江喻周蒋李/公用
+16:26:10 Creating /home/club/index/化学/C_江喻周蒋李/公用
+16:26:10 Creating /home/club/cache/化学/C_江喻周蒋李/公用
+16:26:10 Write dirs in index Done
+16:26:10 Write dirs in cache Done
+16:26:10 Copying No.2511 0-2015年广东省高中化学竞赛师生获奖名单（公布）.xls	48.0 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2512 2012高三复习立足课本 细节是关键.docx	21.49 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2513 2012高三复习立足课本 细节是关键.docx	21.49 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2514 2016高三第二轮化学反应原理专题训练.doc	2.59 MB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2515 2016高三化学试卷（2）.doc	923.0 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2516 2016广州市高考模拟考试理科综合试题.doc	0.98 MB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2517 2016届高三化学测验试题.doc	818.0 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2518 2016届高三年级化学试题.doc	473.5 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2519 高三化学实验展有关问题20160406.doc	127.0 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2520 广东省肇庆市2015年高考化学二模试卷（解析版）.doc	194.5 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2521 化学工业生产流程题图示.doc	793.0 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2522 控制变量测定化学反应速率中的应用.docx	412.82 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2523 控制变量测定化学反应速率中的应用.docx	412.82 KB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Copying No.2524 理综试题（A卷）.doc	1.27 MB
+16:26:10 Update index Done
+16:26:10 Update cache Done
+16:26:10 Queue total size: 20.77 MB
+16:26:10 Add 理综试题（A卷）.doc
+16:26:10 Commit Update
+16:27:10 Ready to Push
+16:27:10 Add Log

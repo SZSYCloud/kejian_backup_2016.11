@@ -6599,3 +6599,69 @@
 13:1:10 Commit Update
 13:1:10 Ready to Push
 13:1:10 Add Log
+13:1:10 Commit Update
+13:1:10 Ready to Push
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/动态模板PPT.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/风.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/高画质的精美PPT.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/古典风韵.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/荷韵.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/黑色.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/红白经典.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/红色幕布.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/金格子商务.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/精美彩色立体图表ppt.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/经典商务.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/蓝色背景多图案.ppt
+13:1:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/灯光.ppt
+13:1:10 Copying No.382 蓝色格调.ppt	975.5 KB
+13:1:10 Update index Done
+13:1:10 Update cache Done
+13:1:10 Copying No.383 蓝色简约.ppt	174.5 KB
+13:1:10 Update index Done
+13:1:10 Update cache Done
+13:1:10 Copying No.384 兰花.ppt	401.5 KB
+13:1:10 Update index Done
+13:1:10 Update cache Done
+13:1:10 Copying No.385 梅花.ppt	647.0 KB
+13:1:10 Update index Done
+13:1:10 Update cache Done
+13:1:10 Copying No.386 模板小人红.ppt	257.5 KB
+13:1:10 Update index Done
+13:1:10 Update cache Done
+13:1:10 Copying No.387 木质背景.ppt	4.44 MB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.388 目录形式.ppt	4.21 MB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.389 牛皮纸.ppt	750.5 KB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.390 生如夏花艺术PPT.ppt	702.5 KB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.391 时尚模板PPT.ppt	1.58 MB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.392 实用创意模板PPT.ppt	3.97 MB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.393 水墨.ppt	286.0 KB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.394 水墨梅花.ppt	567.5 KB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.395 水墨中国.ppt	939.5 KB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Copying No.396 图表模板大全.ppt	8.85 MB
+13:2:10 Update index Done
+13:2:10 Update cache Done
+13:2:10 Queue total size: 28.62 MB
+13:2:10 Add 图表模板大全.ppt
+13:2:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 图表模板大全.ppt'])
+13:2:10 Commit Update
+13:2:10 Ready to Push
+13:2:10 Add Log

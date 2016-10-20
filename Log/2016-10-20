@@ -26831,3 +26831,18 @@
 20:5:10 Commit Update
 20:5:10 Ready to Push
 20:5:10 Add Log
+20:5:10 Commit Update
+20:5:10 Ready to Push
+20:5:10 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第14讲_第2课时__导数与函数的极值、最值.pptx
+20:5:10 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第14讲_第3课时__导数的应用.pptx
+20:5:10 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第15讲__定积分与微积分基本定理.pptx
+20:5:10 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+20:5:10 Copying No.4358 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx	34.51 MB
+20:5:10 Update index Done
+20:5:10 Update cache Done
+20:5:10 Queue total size: 34.51 MB
+20:5:10 Add 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+20:5:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx'])
+20:5:10 Commit Update
+20:5:10 Ready to Push
+20:5:10 Add Log

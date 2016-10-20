@@ -13843,3 +13843,19 @@
 13:48:10 Commit Update
 13:48:10 Ready to Push
 13:48:10 Add Log
+13:48:10 Commit Update
+13:48:10 Ready to Push
+13:48:10 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题四_数列-数学（理科）-全国卷地区专用.pptx
+13:48:10 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题五_立体几何-数学（理科）-全国卷地区专用.pptx
+13:48:10 Copying No.1619 专题五 立体几何-数学（理科）-全国卷地区专用.pptx	15.63 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Copying No.1620 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx	16.76 MB
+13:48:10 Update index Done
+13:48:10 Update cache Done
+13:48:10 Queue total size: 32.39 MB
+13:48:10 Add 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx
+13:48:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx'])
+13:48:10 Commit Update
+13:48:10 Ready to Push
+13:48:10 Add Log

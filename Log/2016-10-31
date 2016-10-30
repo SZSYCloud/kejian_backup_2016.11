@@ -21072,3 +21072,52 @@
 2:22:10 Commit Update
 2:22:10 Ready to Push
 2:22:10 Add Log
+2:22:10 Commit Update
+2:22:10 Ready to Push
+2:22:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第2课.ppt
+2:22:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第3课.ppt
+2:22:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第4课.ppt
+2:22:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第5课.ppt
+2:22:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第6课.ppt
+2:22:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第7课.ppt
+2:22:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第1课.ppt
+2:22:10 Copying No.3778 第8课.ppt	3.42 MB
+2:22:10 Update index Done
+2:22:10 Update cache Done
+2:22:10 Copying No.3779 第9课.ppt	2.32 MB
+2:22:10 Update index Done
+2:22:10 Update cache Done
+2:22:10 Copying No.3780 写作导学案1.ppt	1.86 MB
+2:22:10 Update index Done
+2:22:10 Update cache Done
+2:22:10 Copying No.3781 写作导学案2.ppt	2.15 MB
+2:22:10 Update index Done
+2:22:10 Update cache Done
+2:22:10 Copying No.3782 写作导学案3.ppt	1.85 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3783 写作导学案4.ppt	1.99 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Passing /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构
+2:23:10 Passing /home/club/index/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构
+2:23:10 Passing /home/club/cache/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构
+2:23:10 Read index Done
+2:23:10 Read cache Done
+2:23:10 Write dirs in index Done
+2:23:10 Write dirs in cache Done
+2:23:10 Copying No.3784 【语文】第10课《短文三篇》课件1（人教版必修4）.ppt	3.09 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3785 【语文】第10课《短文三篇》课件2（人教版必修4）.ppt	2.49 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3786 【语文】第11课《廉颇蔺相如列传》课件1（人教版必修4）.ppt	3.25 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Queue total size: 22.42 MB
+2:23:10 Add 【语文】第11课《廉颇蔺相如列传》课件1（人教版必修4）.ppt
+2:23:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第11课《廉颇蔺相如列传》课件1（人教版必修4）.ppt'])
+2:23:10 Commit Update
+2:23:10 Ready to Push
+2:23:10 Add Log

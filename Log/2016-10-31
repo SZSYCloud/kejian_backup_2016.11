@@ -53533,3 +53533,25 @@
 7:53:10 Commit Update
 7:53:10 Ready to Push
 7:53:10 Add Log
+7:53:10 Commit Update
+7:53:10 Ready to Push
+7:53:10 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx
+7:53:10 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题六_解析几何-数学（理科）-全国卷地区专用.pptx
+7:53:10 Copying No.1599 专题七 概率与统计-数学（理科）-全国卷地区专用.pptx	7.42 MB
+7:53:10 Update index Done
+7:53:10 Update cache Done
+7:53:10 Copying No.1600 专题七 概率与统计-数学（理科）-全国卷地区专用.pptx	7.42 MB
+7:53:10 Update index Done
+7:53:10 Update cache Done
+7:53:10 Copying No.1601 专题三 三角函数、三角恒等变换与解三角形-数学（理科）-全国卷地区专用.pptx	4.94 MB
+7:53:10 Update index Done
+7:53:10 Update cache Done
+7:53:10 Copying No.1602 专题三 三角函数、三角恒等变换与解三角形-数学（理科）-全国卷地区专用.pptx	4.94 MB
+7:53:10 Update index Done
+7:53:10 Update cache Done
+7:53:10 Queue total size: 24.72 MB
+7:53:10 Add 专题三 三角函数、三角恒等变换与解三角形-数学（理科）-全国卷地区专用.pptx
+7:53:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题三 三角函数、三角恒等变换与解三角形-数学（理科）-全国卷地区专用.pptx'])
+7:53:10 Commit Update
+7:53:10 Ready to Push
+7:53:10 Add Log

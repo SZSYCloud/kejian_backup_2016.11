@@ -25295,3 +25295,66 @@
 2:35:10 Commit Update
 2:35:10 Ready to Push
 2:35:10 Add Log
+2:35:10 Commit Update
+2:35:10 Ready to Push
+2:35:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/【红树主人人教版选修_古代诗文】-中国古代散文发展概述(修改稿).ppt
+2:35:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/【红树主人人教版选修_古代诗文】-中国古代诗歌发展概述(修改稿).ppt
+2:35:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/【名著导读】人教版必修5-《三国演义》（2015版）.pptx
+2:35:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/【名著导读】人教版必修5-《堂吉诃德》（2015版）.ppt
+2:35:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/【红树主人】2015RJ必修5课件-名著导读_三国演义.pptx
+2:35:10 Copying No.4496 必修五——归去来兮辞(很实用).ppt	5.28 MB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4497 边城2015.ppt	378.0 KB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4498 登岳阳楼鉴赏.docx	14.06 KB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4499 登岳阳楼鉴赏.docx	14.06 KB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4500 第9课说木叶.ppt	1.15 MB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4501 说木叶.ppt	146.5 KB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4502 说木叶教案.doc	27.5 KB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4503 滕王阁序d.ppt	1.06 MB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Passing /home/club/local/语文/【2017届】高三语文共享文件/教学课件/2014高一新闻阅读训练
+2:35:10 Passing /home/club/index/语文/【2017届】高三语文共享文件/教学课件/2014高一新闻阅读训练
+2:35:10 Passing /home/club/cache/语文/【2017届】高三语文共享文件/教学课件/2014高一新闻阅读训练
+2:35:10 Read index Done
+2:35:10 Read cache Done
+2:35:10 Write dirs in index Done
+2:35:10 Write dirs in cache Done
+2:35:10 Copying No.4504 2014高一新闻阅读指导训练（二）.doc	62.5 KB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Copying No.4505 2014高一新闻阅读指导训练（一）.doc	67.5 KB
+2:35:10 Update index Done
+2:35:10 Update cache Done
+2:35:10 Passing /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）
+2:35:10 Passing /home/club/index/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）
+2:35:10 Passing /home/club/cache/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）
+2:35:10 Read index Done
+2:35:10 Read cache Done
+2:35:10 Write dirs in index Done
+2:35:10 Write dirs in cache Done
+2:35:10 Copying No.4506 必修2-探究梳理01-成语 中华文化的微缩景观（红树主人）.ppt	9.98 MB
+2:36:10 Update index Done
+2:36:10 Update cache Done
+2:36:10 Copying No.4507 必修2-探究梳理02-修辞无处不在（红树主人）.ppt	3.64 MB
+2:36:10 Update index Done
+2:36:10 Update cache Done
+2:36:10 Queue total size: 21.81 MB
+2:36:10 Add 必修2-探究梳理02-修辞无处不在（红树主人）.ppt
+2:36:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 必修2-探究梳理02-修辞无处不在（红树主人）.ppt'])
+2:36:10 Commit Update
+2:36:10 Ready to Push
+2:36:10 Add Log

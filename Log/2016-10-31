@@ -19100,3 +19100,43 @@
 2:11:10 Commit Update
 2:11:10 Ready to Push
 2:11:10 Add Log
+2:11:10 Commit Update
+2:11:10 Ready to Push
+2:11:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第一节_专题一.docx
+2:11:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第一节_专题三_考点一.docx
+2:11:10 Copying No.3375 现代文阅读 第二章 第一节 专题一.docx	8.88 MB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3376 现代文阅读 第三章 专题二.docx	134.31 KB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3377 现代文阅读 第三章 专题二.docx	134.31 KB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3378 现代文阅读 第三章 专题三 考点二.docx	103.66 KB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3379 现代文阅读 第三章 专题三 考点二.docx	103.66 KB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3380 现代文阅读 第三章 专题三 考点三.docx	104.6 KB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3381 现代文阅读 第三章 专题三 考点三.docx	104.6 KB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3382 现代文阅读 第三章 专题三 考点四.docx	1.31 MB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3383 现代文阅读 第三章 专题三 考点四.docx	1.31 MB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Copying No.3384 现代文阅读 第三章 专题三 考点一.docx	17.05 MB
+2:11:10 Update index Done
+2:11:10 Update cache Done
+2:11:10 Queue total size: 29.23 MB
+2:11:10 Add 现代文阅读 第三章 专题三 考点一.docx
+2:11:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 现代文阅读 第三章 专题三 考点一.docx'])
+2:11:10 Commit Update
+2:11:10 Ready to Push
+2:11:10 Add Log

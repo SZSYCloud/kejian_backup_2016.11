@@ -18803,3 +18803,21 @@
 2:7:10 Commit Update
 2:7:10 Ready to Push
 2:7:10 Add Log
+2:7:10 Commit Update
+2:8:10 Ready to Push
+2:8:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/古代诗文阅读_第二章_专题三_考点一.docx
+2:8:10 Copying No.3310 古代诗文阅读 第二章 专题一.docx	8.91 MB
+2:8:10 Update index Done
+2:8:10 Update cache Done
+2:8:10 Copying No.3311 古代诗文阅读 第二章 专题一.docx	8.91 MB
+2:8:10 Update index Done
+2:8:10 Update cache Done
+2:8:10 Copying No.3312 古代诗文阅读 第三章.docx	10.34 MB
+2:8:10 Update index Done
+2:8:10 Update cache Done
+2:8:10 Queue total size: 28.16 MB
+2:8:10 Add 古代诗文阅读 第三章.docx
+2:8:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 古代诗文阅读 第三章.docx'])
+2:8:10 Commit Update
+2:8:10 Ready to Push
+2:8:10 Add Log

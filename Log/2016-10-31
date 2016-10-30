@@ -20358,3 +20358,46 @@
 2:18:10 Commit Update
 2:18:10 Ready to Push
 2:18:10 Add Log
+2:18:10 Commit Update
+2:18:10 Ready to Push
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第4课《诗经两首—采薇》课件1（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第4课《诗经两首—采薇》课件2（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第4课《诗经两首—氓》课件1（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第4课《诗经两首—氓》课件2（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第5课《离骚》课件1（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第5课《离骚》课件2（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第6课《孔雀东南飞》课件1（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第3课《囚绿记》课件2（人教版必修2）.ppt
+2:18:10 Copying No.3642 【语文】第6课《孔雀东南飞》课件2（人教版必修2）.ppt	6.99 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3643 【语文】第7课《归园田居（其一）》课件1（人教版必修2）.ppt	1.54 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3644 【语文】第7课《归园田居（其一）》课件2（人教版必修2）.ppt	2.02 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3645 【语文】第7课《诗三首—短歌行》课件1（人教版必修2）.ppt	1.96 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3646 【语文】第7课《诗三首—短歌行》课件2（人教版必修2）.ppt	1.25 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3647 【语文】第7课《诗三首—涉江采芙蓉》课件1（人教版必修2）.ppt	1.84 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3648 【语文】第7课《诗三首—涉江采芙蓉》课件2（人教版必修2）.ppt	1.56 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3649 【语文】第8课《兰亭集序 》课件1（人教版必修2）.ppt	1.33 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3650 【语文】第8课《兰亭集序 》课件2（人教版必修2）.ppt	4.26 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Queue total size: 22.74 MB
+2:18:10 Add 【语文】第8课《兰亭集序 》课件2（人教版必修2）.ppt
+2:18:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第8课《兰亭集序 》课件2（人教版必修2）.ppt'])
+2:18:10 Commit Update
+2:18:10 Ready to Push
+2:18:10 Add Log

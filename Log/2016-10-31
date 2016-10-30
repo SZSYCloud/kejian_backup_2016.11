@@ -48278,3 +48278,36 @@
 7:24:10 Commit Update
 7:25:10 Ready to Push
 7:25:10 Add Log
+7:25:10 Commit Update
+7:25:10 Ready to Push
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/陈西雄/3.2.1.1几类不同增长的函数模型.ppt
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/陈西雄/3.2.1.2几类不同增长的函数模型第二课时.ppt
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/陈西雄/二次函数根的分布问题.ppt
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/陈西雄/一元二次方程根的分布.ppt
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/方善泽/2016高一（2）班数学作业及成绩登记册.xls
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/方善泽/2016深圳实验学校高中部高一（2）班数学作业.docx
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/方善泽/fsz.pptx
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/方善泽/高一（2）班课外作业讲评稿.ppt
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/方善泽/高一数学教案（11）函数的概念习题课.ppt
+7:25:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/陈西雄/3.1.2用二分法求方程的近似解.ppt
+7:25:10 Copying No.808 高一数学教案（12）函数的性质习题课（1）.ppt	4.26 MB
+7:25:10 Update index Done
+7:25:10 Update cache Done
+7:25:10 Copying No.809 高一数学教案（12）函数的性质习题课（2）.ppt	4.18 MB
+7:25:10 Update index Done
+7:25:10 Update cache Done
+7:25:10 Copying No.810 高一数学教案（13）指数函数的图象与性质习题课.ppt	4.36 MB
+7:25:10 Update index Done
+7:25:10 Update cache Done
+7:25:10 Copying No.811 高一数学教案（14）对数函数的图象与性质.ppt	4.55 MB
+7:25:10 Update index Done
+7:25:10 Update cache Done
+7:25:10 Copying No.812 高一数学教案（14）对数函数的图象与性质（2）.ppt	4.32 MB
+7:25:10 Update index Done
+7:25:10 Update cache Done
+7:25:10 Queue total size: 21.67 MB
+7:25:10 Add 高一数学教案（14）对数函数的图象与性质（2）.ppt
+7:25:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 高一数学教案（14）对数函数的图象与性质（2）.ppt'])
+7:25:10 Commit Update
+7:25:10 Ready to Push
+7:25:10 Add Log

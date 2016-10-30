@@ -21121,3 +21121,41 @@
 2:23:10 Commit Update
 2:23:10 Ready to Push
 2:23:10 Add Log
+2:23:10 Commit Update
+2:23:10 Ready to Push
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第9课.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案1.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案2.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案3.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案4.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构/【语文】第10课《短文三篇》课件1（人教版必修4）.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构/【语文】第10课《短文三篇》课件2（人教版必修4）.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构/【语文】第11课《廉颇蔺相如列传》课件1（人教版必修4）.ppt
+2:23:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第8课.ppt
+2:23:10 Copying No.3787 【语文】第11课《廉颇蔺相如列传》课件2（人教版必修4）.ppt	2.82 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3788 【语文】第12课《苏武传》课件1（人教版必修4）.ppt	3.88 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3789 【语文】第12课《苏武传》课件2（人教版必修4）.ppt	3.03 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3790 【语文】第13课《张衡传》课件1（人教版必修4）.ppt	2.86 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3791 【语文】第13课《张衡传》课件2（人教版必修4）.ppt	2.43 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3792 【语文】第1课《窦娥冤》课件1（人教版必修4）.ppt	3.85 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Copying No.3793 【语文】第1课《窦娥冤》课件2（人教版必修4）.ppt	2.59 MB
+2:23:10 Update index Done
+2:23:10 Update cache Done
+2:23:10 Queue total size: 21.46 MB
+2:23:10 Add 【语文】第1课《窦娥冤》课件2（人教版必修4）.ppt
+2:23:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第1课《窦娥冤》课件2（人教版必修4）.ppt'])
+2:23:10 Commit Update
+2:23:10 Ready to Push
+2:23:10 Add Log

@@ -19012,3 +19012,42 @@
 2:9:10 Commit Update
 2:9:10 Ready to Push
 2:9:10 Add Log
+2:9:10 Commit Update
+2:10:10 Ready to Push
+2:10:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点二.docx
+2:10:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点六.docx
+2:10:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点三.docx
+2:10:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点四.docx
+2:10:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点五.docx
+2:10:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点一.docx
+2:10:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/考场作文增分技法与训练_训练一.docx
+2:10:10 Copying No.3359 现代文阅读 第二章 第二节 专题二 考点一.docx	17.14 MB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Copying No.3360 现代文阅读 第二章 第二节 专题一.docx	1.13 MB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Copying No.3361 现代文阅读 第二章 第二节 专题一.docx	1.13 MB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Copying No.3362 现代文阅读 第二章 第一节 专题二.docx	188.3 KB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Copying No.3363 现代文阅读 第二章 第一节 专题二.docx	188.3 KB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Copying No.3364 现代文阅读 第二章 第一节 专题三 考点二.docx	91.12 KB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Copying No.3365 现代文阅读 第二章 第一节 专题三 考点二.docx	91.12 KB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Copying No.3366 现代文阅读 第二章 第一节 专题三 考点三.docx	1.68 MB
+2:10:10 Update index Done
+2:10:10 Update cache Done
+2:10:10 Queue total size: 21.62 MB
+2:10:10 Add 现代文阅读 第二章 第一节 专题三 考点三.docx
+2:10:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 现代文阅读 第二章 第一节 专题三 考点三.docx'])
+2:10:10 Commit Update
+2:10:10 Ready to Push
+2:10:10 Add Log

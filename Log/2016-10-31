@@ -20322,3 +20322,39 @@
 2:18:10 Commit Update
 2:18:10 Ready to Push
 2:18:10 Add Log
+2:18:10 Commit Update
+2:18:10 Ready to Push
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第2课《故都的秋》课件1（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第2课《故都的秋》课件2（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第3课《囚绿记》课件1（人教版必修2）.ppt
+2:18:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修2/同课异构课件/【语文】第1课《荷塘月色》课件2（人教版必修2）.ppt
+2:18:10 Copying No.3634 【语文】第3课《囚绿记》课件2（人教版必修2）.ppt	4.42 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3635 【语文】第4课《诗经两首—采薇》课件1（人教版必修2）.ppt	941.0 KB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3636 【语文】第4课《诗经两首—采薇》课件2（人教版必修2）.ppt	2.18 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3637 【语文】第4课《诗经两首—氓》课件1（人教版必修2）.ppt	0.99 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3638 【语文】第4课《诗经两首—氓》课件2（人教版必修2）.ppt	1.87 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3639 【语文】第5课《离骚》课件1（人教版必修2）.ppt	3.57 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3640 【语文】第5课《离骚》课件2（人教版必修2）.ppt	3.02 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Copying No.3641 【语文】第6课《孔雀东南飞》课件1（人教版必修2）.ppt	4.01 MB
+2:18:10 Update index Done
+2:18:10 Update cache Done
+2:18:10 Queue total size: 20.98 MB
+2:18:10 Add 【语文】第6课《孔雀东南飞》课件1（人教版必修2）.ppt
+2:18:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第6课《孔雀东南飞》课件1（人教版必修2）.ppt'])
+2:18:10 Commit Update
+2:18:10 Ready to Push
+2:18:10 Add Log

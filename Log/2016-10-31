@@ -20829,3 +20829,39 @@
 2:20:10 Commit Update
 2:21:10 Ready to Push
 2:21:10 Add Log
+2:21:10 Commit Update
+2:21:10 Ready to Push
+2:21:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第2课《祝福》课件2（人教版必修3）.ppt
+2:21:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第3课《老人与海》课件1（人教版必修3）.ppt
+2:21:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第3课《老人与海》课件2（人教版必修3）.ppt
+2:21:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第4课《蜀道难》课件1（人教版必修3）.ppt
+2:21:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第4课《蜀道难》课件2（人教版必修3）.ppt
+2:21:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第5课《杜甫诗三首》课件1（人教版必修3）.ppt
+2:21:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第2课《祝福》课件1（人教版必修3）.ppt
+2:21:10 Copying No.3732 【语文】第5课《杜甫诗三首》课件2（人教版必修3）.ppt	3.95 MB
+2:21:10 Update index Done
+2:21:10 Update cache Done
+2:21:10 Copying No.3733 【语文】第6课《琵琶行（并序）》课件1（人教版必修3）.ppt	3.14 MB
+2:21:10 Update index Done
+2:21:10 Update cache Done
+2:21:10 Copying No.3734 【语文】第6课《琵琶行（并序）》课件2（人教版必修3）.ppt	2.35 MB
+2:21:10 Update index Done
+2:21:10 Update cache Done
+2:21:10 Copying No.3735 【语文】第7课《李商隐诗两首》课件（人教版必修3）.ppt	2.99 MB
+2:21:10 Update index Done
+2:21:10 Update cache Done
+2:21:10 Copying No.3736 【语文】第8课《寡人之于国也》课件1（人教版必修3）.ppt	2.96 MB
+2:21:10 Update index Done
+2:21:10 Update cache Done
+2:21:10 Copying No.3737 【语文】第8课《寡人之于国也》课件2（人教版必修3）.ppt	4.35 MB
+2:21:10 Update index Done
+2:21:10 Update cache Done
+2:21:10 Copying No.3738 【语文】第9课《劝学》课件1（人教版必修3）.ppt	3.12 MB
+2:21:10 Update index Done
+2:21:10 Update cache Done
+2:21:10 Queue total size: 22.86 MB
+2:21:10 Add 【语文】第9课《劝学》课件1（人教版必修3）.ppt
+2:21:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第9课《劝学》课件1（人教版必修3）.ppt'])
+2:21:10 Commit Update
+2:21:10 Ready to Push
+2:21:10 Add Log

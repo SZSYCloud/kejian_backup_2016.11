@@ -36093,3 +36093,39 @@
 3:6:10 Commit Update
 3:6:10 Ready to Push
 3:6:10 Add Log
+3:6:10 Commit Update
+3:6:10 Ready to Push
+3:6:10 Delete /home/club/local/语文/封清华/封清华/诗歌鉴赏之表达技巧1.pptx
+3:6:10 Delete /home/club/local/语文/封清华/封清华/诗歌鉴赏之形象.pptx
+3:6:10 Delete /home/club/local/语文/封清华/封清华/图文转换__上课用2.pptx
+3:6:10 Delete /home/club/local/语文/封清华/封清华/为什么说范玮琪晒娃活该被骂.docx
+3:6:10 Delete /home/club/local/语文/封清华/封清华/文言句式.pptx
+3:6:10 Delete /home/club/local/语文/封清华/封清华/文言实词fanyi.doc
+3:6:10 Delete /home/club/local/语文/封清华/封清华/文言实词的推断方法.ppt
+3:6:10 Delete /home/club/local/语文/封清华/封清华/文言实词经典试题100道.doc
+3:6:10 Delete /home/club/local/语文/封清华/封清华/文言文翻译1.ppt
+3:6:10 Delete /home/club/local/语文/封清华/封清华/文言虚词教师版.ppt
+3:6:10 Copying No.6579 小说阅读复习1.pptx	206.9 KB
+3:6:10 Update index Done
+3:6:10 Update cache Done
+3:6:10 Copying No.6580 小说阅读复习1.pptx	206.9 KB
+3:6:10 Update index Done
+3:6:10 Update cache Done
+3:6:10 Copying No.6581 新建 Microsoft Word 文档.docx	4.71 MB
+3:6:10 Update index Done
+3:6:10 Update cache Done
+3:6:10 Copying No.6582 新建 Microsoft Word 文档.docx	4.71 MB
+3:6:10 Update index Done
+3:6:10 Update cache Done
+3:6:10 Copying No.6583 新闻阅读   新闻文体和结构类题目的4种考法.ppt	750.0 KB
+3:6:10 Update index Done
+3:6:10 Update cache Done
+3:6:10 Copying No.6584 学会戴着镣铐跳舞（高三作文备考讲座.ppt	11.19 MB
+3:6:10 Update index Done
+3:6:10 Update cache Done
+3:6:10 Queue total size: 21.74 MB
+3:6:10 Add 学会戴着镣铐跳舞（高三作文备考讲座.ppt
+3:6:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 学会戴着镣铐跳舞（高三作文备考讲座.ppt'])
+3:6:10 Commit Update
+3:7:10 Ready to Push
+3:7:10 Add Log

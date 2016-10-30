@@ -25464,3 +25464,46 @@
 2:37:10 Commit Update
 2:37:10 Ready to Push
 2:37:10 Add Log
+2:37:10 Commit Update
+2:37:10 Ready to Push
+2:37:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/成语：中华文化的微缩景观（涉及门类齐全）.ppt
+2:37:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/成语：中华文化的微缩景观（十分类_例句丰富）.ppt
+2:37:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/姓氏/《姓氏源流与文化寻根》最新课件.ppt
+2:37:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/姓氏/必修2-探究梳理03-姓氏源流与文化寻根（红树主人）.ppt
+2:37:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/姓氏/高一语文必修二《姓氏源流与文化寻根》课件1.ppt
+2:37:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/姓氏/姓氏源流与文化寻根(赖华).ppt
+2:37:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/成语：中华文化的微缩景观(选用).ppt
+2:37:10 Copying No.4524 姓氏源流与文化寻根.ppt	8.95 MB
+2:37:10 Update index Done
+2:37:10 Update cache Done
+2:37:10 Copying No.4525 姓氏源流与文化寻根1.ppt	1.14 MB
+2:37:10 Update index Done
+2:37:10 Update cache Done
+2:37:10 Copying No.4526 姓氏源流与文化寻根（姓氏+年节+民族）.ppt	1.14 MB
+2:37:10 Update index Done
+2:37:10 Update cache Done
+2:37:10 Passing /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/修辞
+2:37:10 Passing /home/club/index/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/修辞
+2:37:10 Passing /home/club/cache/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/修辞
+2:37:10 Read index Done
+2:37:10 Read cache Done
+2:37:10 Write dirs in index Done
+2:37:10 Write dirs in cache Done
+2:37:10 Copying No.4527 《修辞无处不在》.ppt	3.08 MB
+2:37:10 Update index Done
+2:37:10 Update cache Done
+2:37:10 Copying No.4528 必修2-探究梳理02-修辞无处不在（红树主人）.ppt	3.64 MB
+2:37:10 Update index Done
+2:37:10 Update cache Done
+2:37:10 Copying No.4529 修辞无处不在公开课.ppt	1.43 MB
+2:37:10 Update index Done
+2:37:10 Update cache Done
+2:37:10 Copying No.4530 修改版_修辞无处不在.ppt	1.21 MB
+2:37:10 Update index Done
+2:37:10 Update cache Done
+2:37:10 Queue total size: 20.59 MB
+2:37:10 Add 修改版_修辞无处不在.ppt
+2:37:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 修改版_修辞无处不在.ppt'])
+2:37:10 Commit Update
+2:37:10 Ready to Push
+2:37:10 Add Log

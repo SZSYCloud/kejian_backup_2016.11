@@ -19905,3 +19905,39 @@
 2:15:10 Commit Update
 2:15:10 Ready to Push
 2:15:10 Add Log
+2:15:10 Commit Update
+2:15:10 Ready to Push
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/配套课件/课堂讲义配套课件/第四单元/4-10《短新闻两篇》.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/配套课件/课堂讲义配套课件/第四单元/4-11《包身工》.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/配套课件/课堂讲义配套课件/第四单元/4-12《飞向太空的航程》.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/配套课件/课堂讲义配套课件/第一单元/1-1.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/配套课件/课堂讲义配套课件/第一单元/1-2.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/配套课件/课堂讲义配套课件/第一单元/1-3.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/同课异构/【语文】第10课《短新闻两篇—奥斯维辛没有什么新闻》课件1（人教版必修1）.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/同课异构/【语文】第10课《短新闻两篇—奥斯维辛没有什么新闻》课件2（人教版必修1）.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/同课异构/【语文】第10课《短新闻两篇—别了，“不列颠尼亚”》课件1（人教版必修1）.ppt
+2:15:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修1/配套课件/课堂讲义配套课件/第三单元/3-9《记梁任公先生的一次演讲》.ppt
+2:15:10 Copying No.3561 【语文】第10课《短新闻两篇—别了，“不列颠尼亚”》课件2（人教版必修1）.ppt	2.75 MB
+2:15:10 Update index Done
+2:15:10 Update cache Done
+2:15:10 Copying No.3562 【语文】第11课《包身工》课件1（人教版必修1）.ppt	835.5 KB
+2:15:10 Update index Done
+2:15:10 Update cache Done
+2:15:10 Copying No.3563 【语文】第11课《包身工》课件2（人教版必修1）.ppt	2.68 MB
+2:15:10 Update index Done
+2:15:10 Update cache Done
+2:15:10 Copying No.3564 【语文】第12课《飞向太空的航程》课件1（人教版必修1）.ppt	3.79 MB
+2:15:10 Update index Done
+2:15:10 Update cache Done
+2:15:10 Copying No.3565 【语文】第12课《飞向太空的航程》课件2（人教版必修1）.ppt	2.89 MB
+2:15:10 Update index Done
+2:15:10 Update cache Done
+2:15:10 Copying No.3566 【语文】第1课《沁园春 长沙 》课件1（人教版必修1）.ppt	16.41 MB
+2:15:10 Update index Done
+2:15:10 Update cache Done
+2:15:10 Queue total size: 29.33 MB
+2:15:10 Add 【语文】第1课《沁园春 长沙 》课件1（人教版必修1）.ppt
+2:15:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第1课《沁园春 长沙 》课件1（人教版必修1）.ppt'])
+2:15:10 Commit Update
+2:15:10 Ready to Push
+2:15:10 Add Log

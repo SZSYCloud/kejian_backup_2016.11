@@ -20758,3 +20758,39 @@
 2:20:10 Commit Update
 2:20:10 Ready to Push
 2:20:10 Add Log
+2:20:10 Commit Update
+2:20:10 Ready to Push
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/配套课件/课堂讲义配套课件/写作导学案2.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/配套课件/课堂讲义配套课件/写作导学案3.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/配套课件/课堂讲义配套课件/写作导学案4.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第10课《过秦论》课件1（人教版必修3）.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第10课《过秦论》课件2（人教版必修3）.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第11课《师说》课件1（人教版必修3）.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第11课《师说》课件2（人教版必修3）.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第12课《动物游戏之谜》课件1（人教版必修3）.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/同课异构/【语文】第12课《动物游戏之谜》课件2（人教版必修3）.ppt
+2:20:10 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修3/配套课件/课堂讲义配套课件/写作导学案1.ppt
+2:20:10 Copying No.3719 【语文】第13课《宇宙的边疆》课件1（人教版必修3）.ppt	2.5 MB
+2:20:10 Update index Done
+2:20:10 Update cache Done
+2:20:10 Copying No.3720 【语文】第13课《宇宙的边疆》课件2（人教版必修3）.ppt	2.34 MB
+2:20:10 Update index Done
+2:20:10 Update cache Done
+2:20:10 Copying No.3721 【语文】第14课《一名物理学家的教育历程》课件1（人教版必修3）.ppt	2.37 MB
+2:20:10 Update index Done
+2:20:10 Update cache Done
+2:20:10 Copying No.3722 【语文】第14课《一名物理学家的教育历程》课件2（人教版必修3）.ppt	2.86 MB
+2:20:10 Update index Done
+2:20:10 Update cache Done
+2:20:10 Copying No.3723 【语文】第1课《林黛玉进贾府》课件1（人教版必修3）.ppt	7.15 MB
+2:20:10 Update index Done
+2:20:10 Update cache Done
+2:20:10 Copying No.3724 【语文】第1课《林黛玉进贾府》课件2（人教版必修3）.ppt	3.37 MB
+2:20:10 Update index Done
+2:20:10 Update cache Done
+2:20:10 Queue total size: 20.58 MB
+2:20:10 Add 【语文】第1课《林黛玉进贾府》课件2（人教版必修3）.ppt
+2:20:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第1课《林黛玉进贾府》课件2（人教版必修3）.ppt'])
+2:20:10 Commit Update
+2:20:10 Ready to Push
+2:20:10 Add Log

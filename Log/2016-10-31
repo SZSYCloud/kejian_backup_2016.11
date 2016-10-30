@@ -46383,3 +46383,44 @@
 7:14:10 Commit Update
 7:14:10 Ready to Push
 7:14:10 Add Log
+7:14:10 Commit Update
+7:14:10 Ready to Push
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/蓝色简约.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/兰花.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/梅花.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/模板小人红.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/木质背景.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/目录形式.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/牛皮纸.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/生如夏花艺术PPT.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/时尚模板PPT.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/实用创意模板PPT.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/水墨.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/水墨梅花.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/水墨中国.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/图表模板大全.ppt
+7:14:10 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/蓝色格调.ppt
+7:14:10 Copying No.399 图形素材.ppt	1.55 MB
+7:14:10 Update index Done
+7:14:10 Update cache Done
+7:14:10 Copying No.400 我的花儿.ppt	10.59 MB
+7:14:10 Update index Done
+7:14:10 Update cache Done
+7:14:10 Copying No.401 小清新ppt模板.ppt	398.5 KB
+7:14:10 Update index Done
+7:14:10 Update cache Done
+7:14:10 Copying No.402 小清新ppt模板（www.1ppt.com）.ppt	400.5 KB
+7:14:10 Update index Done
+7:14:10 Update cache Done
+7:14:10 Copying No.403 小清新四元素PPT.ppt	2.41 MB
+7:14:10 Update index Done
+7:14:10 Update cache Done
+7:14:10 Copying No.404 烟雨江南.ppt	7.46 MB
+7:14:10 Update index Done
+7:14:10 Update cache Done
+7:14:10 Queue total size: 22.79 MB
+7:14:10 Add 烟雨江南.ppt
+7:14:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 烟雨江南.ppt'])
+7:14:10 Commit Update
+7:14:10 Ready to Push
+7:14:10 Add Log

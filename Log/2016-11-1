@@ -2340,3 +2340,35 @@
 2:12:11 Commit Update
 2:12:11 Ready to Push
 2:12:11 Add Log
+2:12:11 Commit Update
+2:12:11 Ready to Push
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/表情清新.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/表情清新PPT.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/彩色缤纷文件夹背景PPT模板.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/彩色缤纷文件夹背景PPT模板，www.1ppt.com.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/城市生活PPT模板.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/橙蓝撞色PPT色彩模板.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/橙色模板PPT.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/创新科技模板PPT.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/创意.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/创意7.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/创意图形示意图.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/【城市生活PPT模板www.1ppt.com】.ppt
+2:12:11 Copying No.935 创意图形示意图多个PPT.ppt	16.37 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.936 春天背景PPT.ppt	2.26 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.937 灯光.ppt	470.5 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.938 动态模板PPT.ppt	1.06 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Queue total size: 20.15 MB
+2:12:11 Add 动态模板PPT.ppt
+2:12:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 动态模板PPT.ppt'])
+2:12:11 Commit Update
+2:12:11 Ready to Push
+2:12:11 Add Log

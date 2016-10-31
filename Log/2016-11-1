@@ -1496,3 +1496,59 @@
 2:3:11 Commit Update
 2:4:11 Ready to Push
 2:4:11 Add Log
+2:4:11 Commit Update
+2:4:11 Ready to Push
+2:4:11 Delete /home/club/local/生物/新高二/必修三/生态系统的结构.ppt
+2:4:11 Delete /home/club/local/生物/新高二/必修三/生态系统的稳态性.pptx
+2:4:11 Delete /home/club/local/生物/新高二/必修三/通过神经系统的调节.ppt
+2:4:11 Delete /home/club/local/生物/新高二/必修三/群落的演替.ppt
+2:4:11 Copying No.814 物质循环.ppt	823.0 KB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Copying No.815 信息传递.ppt	2.16 MB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Copying No.816 种群的特征.ppt	750.0 KB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Copying No.817 种群数量的变化.ppt	1.74 MB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Passing /home/club/local/生物/新高二/常卿
+2:4:11 Passing /home/club/index/生物/新高二/常卿
+2:4:11 Passing /home/club/cache/生物/新高二/常卿
+2:4:11 Read index Done
+2:4:11 Read cache Done
+2:4:11 Write dirs in index Done
+2:4:11 Write dirs in cache Done
+2:4:11 Copying No.818 第一阶段生物成绩（3、4、5班去姓名）.xlsx	49.35 KB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Copying No.819 第一阶段生物成绩（3、4、5班去姓名）.xlsx	49.35 KB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Passing /home/club/local/生物/新高二/常卿/课件
+2:4:11 Passing /home/club/index/生物/新高二/常卿/课件
+2:4:11 Passing /home/club/cache/生物/新高二/常卿/课件
+2:4:11 Read index Done
+2:4:11 Read cache Done
+2:4:11 Write dirs in index Done
+2:4:11 Write dirs in cache Done
+2:4:11 Copying No.820 1-1 细胞生活的内环境.ppt	1.91 MB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Copying No.821 1-2  内环境稳态的重要性.ppt	1.0 MB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Copying No.822 2-1通过神经系统的调节-1.ppt	10.89 MB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Copying No.823 2-1通过神经系统的调节.ppt	10.94 MB
+2:4:11 Update index Done
+2:4:11 Update cache Done
+2:4:11 Queue total size: 30.28 MB
+2:4:11 Add 2-1通过神经系统的调节.ppt
+2:4:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 2-1通过神经系统的调节.ppt'])
+2:4:11 Commit Update
+2:4:11 Ready to Push
+2:4:11 Add Log

@@ -54912,3 +54912,23 @@
 8:4:10 Commit Update
 8:4:10 Ready to Push
 8:4:10 Add Log
+8:4:10 Commit Update
+8:4:10 Ready to Push
+8:4:10 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/PPT听课手册配套课件/专题三_三角函数、三角恒等变换与解三角形-数学（理科）-全国卷地区专用.pptx
+8:4:10 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/PPT听课手册配套课件/专题四_数列-数学（理科）-全国卷地区专用.pptx
+8:4:10 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/PPT听课手册配套课件/专题七_概率与统计-数学（理科）-全国卷地区专用.pptx
+8:4:10 Copying No.1864 专题四 数列-数学（理科）-全国卷地区专用.pptx	3.75 MB
+8:4:10 Update index Done
+8:4:10 Update cache Done
+8:4:10 Copying No.1865 专题五 立体几何-数学（理科）-全国卷地区专用.pptx	15.63 MB
+8:4:10 Update index Done
+8:4:10 Update cache Done
+8:4:10 Copying No.1866 专题五 立体几何-数学（理科）-全国卷地区专用.pptx	15.63 MB
+8:4:10 Update index Done
+8:4:10 Update cache Done
+8:4:10 Queue total size: 35.02 MB
+8:4:10 Add 专题五 立体几何-数学（理科）-全国卷地区专用.pptx
+8:4:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题五 立体几何-数学（理科）-全国卷地区专用.pptx'])
+8:4:10 Commit Update
+8:4:10 Ready to Push
+8:4:10 Add Log

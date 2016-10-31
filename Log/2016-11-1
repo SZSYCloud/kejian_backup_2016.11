@@ -2290,3 +2290,53 @@
 2:11:11 Commit Update
 2:11:11 Ready to Push
 2:11:11 Add Log
+2:11:11 Commit Update
+2:11:11 Ready to Push
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/3D小人.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/3D小人PPT.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/3D质感PPT图表.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/3D质感图表.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/ppt图表模板大全.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/31页目录形式PPT.ppt
+2:11:11 Copying No.923 【城市生活PPT模板www.1ppt.com】.ppt	791.0 KB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.924 表情清新.ppt	171.0 KB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.925 表情清新PPT.ppt	173.0 KB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.926 彩色缤纷文件夹背景PPT模板.ppt	1.95 MB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.927 彩色缤纷文件夹背景PPT模板，www.1ppt.com.ppt	1.94 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.928 城市生活PPT模板.ppt	595.0 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.929 橙蓝撞色PPT色彩模板.ppt	202.5 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.930 橙色模板PPT.ppt	6.54 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.931 创新科技模板PPT.ppt	1.59 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.932 创意.ppt	1.4 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.933 创意7.ppt	1.39 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.934 创意图形示意图.ppt	16.77 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Queue total size: 33.47 MB
+2:12:11 Add 创意图形示意图.ppt
+2:12:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 创意图形示意图.ppt'])
+2:12:11 Commit Update
+2:12:11 Ready to Push
+2:12:11 Add Log

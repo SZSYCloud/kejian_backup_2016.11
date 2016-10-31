@@ -105,3 +105,28 @@
 2:0:11 Commit Update
 2:0:11 Ready to Push
 2:0:11 Add Log
+2:0:11 Commit Update
+2:0:11 Ready to Push
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第六章__细胞的生命历程/第二、三节__细胞分化、衰老和调亡.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第六章__细胞的生命历程/第四节__关注癌症.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第六章__细胞的生命历程/第一节__细胞增殖.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第二章__组成细胞的分子/第一节_细胞中的元素和化合物.ppt
+2:0:11 Copying No.710 有丝分裂复习课.ppt	16.15 MB
+2:0:11 Update index Done
+2:0:11 Update cache Done
+2:0:11 Passing /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第三章  细胞的基本结构
+2:0:11 Passing /home/club/index/生物/2017届高三/吴兆国/必修一人教/必修一/第三章  细胞的基本结构
+2:0:11 Passing /home/club/cache/生物/2017届高三/吴兆国/必修一人教/必修一/第三章  细胞的基本结构
+2:0:11 Read index Done
+2:0:11 Read cache Done
+2:0:11 Write dirs in index Done
+2:0:11 Write dirs in cache Done
+2:0:11 Copying No.711 第二节 细胞器——系统内的分工合作.ppt	4.66 MB
+2:0:11 Update index Done
+2:0:11 Update cache Done
+2:0:11 Queue total size: 20.81 MB
+2:0:11 Add 第二节 细胞器——系统内的分工合作.ppt
+2:0:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第二节 细胞器——系统内的分工合作.ppt'])
+2:0:11 Commit Update
+2:0:11 Ready to Push
+2:0:11 Add Log

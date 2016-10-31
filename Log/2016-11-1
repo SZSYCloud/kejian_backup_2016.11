@@ -1464,3 +1464,35 @@
 2:3:11 Commit Update
 2:3:11 Ready to Push
 2:3:11 Add Log
+2:3:11 Commit Update
+2:3:11 Ready to Push
+2:3:11 Delete /home/club/local/生物/新高二/必修三/2－3神经调节与体液调节的关系.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/3－1_植物生长素的发现.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/3－2_生长素的生理作用a.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/3－3_其他植物激素.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/第1节_细胞生活的环境.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/第二节　内环境稳态的重要性.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/能量流动.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/群落的结构.ppt
+2:3:11 Delete /home/club/local/生物/新高二/必修三/2-4免疫调节.ppt
+2:3:11 Copying No.809 群落的演替.ppt	1.6 MB
+2:3:11 Update index Done
+2:3:11 Update cache Done
+2:3:11 Copying No.810 生态系统的结构.ppt	4.11 MB
+2:3:11 Update index Done
+2:3:11 Update cache Done
+2:3:11 Copying No.811 生态系统的稳态性.pptx	1.89 MB
+2:3:11 Update index Done
+2:3:11 Update cache Done
+2:3:11 Copying No.812 生态系统的稳态性.pptx	1.89 MB
+2:3:11 Update index Done
+2:3:11 Update cache Done
+2:3:11 Copying No.813 通过神经系统的调节.ppt	15.87 MB
+2:3:11 Update index Done
+2:3:11 Update cache Done
+2:3:11 Queue total size: 25.36 MB
+2:3:11 Add 通过神经系统的调节.ppt
+2:3:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 通过神经系统的调节.ppt'])
+2:3:11 Commit Update
+2:4:11 Ready to Push
+2:4:11 Add Log

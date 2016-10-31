@@ -2522,3 +2522,66 @@
 2:13:11 Commit Update
 2:14:11 Ready to Push
 2:14:11 Add Log
+2:14:11 Commit Update
+2:14:11 Ready to Push
+2:14:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/我的花儿.ppt
+2:14:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/小清新ppt模板.ppt
+2:14:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/小清新ppt模板（www.1ppt.com）.ppt
+2:14:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/小清新四元素PPT.ppt
+2:14:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/烟雨江南.ppt
+2:14:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/图形素材.ppt
+2:14:11 Copying No.971 艺术模板PPT.ppt	608.5 KB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.972 折纸风格气泡图表PPT.ppt	1.27 MB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.973 中国文化ppt.ppt	2.37 MB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Passing /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/商务
+2:14:11 Passing /home/club/index/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/商务
+2:14:11 Passing /home/club/cache/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/商务
+2:14:11 Read index Done
+2:14:11 Read cache Done
+2:14:11 Write dirs in index Done
+2:14:11 Write dirs in cache Done
+2:14:11 Copying No.974 38张古色古香PPT.ppt	6.55 MB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.975 橙红商务.ppt	273.0 KB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.976 成功.ppt	522.5 KB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.977 创意方块实用商务PPT模板.ppt	1.64 MB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.978 大厦.ppt	1.45 MB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.979 党政风.ppt	1.52 MB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.980 工作计划.ppt	2.89 MB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.981 极简清新商务模板.ppt	568.5 KB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.982 简洁.ppt	142.5 KB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.983 简约.ppt	145.0 KB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Copying No.984 简约商务.ppt	265.5 KB
+2:14:11 Update index Done
+2:14:11 Update cache Done
+2:14:11 Queue total size: 20.14 MB
+2:14:11 Add 简约商务.ppt
+2:14:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 简约商务.ppt'])
+2:14:11 Commit Update
+2:14:11 Ready to Push
+2:14:11 Add Log

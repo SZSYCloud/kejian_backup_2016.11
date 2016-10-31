@@ -2372,3 +2372,48 @@
 2:12:11 Commit Update
 2:12:11 Ready to Push
 2:12:11 Add Log
+2:12:11 Commit Update
+2:12:11 Ready to Push
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/春天背景PPT.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/灯光.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/动态模板PPT.ppt
+2:12:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/创意图形示意图多个PPT.ppt
+2:12:11 Copying No.939 风.ppt	328.0 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.940 高画质的精美PPT.ppt	1.55 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.941 古典风韵.ppt	290.0 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.942 荷韵.ppt	532.5 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.943 黑色.ppt	164.0 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.944 红白经典.ppt	881.0 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.945 红色幕布.ppt	941.5 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.946 金格子商务.ppt	539.5 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.947 精美彩色立体图表ppt.ppt	2.59 MB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.948 经典商务.ppt	743.5 KB
+2:12:11 Update index Done
+2:12:11 Update cache Done
+2:12:11 Copying No.949 蓝色背景多图案.ppt	28.73 MB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Queue total size: 37.19 MB
+2:13:11 Add 蓝色背景多图案.ppt
+2:13:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 蓝色背景多图案.ppt'])
+2:13:11 Commit Update
+2:13:11 Ready to Push
+2:13:11 Add Log

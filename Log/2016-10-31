@@ -54871,3 +54871,22 @@
 8:3:10 Commit Update
 8:3:10 Ready to Push
 8:3:10 Add Log
+8:3:10 Commit Update
+8:3:10 Ready to Push
+8:3:10 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/PPT听课手册配套课件/专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx
+8:3:10 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/PPT听课手册配套课件/专题二_函数与导数_-数学（理科）-全国卷地区专用.pptx
+8:3:10 Copying No.1857 专题六 解析几何-数学（理科）-全国卷地区专用.pptx	7.89 MB
+8:3:10 Update index Done
+8:3:10 Update cache Done
+8:3:10 Copying No.1858 专题六 解析几何-数学（理科）-全国卷地区专用.pptx	7.89 MB
+8:4:10 Update index Done
+8:4:10 Update cache Done
+8:4:10 Copying No.1859 专题七 概率与统计-数学（理科）-全国卷地区专用.pptx	7.42 MB
+8:4:10 Update index Done
+8:4:10 Update cache Done
+8:4:10 Queue total size: 23.2 MB
+8:4:10 Add 专题七 概率与统计-数学（理科）-全国卷地区专用.pptx
+8:4:10 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题七 概率与统计-数学（理科）-全国卷地区专用.pptx'])
+8:4:10 Commit Update
+8:4:10 Ready to Push
+8:4:10 Add Log

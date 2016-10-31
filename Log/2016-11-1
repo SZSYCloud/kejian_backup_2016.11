@@ -2248,3 +2248,45 @@
 2:11:11 Commit Update
 2:11:11 Ready to Push
 2:11:11 Add Log
+2:11:11 Commit Update
+2:11:11 Ready to Push
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/商务_简约.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/授课.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/书香.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/说课.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/业绩报告.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/一枝红杏出墙来.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/银蓝简约.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/职业报告.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/竹意.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/自然风光.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/总结规划模板.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/总结模板PPT.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/21张意境图.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/21张意境图PPT.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/317页蓝色背景多图案.ppt
+2:11:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/报告/青花瓷.ppt
+2:11:11 Copying No.917 31页目录形式PPT.ppt	4.28 MB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.918 3D小人.ppt	1.34 MB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.919 3D小人PPT.ppt	1.33 MB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.920 3D质感PPT图表.ppt	2.56 MB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.921 3D质感图表.ppt	2.16 MB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Copying No.922 ppt图表模板大全.ppt	8.86 MB
+2:11:11 Update index Done
+2:11:11 Update cache Done
+2:11:11 Queue total size: 20.54 MB
+2:11:11 Add ppt图表模板大全.ppt
+2:11:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update ppt图表模板大全.ppt'])
+2:11:11 Commit Update
+2:11:11 Ready to Push
+2:11:11 Add Log

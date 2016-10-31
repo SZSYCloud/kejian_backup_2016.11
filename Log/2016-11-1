@@ -2417,3 +2417,67 @@
 2:13:11 Commit Update
 2:13:11 Ready to Push
 2:13:11 Add Log
+2:13:11 Commit Update
+2:13:11 Ready to Push
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/高画质的精美PPT.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/古典风韵.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/荷韵.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/黑色.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/红白经典.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/红色幕布.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/金格子商务.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/精美彩色立体图表ppt.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/经典商务.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/蓝色背景多图案.ppt
+2:13:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/教师精品资料包/课件模板/创意/风.ppt
+2:13:11 Copying No.950 蓝色格调.ppt	975.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.951 蓝色简约.ppt	174.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.952 兰花.ppt	401.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.953 梅花.ppt	647.0 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.954 模板小人红.ppt	257.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.955 木质背景.ppt	4.44 MB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.956 目录形式.ppt	4.21 MB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.957 牛皮纸.ppt	750.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.958 生如夏花艺术PPT.ppt	702.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.959 时尚模板PPT.ppt	1.58 MB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.960 实用创意模板PPT.ppt	3.97 MB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.961 水墨.ppt	286.0 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.962 水墨梅花.ppt	567.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.963 水墨中国.ppt	939.5 KB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Copying No.964 图表模板大全.ppt	8.85 MB
+2:13:11 Update index Done
+2:13:11 Update cache Done
+2:13:11 Queue total size: 28.62 MB
+2:13:11 Add 图表模板大全.ppt
+2:13:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 图表模板大全.ppt'])
+2:13:11 Commit Update
+2:13:11 Ready to Push
+2:13:11 Add Log

@@ -70,3 +70,38 @@
 1:59:11 Commit Update
 1:59:11 Ready to Push
 1:59:11 Add Log
+1:59:11 Commit Update
+2:0:11 Ready to Push
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/B1课件/B1-6-1__细胞增殖/B1-6-1__细胞增殖.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/~$修1教师用书.doc
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/必修1教师用书.doc
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第一节__细胞膜---系统的边界.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第二章__组成细胞的分子/第二节_生命活动的主要承担者——蛋白质.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第二章__组成细胞的分子/第三节_遗传信息的携带者--核酸.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第二章__组成细胞的分子/第四节_细胞中的糖类和脂质.ppt
+2:0:11 Delete /home/club/local/生物/2017届高三/吴兆国/必修一人教/B1课件/B1-4-1_物质跨膜运输的实例/B1-4-1__物质跨膜运输的实例.ppt
+2:0:11 Copying No.706 第一节 细胞中的元素和化合物.ppt	1.95 MB
+2:0:11 Update index Done
+2:0:11 Update cache Done
+2:0:11 Passing /home/club/local/生物/2017届高三/吴兆国/必修一人教/必修一/第六章  细胞的生命历程
+2:0:11 Passing /home/club/index/生物/2017届高三/吴兆国/必修一人教/必修一/第六章  细胞的生命历程
+2:0:11 Passing /home/club/cache/生物/2017届高三/吴兆国/必修一人教/必修一/第六章  细胞的生命历程
+2:0:11 Read index Done
+2:0:11 Read cache Done
+2:0:11 Write dirs in index Done
+2:0:11 Write dirs in cache Done
+2:0:11 Copying No.707 第二、三节  细胞分化、衰老和调亡.ppt	1.71 MB
+2:0:11 Update index Done
+2:0:11 Update cache Done
+2:0:11 Copying No.708 第四节  关注癌症.ppt	5.43 MB
+2:0:11 Update index Done
+2:0:11 Update cache Done
+2:0:11 Copying No.709 第一节  细胞增殖.ppt	14.95 MB
+2:0:11 Update index Done
+2:0:11 Update cache Done
+2:0:11 Queue total size: 24.03 MB
+2:0:11 Add 第一节  细胞增殖.ppt
+2:0:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第一节  细胞增殖.ppt'])
+2:0:11 Commit Update
+2:0:11 Ready to Push
+2:0:11 Add Log

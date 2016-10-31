@@ -6323,3 +6323,25 @@
 2:30:11 Commit Update
 2:30:11 Ready to Push
 2:30:11 Add Log
+2:30:11 Commit Update
+2:30:11 Ready to Push
+2:30:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/五年高考分类题库/2015年高考分类题库/知识点8_遗传物质——DNA.doc
+2:30:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/五年高考分类题库/2015年高考分类题库/知识点9_遗传信息的表达.doc
+2:30:11 Delete /home/club/local/生物/新高一/聂忠民/B1课件/B1-1-1_从生物圈到细胞.ppt
+2:30:11 Delete /home/club/local/生物/新高一/聂忠民/B1课件/B1-1-2_细胞多样性和统一性.ppt
+2:30:11 Delete /home/club/local/生物/新高一/聂忠民/B1课件/B1-2-1__细胞中的元素和化合物.ppt
+2:30:11 Delete /home/club/local/生物/新高一/聂忠民/B1课件/B1-2-2_生命活动的主要承担者——蛋白质.ppt
+2:30:11 Delete /home/club/local/生物/新高一/聂忠民/B1课件/B1-2-3__遗传信息的携带者--核酸.ppt
+2:30:11 Delete /home/club/local/生物/新高一/2016.8.31世纪金榜B1/五年高考分类题库/2015年高考分类题库/知识点7_遗传的细胞基础.doc
+2:30:11 Copying No.1440 B1-2-4 细胞中的糖类和脂质.ppt	11.53 MB
+2:30:11 Update index Done
+2:30:11 Update cache Done
+2:30:11 Copying No.1441 B1-2-5 细胞中的无机物.ppt	8.8 MB
+2:30:11 Update index Done
+2:30:11 Update cache Done
+2:30:11 Queue total size: 20.33 MB
+2:30:11 Add B1-2-5 细胞中的无机物.ppt
+2:30:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update B1-2-5 细胞中的无机物.ppt'])
+2:30:11 Commit Update
+2:31:11 Ready to Push
+2:31:11 Add Log

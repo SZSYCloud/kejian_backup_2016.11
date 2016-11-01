@@ -7768,3 +7768,20 @@
 12:46:11 Commit Update
 12:46:11 Ready to Push
 12:46:11 Add Log
+12:46:11 Commit Update
+12:46:11 Ready to Push
+12:46:11 Delete /home/club/local/历史/陈振宇/第七周培优.docx
+12:46:11 Delete /home/club/local/历史/陈振宇/无产阶级革命——新中国的曲折发展.pptx
+12:46:11 Delete /home/club/local/历史/宋苗/第八课.pptx
+12:46:11 Copying No.35 第九课.pptx	12.61 MB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Copying No.36 第九课.pptx	12.61 MB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Queue total size: 25.21 MB
+12:46:11 Add 第九课.pptx
+12:46:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第九课.pptx'])
+12:46:11 Commit Update
+12:46:11 Ready to Push
+12:46:11 Add Log

@@ -7729,3 +7729,42 @@
 12:46:11 Commit Update
 12:46:11 Ready to Push
 12:46:11 Add Log
+12:46:11 Commit Update
+12:46:11 Ready to Push
+12:46:11 Delete /home/club/local/历史/xyh/去西周吃顿饭呗.pptx
+12:46:11 Delete /home/club/local/历史/xyh/文综历史参考答案.docx
+12:46:11 Delete /home/club/local/历史/xyh/一段考高二历史答案.docx
+12:46:11 Delete /home/club/local/历史/陈振宇/10.21周末试卷.docx
+12:46:11 Delete /home/club/local/历史/陈振宇/大国之梦___自强且富.pptx
+12:46:11 Delete /home/club/local/历史/xyh/连续30年国庆当天的《人民日报》头版.docx
+12:46:11 Copying No.29 第七周培优.docx	259.96 KB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Copying No.30 第七周培优.docx	259.96 KB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Copying No.31 无产阶级革命——新中国的曲折发展.pptx	6.78 MB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Copying No.32 无产阶级革命——新中国的曲折发展.pptx	6.78 MB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Passing /home/club/local/历史/宋苗
+12:46:11 Passing /home/club/index/历史/宋苗
+12:46:11 Passing /home/club/cache/历史/宋苗
+12:46:11 Read index Done
+12:46:11 Read cache Done
+12:46:11 Write dirs in index Done
+12:46:11 Write dirs in cache Done
+12:46:11 Copying No.33 第八课.pptx	3.57 MB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Copying No.34 第八课.pptx	3.57 MB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Queue total size: 21.2 MB
+12:46:11 Add 第八课.pptx
+12:46:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第八课.pptx'])
+12:46:11 Commit Update
+12:46:11 Ready to Push
+12:46:11 Add Log

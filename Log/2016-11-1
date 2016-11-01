@@ -7663,3 +7663,69 @@
 12:45:11 Commit Update
 12:45:11 Ready to Push
 12:45:11 Add Log
+12:45:11 Commit Update
+12:45:11 Ready to Push
+12:45:11 Delete /home/club/local/历史/LH/27、经济全球化的趋势.ppt
+12:45:11 Delete /home/club/local/历史/LH/43张民国老照片.docx
+12:45:11 Delete /home/club/local/历史/LH/老梁推荐书目.xlsx
+12:45:11 Delete /home/club/local/历史/LH/连续30年国庆当天的《人民日报》头版.docx
+12:45:11 Delete /home/club/local/历史/LH/去西周吃顿饭呗.pptx
+12:45:11 Delete /home/club/local/历史/LH/小传奇.docx
+12:45:11 Delete /home/club/local/历史/LH/一点复习小建议.pptx
+12:45:11 Delete /home/club/local/历史/LH/游园惊梦.皂罗袍.docx
+12:45:11 Delete /home/club/local/历史/xyh/连续30年国庆当天的《人民日报》头版.docx
+12:45:11 Delete /home/club/local/历史/LH/23、世界经济的区域集团化.ppt
+12:45:11 Copying No.18 连续30年国庆当天的《人民日报》头版.docx	2.38 MB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.19 去西周吃顿饭呗.pptx	555.68 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.20 去西周吃顿饭呗.pptx	555.68 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.21 文综历史参考答案.docx	12.91 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.22 文综历史参考答案.docx	12.91 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Found too large 我们诞生在中国.HD1280超清国语中字.mp4
+12:45:11 Copying No.23 一段考高二历史答案.docx	16.67 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.24 一段考高二历史答案.docx	16.67 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Passing /home/club/local/历史/xyh/一起评卷吧
+12:45:11 Passing /home/club/index/历史/xyh/一起评卷吧
+12:45:11 Passing /home/club/cache/历史/xyh/一起评卷吧
+12:45:11 Read index Done
+12:45:11 Read cache Done
+12:45:11 Write dirs in index Done
+12:45:11 Write dirs in cache Done
+12:45:11 Passing /home/club/local/历史/陈振宇
+12:45:11 Passing /home/club/index/历史/陈振宇
+12:45:11 Passing /home/club/cache/历史/陈振宇
+12:45:11 Read index Done
+12:45:11 Read cache Done
+12:45:11 Write dirs in index Done
+12:45:11 Write dirs in cache Done
+12:45:11 Copying No.25 10.21周末试卷.docx	656.14 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.26 10.21周末试卷.docx	656.14 KB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.27 大国之梦   自强且富.pptx	11.09 MB
+12:45:11 Update index Done
+12:45:11 Update cache Done
+12:45:11 Copying No.28 大国之梦   自强且富.pptx	11.09 MB
+12:46:11 Update index Done
+12:46:11 Update cache Done
+12:46:11 Queue total size: 26.98 MB
+12:46:11 Add 大国之梦   自强且富.pptx
+12:46:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 大国之梦   自强且富.pptx'])
+12:46:11 Commit Update
+12:46:11 Ready to Push
+12:46:11 Add Log

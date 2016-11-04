@@ -23837,3 +23837,60 @@
 18:38:11 Commit Update
 18:38:11 Ready to Push
 18:38:11 Add Log
+18:38:11 Commit Update
+18:38:11 Ready to Push
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）/D单元　数列.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）/E单元　不等式.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）/F单元　平面向量.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）/G单元__立体几何.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）/C单元　三角函数.doc
+18:38:11 Copying No.3967 H单元　解析几何.doc	8.01 MB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3968 I单元　统计.doc	2.21 MB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3969 J单元　计数原理.doc	31.5 KB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3970 K单元  概率.doc	989.0 KB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3971 L单元　算法初步与复数.doc	3.28 MB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3972 M单元　推理与证明.doc	86.5 KB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3973 N单元  选修4系列.doc	1.76 MB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Passing /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2015
+18:39:11 Passing /home/club/index/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2015
+18:39:11 Passing /home/club/cache/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2015
+18:39:11 Read index Done
+18:39:11 Read cache Done
+18:39:11 Write dirs in index Done
+18:39:11 Write dirs in cache Done
+18:39:11 Passing /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2015/理科
+18:39:11 Passing /home/club/index/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2015/理科
+18:39:11 Passing /home/club/cache/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2015/理科
+18:39:11 Read index Done
+18:39:11 Read cache Done
+18:39:11 Write dirs in index Done
+18:39:11 Write dirs in cache Done
+18:39:11 Copying No.3974 A单元  集合与常用逻辑用语.doc	555.0 KB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3975 B单元  函数与导数.doc	2.68 MB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Copying No.3976 C单元　三角函数.doc	868.5 KB
+18:39:11 Update index Done
+18:39:11 Update cache Done
+18:39:11 Queue total size: 20.42 MB
+18:39:11 Add C单元　三角函数.doc
+18:39:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update C单元\u3000三角函数.doc'])
+18:39:11 Commit Update
+18:39:11 Ready to Push
+18:39:11 Add Log

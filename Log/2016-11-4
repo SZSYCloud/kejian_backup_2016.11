@@ -16802,3 +16802,19 @@
 18:1:11 Commit Update
 18:1:11 Ready to Push
 18:1:11 Add Log
+18:1:11 Commit Update
+18:1:11 Ready to Push
+18:1:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件/专题四_数列-数学（理科）-全国卷地区专用.pptx
+18:1:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件/专题五_立体几何-数学（理科）-全国卷地区专用.pptx
+18:1:11 Copying No.2562 专题五 立体几何-数学（理科）-全国卷地区专用.pptx	15.3 MB
+18:1:11 Update index Done
+18:1:11 Update cache Done
+18:1:11 Copying No.2563 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx	16.76 MB
+18:1:11 Update index Done
+18:1:11 Update cache Done
+18:1:11 Queue total size: 32.05 MB
+18:1:11 Add 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx
+18:1:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx'])
+18:1:11 Commit Update
+18:1:11 Ready to Push
+18:1:11 Add Log

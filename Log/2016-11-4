@@ -11916,3 +11916,47 @@
 17:30:11 Commit Update
 17:30:11 Ready to Push
 17:30:11 Add Log
+17:30:11 Commit Update
+17:30:11 Ready to Push
+17:30:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-理科（2014高考真题+模拟新题）/G单元__立体几何.doc
+17:30:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-理科（2014高考真题+模拟新题）/F单元　平面向量.doc
+17:30:11 Copying No.1613 H单元　解析几何.doc	6.49 MB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Copying No.1614 I单元　统计.doc	1.52 MB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Copying No.1615 J单元　计数原理.doc	292.5 KB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Copying No.1616 K单元  概率.doc	1.85 MB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Copying No.1617 L单元　算法初步与复数.doc	3.29 MB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Copying No.1618 M单元　推理与证明.doc	348.0 KB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Copying No.1619 N单元  选修4系列.doc	2.46 MB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Passing /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）
+17:30:11 Passing /home/club/index/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）
+17:30:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）
+17:30:11 Read index Done
+17:30:11 Read cache Done
+17:30:11 Write dirs in index Done
+17:30:11 Write dirs in cache Done
+17:30:11 Copying No.1620 A单元  集合与常用逻辑用语.doc	135.0 KB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Copying No.1621 B单元  函数与导数.doc	4.97 MB
+17:30:11 Update index Done
+17:30:11 Update cache Done
+17:30:11 Queue total size: 21.34 MB
+17:30:11 Add B单元  函数与导数.doc
+17:30:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update B单元  函数与导数.doc'])
+17:30:11 Commit Update
+17:30:11 Ready to Push
+17:30:11 Add Log

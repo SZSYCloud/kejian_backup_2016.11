@@ -13189,3 +13189,33 @@
 17:39:11 Commit Update
 17:39:11 Ready to Push
 17:39:11 Add Log
+17:39:11 Commit Update
+17:39:11 Ready to Push
+17:39:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：3.9函数零点问题.pptx
+17:39:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.12三角函数的化简与求值.pptx
+17:39:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.13三角函数的图象与性质.pptx
+17:39:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：3.8抽象函数与函数图象.pptx
+17:39:11 Copying No.1834 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.14解三角形问题.pptx	3.65 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1835 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.14解三角形问题.pptx	3.65 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1836 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.15平面向量中的线性问题.pptx	3.13 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1837 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.15平面向量中的线性问题.pptx	3.13 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1838 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.16关于平面向量数量积运算.ppt	6.33 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1839 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.16关于平面向量数量积运算.pptx	4.02 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Queue total size: 23.92 MB
+17:40:11 Add 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.16关于平面向量数量积运算.pptx
+17:40:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.16关于平面向量数量积运算.pptx'])
+17:40:11 Commit Update
+17:40:11 Ready to Push
+17:40:11 Add Log

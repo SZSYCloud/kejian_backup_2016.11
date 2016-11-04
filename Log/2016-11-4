@@ -27787,3 +27787,33 @@
 19:6:11 Commit Update
 19:7:11 Ready to Push
 19:7:11 Add Log
+19:7:11 Commit Update
+19:7:11 Ready to Push
+19:7:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/课件/《3.1.2复数的几何意义》.ppt
+19:7:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/课件/2016第二轮复习/专题一_突破高考客观题常考问题_-数学（理科）-全国卷地区专用.pptx
+19:7:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/课件/《3.1.1数系的扩充和复数的概念》.ppt
+19:7:11 Passing /home/club/local/数学/C_高三年级（2017届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件
+19:7:11 Passing /home/club/index/数学/C_高三年级（2017届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件
+19:7:11 Passing /home/club/cache/数学/C_高三年级（2017届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件
+19:7:11 Read index Done
+19:7:11 Read cache Done
+19:7:11 Write dirs in index Done
+19:7:11 Write dirs in cache Done
+19:7:11 Copying No.4692 专题八 数学思想方法 -数学（理科）-全国卷地区专用.pptx	3.78 MB
+19:7:11 Update index Done
+19:7:11 Update cache Done
+19:7:11 Copying No.4693 专题八 数学思想方法 -数学（理科）-全国卷地区专用.pptx	3.78 MB
+19:7:11 Update index Done
+19:7:11 Update cache Done
+19:7:11 Copying No.4694 专题二 函数与导数 -数学（理科）-全国卷地区专用.pptx	10.32 MB
+19:7:11 Update index Done
+19:7:11 Update cache Done
+19:7:11 Copying No.4695 专题二 函数与导数 -数学（理科）-全国卷地区专用.pptx	10.32 MB
+19:7:11 Update index Done
+19:7:11 Update cache Done
+19:7:11 Queue total size: 28.21 MB
+19:7:11 Add 专题二 函数与导数 -数学（理科）-全国卷地区专用.pptx
+19:7:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题二 函数与导数 -数学（理科）-全国卷地区专用.pptx'])
+19:7:11 Commit Update
+19:7:11 Ready to Push
+19:7:11 Add Log

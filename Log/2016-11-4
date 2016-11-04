@@ -25926,3 +25926,29 @@
 18:51:11 Commit Update
 18:51:11 Ready to Push
 18:51:11 Add Log
+18:51:11 Commit Update
+18:51:11 Ready to Push
+18:51:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第12讲__函数模型及其应用.pptx
+18:51:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第13讲__变化率与导数、导数的运算.pptx
+18:51:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第14讲_第1课时__导数与函数的单调性.pptx
+18:51:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第14讲_第2课时__导数与函数的极值、最值.pptx
+18:51:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第14讲_第3课时__导数的应用.pptx
+18:51:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第11讲__函数与方程.pptx
+18:51:11 Copying No.4396 第14讲 第3课时  导数的应用.pptx	1.25 MB
+18:51:11 Update index Done
+18:51:11 Update cache Done
+18:51:11 Copying No.4397 第15讲  定积分与微积分基本定理.pptx	1.91 MB
+18:51:11 Update index Done
+18:51:11 Update cache Done
+18:51:11 Copying No.4398 第15讲  定积分与微积分基本定理.pptx	1.91 MB
+18:51:11 Update index Done
+18:51:11 Update cache Done
+18:51:11 Copying No.4399 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx	34.51 MB
+18:51:11 Update index Done
+18:51:11 Update cache Done
+18:51:11 Queue total size: 39.59 MB
+18:51:11 Add 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:51:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx'])
+18:51:11 Commit Update
+18:51:11 Ready to Push
+18:51:11 Add Log

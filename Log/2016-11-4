@@ -13219,3 +13219,36 @@
 17:40:11 Commit Update
 17:40:11 Ready to Push
 17:40:11 Add Log
+17:40:11 Commit Update
+17:40:11 Ready to Push
+17:40:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.14解三角形问题.pptx
+17:40:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.15平面向量中的线性问题.pptx
+17:40:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.16关于平面向量数量积运算.ppt
+17:40:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.16关于平面向量数量积运算.pptx
+17:40:11 Copying No.1840 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：4.16关于平面向量数量积运算.pptx	4.02 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1841 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.17破解等差、等比数列的法宝.pptx	2.36 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1842 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.17破解等差、等比数列的法宝.pptx	2.36 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1843 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.18常考的递推公式问题的破解方略.pptx	2.83 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1844 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.18常考的递推公式问题的破解方略.pptx	2.83 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1845 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.19数列求和问题.pptx	3.0 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Copying No.1846 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.19数列求和问题.pptx	3.0 MB
+17:40:11 Update index Done
+17:40:11 Update cache Done
+17:40:11 Queue total size: 20.41 MB
+17:40:11 Add 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.19数列求和问题.pptx
+17:40:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【步步高】2016届高考理科数学(浙江专用)考前三个月课件：5.19数列求和问题.pptx'])
+17:40:11 Commit Update
+17:40:11 Ready to Push
+17:40:11 Add Log

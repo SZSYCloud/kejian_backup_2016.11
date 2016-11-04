@@ -4850,3 +4850,66 @@
 16:53:11 Commit Update
 16:53:11 Ready to Push
 16:53:11 Add Log
+16:53:11 Commit Update
+16:53:11 Ready to Push
+16:53:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/我的花儿.ppt
+16:53:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/小清新ppt模板.ppt
+16:53:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/小清新ppt模板（www.1ppt.com）.ppt
+16:53:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/小清新四元素PPT.ppt
+16:53:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/烟雨江南.ppt
+16:53:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/图形素材.ppt
+16:53:11 Copying No.415 艺术模板PPT.ppt	608.5 KB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.416 折纸风格气泡图表PPT.ppt	1.27 MB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.417 中国文化ppt.ppt	2.37 MB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Passing /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/商务
+16:53:11 Passing /home/club/index/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/商务
+16:53:11 Passing /home/club/cache/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/商务
+16:53:11 Read index Done
+16:53:11 Read cache Done
+16:53:11 Write dirs in index Done
+16:53:11 Write dirs in cache Done
+16:53:11 Copying No.418 38张古色古香PPT.ppt	6.55 MB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.419 橙红商务.ppt	273.0 KB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.420 成功.ppt	522.5 KB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.421 创意方块实用商务PPT模板.ppt	1.64 MB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.422 大厦.ppt	1.45 MB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.423 党政风.ppt	1.52 MB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.424 工作计划.ppt	2.89 MB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.425 极简清新商务模板.ppt	568.5 KB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.426 简洁.ppt	142.5 KB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.427 简约.ppt	145.0 KB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Copying No.428 简约商务.ppt	265.5 KB
+16:53:11 Update index Done
+16:53:11 Update cache Done
+16:53:11 Queue total size: 20.14 MB
+16:53:11 Add 简约商务.ppt
+16:53:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 简约商务.ppt'])
+16:53:11 Commit Update
+16:53:11 Ready to Push
+16:53:11 Add Log

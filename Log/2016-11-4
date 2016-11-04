@@ -15752,3 +15752,79 @@
 17:55:11 Commit Update
 17:55:11 Ready to Push
 17:55:11 Add Log
+17:55:11 Commit Update
+17:55:11 Ready to Push
+17:55:11 Delete /home/club/local/数学/A_新高一年级（2019届）/xrt/科技节/高二数学趣味竞赛/高一一数学校本课程《趣味数学》.doc
+17:55:11 Delete /home/club/local/数学/A_新高一年级（2019届）/xrt/科技节/高二数学趣味竞赛/高中趣味数学-函数应用.ppt
+17:55:11 Delete /home/club/local/数学/A_新高一年级（2019届）/xrt/科技节/高二数学趣味竞赛/高中数学_竞赛试题趣味课件_新人教版.ppt
+17:55:11 Delete /home/club/local/数学/A_新高一年级（2019届）/xrt/科技节/高二数学趣味竞赛/高中数学趣味知识竞赛.ppt
+17:55:11 Delete /home/club/local/数学/A_新高一年级（2019届）/xrt/科技节/高二数学趣味竞赛/禄丰三中高二数学趣味知识竞赛试题(含答案).ppt
+17:55:11 Delete /home/club/local/数学/A_新高一年级（2019届）/xrt/科技节/高二数学趣味竞赛/趣味数学(一)_(1).ppt
+17:55:11 Delete /home/club/local/数学/A_新高一年级（2019届）/xrt/科技节/高二数学趣味竞赛/高二科技节数学知识竞赛(含答案).docx
+17:55:11 Copying No.2362 趣味数学(一).ppt	7.27 MB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2363 趣味数学题集_越做越聪明.doc	110.0 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2364 省实验中学高中数学课件集-趣味数学.ppt	337.0 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2365 数学趣味知识竞赛试题(含答案).ppt	7.46 MB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2366 数字谜——趣味数学游戏 (1).ppt	171.5 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2367 数字谜——趣味数学游戏.ppt	171.5 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Passing /home/club/local/数学/A_新高一年级（2019届）/xrt/数学知识竞赛
+17:55:11 Passing /home/club/index/数学/A_新高一年级（2019届）/xrt/数学知识竞赛
+17:55:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/xrt/数学知识竞赛
+17:55:11 Read index Done
+17:55:11 Read cache Done
+17:55:11 Write dirs in index Done
+17:55:11 Write dirs in cache Done
+17:55:11 Copying No.2368 笔试题目1.docx	82.85 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2369 笔试题目1.docx	82.85 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2370 笔试题目2.docx	77.02 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2371 笔试题目2.docx	77.02 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2372 初赛抢答题1.docx	50.73 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2373 初赛抢答题1.docx	50.73 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2374 初赛抢答题2.docx	59.95 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2375 初赛抢答题2.docx	59.95 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2376 复赛.docx	145.86 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2377 复赛.docx	145.86 KB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2378 科技节之数学知识竞赛.ppt	2.59 MB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Copying No.2379 科技节之数学知识竞赛2.ppt	2.78 MB
+17:55:11 Update index Done
+17:55:11 Update cache Done
+17:55:11 Queue total size: 21.68 MB
+17:55:11 Add 科技节之数学知识竞赛2.ppt
+17:55:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 科技节之数学知识竞赛2.ppt'])
+17:55:11 Commit Update
+17:56:11 Ready to Push
+17:56:11 Add Log

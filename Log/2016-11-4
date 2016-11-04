@@ -25754,3 +25754,68 @@
 18:48:11 Commit Update
 18:48:11 Ready to Push
 18:48:11 Add Log
+18:48:11 Commit Update
+18:49:11 Ready to Push
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/6校二联各班均分.xlsx
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/对数.docx
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/对数函数及其图象.ppt
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/给高三学子（2）.docx
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/考情卷3答案.docx
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/三角形四“心”的向量风采.doc
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/深圳实验_理科数学_小题分.xls
+18:49:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/改变自己_改变未来20150316.pptx
+18:49:11 Copying No.4370 改变自己 改变未来20150316.pptx	5.35 MB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Copying No.4371 静.ppt	4.33 MB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Copying No.4372 考试压力和考试焦虑.ppt	200.0 KB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Copying No.4373 考试压力松一松.ppt	0.99 MB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Copying No.4374 励志故事.ppt	350.5 KB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Copying No.4375 诸葛亮写给儿子的信.ppt	1.2 MB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/0/0
+18:49:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/0/0
+18:49:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/0/0
+18:49:11 Read index Done
+18:49:11 Read cache Done
+18:49:11 Write dirs in index Done
+18:49:11 Write dirs in cache Done
+18:49:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/0/安全逃生演练
+18:49:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/0/安全逃生演练
+18:49:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/0/安全逃生演练
+18:49:11 Read index Done
+18:49:11 Read cache Done
+18:49:11 Write dirs in index Done
+18:49:11 Write dirs in cache Done
+18:49:11 Copying No.4376 2015.03教学楼疏散演习（定稿）.doc	41.0 KB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/0/思维游戏1
+18:49:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/0/思维游戏1
+18:49:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/0/思维游戏1
+18:49:11 Read index Done
+18:49:11 Read cache Done
+18:49:11 Write dirs in index Done
+18:49:11 Write dirs in cache Done
+18:49:11 Found too large 思维游戏1.pptx
+18:49:11 Copying No.4377 思维游戏3.pptx	5.81 MB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Copying No.4378 思维游戏3.pptx	5.81 MB
+18:49:11 Update index Done
+18:49:11 Update cache Done
+18:49:11 Queue total size: 24.07 MB
+18:49:11 Add 思维游戏3.pptx
+18:49:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 思维游戏3.pptx'])
+18:49:11 Commit Update
+18:49:11 Ready to Push
+18:49:11 Add Log

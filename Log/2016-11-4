@@ -16694,3 +16694,29 @@
 17:59:11 Commit Update
 17:59:11 Ready to Push
 17:59:11 Add Log
+17:59:11 Commit Update
+17:59:11 Ready to Push
+17:59:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/2.1.1合情推理.ppt
+17:59:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/《3.1.1数系的扩充和复数的概念》.ppt
+17:59:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/《3.1.2复数的几何意义》.ppt
+17:59:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/专题一_突破高考客观题常考问题_-数学（理科）-全国卷地区专用.pptx
+17:59:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/1.7_定积分的简单应用.ppt
+17:59:11 Copying No.2546 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx	16.42 MB
+17:59:11 Update index Done
+17:59:11 Update cache Done
+17:59:11 Passing /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件
+17:59:11 Passing /home/club/index/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件
+17:59:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件
+17:59:11 Read index Done
+17:59:11 Read cache Done
+17:59:11 Write dirs in index Done
+17:59:11 Write dirs in cache Done
+17:59:11 Copying No.2547 专题八 数学思想方法 -数学（理科）-全国卷地区专用.pptx	3.78 MB
+17:59:11 Update index Done
+17:59:11 Update cache Done
+17:59:11 Queue total size: 20.2 MB
+17:59:11 Add 专题八 数学思想方法 -数学（理科）-全国卷地区专用.pptx
+17:59:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题八 数学思想方法 -数学（理科）-全国卷地区专用.pptx'])
+17:59:11 Commit Update
+17:59:11 Ready to Push
+17:59:11 Add Log

@@ -23373,3 +23373,16 @@
 18:31:11 Commit Update
 18:32:11 Ready to Push
 18:32:11 Add Log
+18:32:11 Commit Update
+18:32:11 Ready to Push
+18:32:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:32:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第1单元-集合与常用逻辑用语_-数学（理科）-新课标-全国卷.pptx
+18:32:11 Copying No.3902 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx	34.51 MB
+18:32:11 Update index Done
+18:32:11 Update cache Done
+18:32:11 Queue total size: 34.51 MB
+18:32:11 Add 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:32:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx'])
+18:32:11 Commit Update
+18:32:11 Ready to Push
+18:32:11 Add Log

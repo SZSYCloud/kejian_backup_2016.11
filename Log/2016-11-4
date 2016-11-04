@@ -20831,3 +20831,52 @@
 18:18:11 Commit Update
 18:19:11 Ready to Push
 18:19:11 Add Log
+18:19:11 Commit Update
+18:19:11 Ready to Push
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.1.1简单随机抽样.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.1.2系统抽样.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.1.3分层抽样.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.2.1用样本的频率分布估计总体分布.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.2.1用样本频率分布估计总体分布.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.2.2标准差.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.3线性回归.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/2.3线性回归2.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20121122充分条件与必要条件.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20121126简单的逻辑连接词.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20160912频率分布直方图和茎叶图练习.doc
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20160930几何概型习题课.pptx
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20161009必修三必修五综合习题.doc
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20161017四种命题的相互关系.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20161031全称量词与存在量词.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20161101xitike.pptx
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20161102曲线与方程.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/20161103求曲线的方程.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/3.1.1随机事件的概率1.ppt
+18:19:11 Delete /home/club/local/数学/B_新高二年级（2018届）/冯国东/高二/1.3算法案例.ppt
+18:19:11 Copying No.3392 3.1.2-3概率的意义与基本性质.ppt	5.55 MB
+18:19:11 Update index Done
+18:19:11 Update cache Done
+18:19:11 Copying No.3393 3.2.1古典概型.ppt	5.1 MB
+18:19:11 Update index Done
+18:19:11 Update cache Done
+18:19:11 Copying No.3394 3.2.1古典概型2.ppt	407.5 KB
+18:19:11 Update index Done
+18:19:11 Update cache Done
+18:19:11 Copying No.3395 3.2.2整数值随机数的产生.pptx	89.83 KB
+18:19:11 Update index Done
+18:19:11 Update cache Done
+18:19:11 Copying No.3396 3.2.2整数值随机数的产生.pptx	89.83 KB
+18:19:11 Update index Done
+18:19:11 Update cache Done
+18:19:11 Copying No.3397 3.3.1几何概型.ppt	3.91 MB
+18:19:11 Update index Done
+18:19:11 Update cache Done
+18:19:11 Copying No.3398 3.3.2均匀随机数的产生.ppt	6.48 MB
+18:19:11 Update index Done
+18:19:11 Update cache Done
+18:19:11 Queue total size: 21.61 MB
+18:19:11 Add 3.3.2均匀随机数的产生.ppt
+18:19:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 3.3.2均匀随机数的产生.ppt'])
+18:19:11 Commit Update
+18:19:11 Ready to Push
+18:19:11 Add Log

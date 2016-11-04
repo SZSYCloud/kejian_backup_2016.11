@@ -12095,3 +12095,19 @@
 17:32:11 Commit Update
 17:32:11 Ready to Push
 17:32:11 Add Log
+17:32:11 Commit Update
+17:32:11 Ready to Push
+17:32:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/“逐字编辑”PPT课件/第4单元-平面向量-数学（理科）-新课标.ppt
+17:32:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/“逐字编辑”PPT课件/第3单元-三角函数、解三角形-数学（文科）-新课标.ppt
+17:32:11 Copying No.1639 第5单元-数列-数学（理科）-新课标.ppt	11.03 MB
+17:32:11 Update index Done
+17:32:11 Update cache Done
+17:32:11 Copying No.1640 第6单元-不等式、推理与证明-数学（理科）-新课标.ppt	13.8 MB
+17:32:11 Update index Done
+17:32:11 Update cache Done
+17:32:11 Queue total size: 24.83 MB
+17:32:11 Add 第6单元-不等式、推理与证明-数学（理科）-新课标.ppt
+17:32:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第6单元-不等式、推理与证明-数学（理科）-新课标.ppt'])
+17:32:11 Commit Update
+17:32:11 Ready to Push
+17:32:11 Add Log

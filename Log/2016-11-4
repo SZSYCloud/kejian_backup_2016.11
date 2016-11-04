@@ -25952,3 +25952,17 @@
 18:51:11 Commit Update
 18:51:11 Ready to Push
 18:51:11 Add Log
+18:51:11 Commit Update
+18:52:11 Ready to Push
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第15讲__定积分与微积分基本定理.pptx
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第14讲_第3课时__导数的应用.pptx
+18:52:11 Copying No.4400 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx	34.51 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Queue total size: 34.51 MB
+18:52:11 Add 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:52:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx'])
+18:52:11 Commit Update
+18:52:11 Ready to Push
+18:52:11 Add Log

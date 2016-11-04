@@ -25884,3 +25884,45 @@
 18:50:11 Commit Update
 18:50:11 Ready to Push
 18:50:11 Add Log
+18:50:11 Commit Update
+18:50:11 Ready to Push
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/思维游戏1/思维游戏4.pptx
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/OK/“二联”把关题练习20161028.docx
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第10讲__函数的图像.pptx
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第11讲__函数与方程.pptx
+18:50:11 Copying No.4386 第11讲  函数与方程.pptx	2.19 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4387 第12讲  函数模型及其应用.pptx	1.54 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4388 第12讲  函数模型及其应用.pptx	1.54 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4389 第13讲  变化率与导数、导数的运算.pptx	3.36 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4390 第13讲  变化率与导数、导数的运算.pptx	3.36 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4391 第14讲 第1课时  导数与函数的单调性.pptx	2.92 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4392 第14讲 第1课时  导数与函数的单调性.pptx	2.92 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4393 第14讲 第2课时  导数与函数的极值、最值.pptx	858.82 KB
+18:51:11 Update index Done
+18:51:11 Update cache Done
+18:51:11 Copying No.4394 第14讲 第2课时  导数与函数的极值、最值.pptx	858.82 KB
+18:51:11 Update index Done
+18:51:11 Update cache Done
+18:51:11 Copying No.4395 第14讲 第3课时  导数的应用.pptx	1.25 MB
+18:51:11 Update index Done
+18:51:11 Update cache Done
+18:51:11 Queue total size: 20.75 MB
+18:51:11 Add 第14讲 第3课时  导数的应用.pptx
+18:51:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第14讲 第3课时  导数的应用.pptx'])
+18:51:11 Commit Update
+18:51:11 Ready to Push
+18:51:11 Add Log

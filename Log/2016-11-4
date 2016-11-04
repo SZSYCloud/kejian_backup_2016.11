@@ -13549,3 +13549,24 @@
 17:43:11 Commit Update
 17:43:11 Ready to Push
 17:43:11 Add Log
+17:43:11 Commit Update
+17:43:11 Ready to Push
+17:43:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/（衡水万卷）2016年普通高等学校招生全国统一考试模拟数学（理）试题（二）（含答案解析）.doc
+17:43:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/PPT听课手册配套课件/专题八_数学思想方法_-数学（理科）-全国卷地区专用.pptx
+17:43:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/PPT听课手册配套课件/专题二_函数与导数_-数学（理科）-全国卷地区专用.pptx
+17:43:11 Delete /home/club/local/数学/A_新高一年级（2019届）/FSZ/高三第二轮专题复习/全品第二轮数学/2016高三步步高二轮数学复习专题/【卓越学案】2016届高考理数二轮课件：9.5圆锥曲线中的定点定值与范围.ppt
+17:43:11 Copying No.1910 专题二 函数与导数 -数学（理科）-全国卷地区专用.pptx	10.72 MB
+17:43:11 Update index Done
+17:43:11 Update cache Done
+17:43:11 Copying No.1911 专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx	5.59 MB
+17:43:11 Update index Done
+17:43:11 Update cache Done
+17:43:11 Copying No.1912 专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx	5.59 MB
+17:43:11 Update index Done
+17:43:11 Update cache Done
+17:43:11 Queue total size: 21.9 MB
+17:43:11 Add 专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx
+17:43:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx'])
+17:43:11 Commit Update
+17:43:11 Ready to Push
+17:43:11 Add Log

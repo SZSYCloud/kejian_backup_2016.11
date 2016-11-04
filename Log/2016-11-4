@@ -12124,3 +12124,15 @@
 17:32:11 Commit Update
 17:32:11 Ready to Push
 17:32:11 Add Log
+17:32:11 Commit Update
+17:32:11 Ready to Push
+17:32:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/“逐字编辑”PPT课件/第7单元-立体几何-数学（理科）-新课标.ppt
+17:32:11 Copying No.1642 第8单元-解析几何-数学（理科）-新课标.ppt	26.32 MB
+17:32:11 Update index Done
+17:32:11 Update cache Done
+17:32:11 Queue total size: 26.32 MB
+17:32:11 Add 第8单元-解析几何-数学（理科）-新课标.ppt
+17:32:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第8单元-解析几何-数学（理科）-新课标.ppt'])
+17:32:11 Commit Update
+17:33:11 Ready to Push
+17:33:11 Add Log

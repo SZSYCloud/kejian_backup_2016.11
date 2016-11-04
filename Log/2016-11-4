@@ -26701,3 +26701,22 @@
 18:55:11 Commit Update
 18:55:11 Ready to Push
 18:55:11 Add Log
+18:55:11 Commit Update
+18:55:11 Ready to Push
+18:55:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/课件/第1单元-集合与常用逻辑用语_-数学（理科）-新课标-全国卷.pptx
+18:55:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/课堂检验/第一讲__集合_课堂检验.docx
+18:55:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/其它/2016全国高考数学卷理科1压轴题第21题分析.doc
+18:55:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/其它/2016新课标(1)高考理科数学18、20、21题别解.doc
+18:55:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第10单元　算法初步、统计、统计案例_-数学（理科）-新课标-全国卷.pptx
+18:55:11 Copying No.4522 第10单元　算法初步、统计、统计案例 -数学（理科）-新课标-全国卷.pptx	15.12 MB
+18:55:11 Update index Done
+18:55:11 Update cache Done
+18:55:11 Copying No.4523 第1单元-集合与常用逻辑用语 -数学（理科）-新课标-全国卷.pptx	6.47 MB
+18:55:11 Update index Done
+18:55:11 Update cache Done
+18:55:11 Queue total size: 21.59 MB
+18:55:11 Add 第1单元-集合与常用逻辑用语 -数学（理科）-新课标-全国卷.pptx
+18:55:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第1单元-集合与常用逻辑用语 -数学（理科）-新课标-全国卷.pptx'])
+18:55:11 Commit Update
+18:56:11 Ready to Push
+18:56:11 Add Log

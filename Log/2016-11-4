@@ -25819,3 +25819,68 @@
 18:49:11 Commit Update
 18:49:11 Ready to Push
 18:49:11 Add Log
+18:49:11 Commit Update
+18:50:11 Ready to Push
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/静.ppt
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/考试压力和考试焦虑.ppt
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/考试压力松一松.ppt
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/励志故事.ppt
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/诸葛亮写给儿子的信.ppt
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/安全逃生演练/2015.03教学楼疏散演习（定稿）.doc
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/思维游戏1/思维游戏3.pptx
+18:50:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/0/改变自己_改变未来20150316.pptx
+18:50:11 Copying No.4379 思维游戏4.pptx	4.81 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4380 思维游戏4.pptx	4.81 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/0/思维游戏1/思维游戏1图片
+18:50:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/0/思维游戏1/思维游戏1图片
+18:50:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/0/思维游戏1/思维游戏1图片
+18:50:11 Read index Done
+18:50:11 Read cache Done
+18:50:11 Write dirs in index Done
+18:50:11 Write dirs in cache Done
+18:50:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/OK
+18:50:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/OK
+18:50:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/OK
+18:50:11 Read index Done
+18:50:11 Read cache Done
+18:50:11 Write dirs in index Done
+18:50:11 Write dirs in cache Done
+18:50:11 Copying No.4381 “二联”把关题练习20161028.docx	574.06 KB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4382 “二联”把关题练习20161028.docx	574.06 KB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/OK/[原始文件]
+18:50:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/OK/[原始文件]
+18:50:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/OK/[原始文件]
+18:50:11 Read index Done
+18:50:11 Read cache Done
+18:50:11 Write dirs in index Done
+18:50:11 Write dirs in cache Done
+18:50:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/二 函数导数
+18:50:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/二 函数导数
+18:50:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/二 函数导数
+18:50:11 Read index Done
+18:50:11 Read cache Done
+18:50:11 Write dirs in index Done
+18:50:11 Write dirs in cache Done
+18:50:11 Copying No.4383 第10讲  函数的图像.pptx	4.06 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4384 第10讲  函数的图像.pptx	4.06 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Copying No.4385 第11讲  函数与方程.pptx	2.19 MB
+18:50:11 Update index Done
+18:50:11 Update cache Done
+18:50:11 Queue total size: 21.05 MB
+18:50:11 Add 第11讲  函数与方程.pptx
+18:50:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第11讲  函数与方程.pptx'])
+18:50:11 Commit Update
+18:50:11 Ready to Push
+18:50:11 Add Log

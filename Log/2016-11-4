@@ -26002,3 +26002,60 @@
 18:52:11 Commit Update
 18:52:11 Ready to Push
 18:52:11 Add Log
+18:52:11 Commit Update
+18:52:11 Ready to Push
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第4讲　函数的概念及其表示.pptx
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第5讲__函数的单调性与最值.pptx
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第6讲__函数的奇偶性与周期性.pptx
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第7讲__二次函数与幂函数.pptx
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第8讲__指数与指数函数.pptx
+18:52:11 Copying No.4410 第8讲  指数与指数函数.pptx	2.15 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4411 第9讲  对数与对数函数.pptx	1.81 MB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Copying No.4412 第9讲  对数与对数函数.pptx	1.81 MB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Copying No.4413 二次方程根的分布情况以及二次函数在闭区间上的最值归纳(完整版).doc	582.5 KB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Copying No.4414 函数应用题.pptx	280.25 KB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Copying No.4415 函数应用题.pptx	280.25 KB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Copying No.4416 求下列函数的值域.doc	232.5 KB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/高二下二段考后7班家长会
+18:53:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/高二下二段考后7班家长会
+18:53:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/高二下二段考后7班家长会
+18:53:11 Read index Done
+18:53:11 Read cache Done
+18:53:11 Write dirs in index Done
+18:53:11 Write dirs in cache Done
+18:53:11 Copying No.4417 高二（7）家长会20160614.ppt	831.5 KB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Copying No.4418 高一（7）班下家长会201505.ppt	7.36 MB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Passing /home/club/local/数学/C_高三年级（2017届）/ywl/高二下二段考后7班家长会/部分班会资料
+18:53:11 Passing /home/club/index/数学/C_高三年级（2017届）/ywl/高二下二段考后7班家长会/部分班会资料
+18:53:11 Passing /home/club/cache/数学/C_高三年级（2017届）/ywl/高二下二段考后7班家长会/部分班会资料
+18:53:11 Read index Done
+18:53:11 Read cache Done
+18:53:11 Write dirs in index Done
+18:53:11 Write dirs in cache Done
+18:53:11 Copying No.4419 改变自己 改变未来.pptx	5.35 MB
+18:53:11 Update index Done
+18:53:11 Update cache Done
+18:53:11 Queue total size: 20.64 MB
+18:53:11 Add 改变自己 改变未来.pptx
+18:53:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 改变自己 改变未来.pptx'])
+18:53:11 Commit Update
+18:53:11 Ready to Push
+18:53:11 Add Log

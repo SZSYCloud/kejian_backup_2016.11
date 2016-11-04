@@ -4663,3 +4663,33 @@
 16:51:11 Commit Update
 16:51:11 Ready to Push
 16:51:11 Add Log
+16:51:11 Commit Update
+16:51:11 Ready to Push
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/表情清新.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/表情清新PPT.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/彩色缤纷文件夹背景PPT模板.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/彩色缤纷文件夹背景PPT模板，www.1ppt.com.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/城市生活PPT模板.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/橙蓝撞色PPT色彩模板.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/橙色模板PPT.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/创新科技模板PPT.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/创新科技模板PPT.pptm
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/创意.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/创意7.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/创意图形示意图.ppt
+16:51:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/【城市生活PPT模板www.1ppt.com】.ppt
+16:51:11 Copying No.378 创意图形示意图多个PPT.ppt	16.37 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.379 春天背景PPT.ppt	2.26 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.380 淡雅背景PPT.ppt	2.44 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Queue total size: 21.07 MB
+16:51:11 Add 淡雅背景PPT.ppt
+16:51:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 淡雅背景PPT.ppt'])
+16:51:11 Commit Update
+16:51:11 Ready to Push
+16:51:11 Add Log

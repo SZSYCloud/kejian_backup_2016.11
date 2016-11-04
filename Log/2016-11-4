@@ -12210,3 +12210,25 @@
 17:33:11 Commit Update
 17:33:11 Ready to Push
 17:33:11 Add Log
+17:33:11 Commit Update
+17:33:11 Ready to Push
+17:33:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题二_函数与导数_-数学（理科）-全国卷地区专用.pptx
+17:33:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题八_数学思想方法_-数学（理科）-全国卷地区专用.pptx
+17:33:11 Copying No.1651 专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx	5.59 MB
+17:33:11 Update index Done
+17:33:11 Update cache Done
+17:33:11 Copying No.1652 专题九-选考模块部分-数学（理科）-全国卷地区专用.pptx	5.59 MB
+17:33:11 Update index Done
+17:33:11 Update cache Done
+17:33:11 Copying No.1653 专题六 解析几何-数学（理科）-全国卷地区专用.pptx	7.89 MB
+17:33:11 Update index Done
+17:33:11 Update cache Done
+17:33:11 Copying No.1654 专题六 解析几何-数学（理科）-全国卷地区专用.pptx	7.89 MB
+17:33:11 Update index Done
+17:33:11 Update cache Done
+17:33:11 Queue total size: 26.96 MB
+17:33:11 Add 专题六 解析几何-数学（理科）-全国卷地区专用.pptx
+17:33:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题六 解析几何-数学（理科）-全国卷地区专用.pptx'])
+17:33:11 Commit Update
+17:33:11 Ready to Push
+17:33:11 Add Log

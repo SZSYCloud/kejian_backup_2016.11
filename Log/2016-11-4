@@ -21547,3 +21547,46 @@
 18:21:11 Commit Update
 18:22:11 Ready to Push
 18:22:11 Add Log
+18:22:11 Commit Update
+18:22:11 Ready to Push
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/通项求法类型九.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/专题三(4).doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/常用逻辑用语/常用逻辑用语习题课.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/常用逻辑用语/充要条件（1）.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/常用逻辑用语/充要条件习题课.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/常用逻辑用语/简单的逻辑联结词.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/常用逻辑用语/全称量词和存在量词.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/常用逻辑用语/四种命题.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/常用逻辑用语/四种命题的关系习题课.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/概率/3.1.3概率的基本性质.ppt
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/概率/3.2.1古典概型.ppt
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/概率/古典概率.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/概率/古典概率补充作业.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/概率/古典概率习题课.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/概率/几何概率.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/曲线与方程/曲线与方程.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/统计/2.2.2-1用样本数字特征估计总体数字特征.ppt
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/统计/2.2.3_总体分布的习题课.ppt
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/统计/抽样方法、用样本估计总体、茎叶图.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/统计/茎叶图.ppt
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/统计/练习.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/统计/随机抽样.doc
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/统计/线性回归分析习题课.ppt
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/魏老师/10班数学成绩.xls
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/魏老师/9班数学成绩.xls
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/选修2-1_全品/测评卷正文.docx
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/选修2-1_全品/第1章-常用逻辑用语-选修2-1-新课标（RJA）-数学.pptx
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/选修2-1_全品/第2章-圆锥曲线与方程-选修2-1-新课标（RJA）-数学.pptx
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/田祚鹏/随机抽样.doc
+18:22:11 Copying No.3516 第2章-圆锥曲线与方程-选修2-1-新课标（RJA）-数学.pptx	12.79 MB
+18:22:11 Update index Done
+18:22:11 Update cache Done
+18:22:11 Copying No.3517 第3章-空间向量与立体几何-选修2-1-新课标（RJA）-数学 .pptx	14.82 MB
+18:22:11 Update index Done
+18:22:11 Update cache Done
+18:22:11 Queue total size: 27.6 MB
+18:22:11 Add 第3章-空间向量与立体几何-选修2-1-新课标（RJA）-数学 .pptx
+18:22:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第3章-空间向量与立体几何-选修2-1-新课标（RJA）-数学 .pptx'])
+18:22:11 Commit Update
+18:22:11 Ready to Push
+18:22:11 Add Log

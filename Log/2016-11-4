@@ -27896,3 +27896,32 @@
 19:9:11 Commit Update
 19:9:11 Ready to Push
 19:9:11 Add Log
+19:9:11 Commit Update
+19:9:11 Ready to Push
+19:9:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件/专题一_突破高考客观题常考问题_-数学（理科）-全国卷地区专用.pptx
+19:9:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件/专题五_立体几何-数学（理科）-全国卷地区专用.pptx
+19:9:11 Copying No.4709 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx	16.76 MB
+19:9:11 Update index Done
+19:9:11 Update cache Done
+19:9:11 Passing /home/club/local/数学/C_高三年级（2017届）/冯光耀/课件/2－1
+19:9:11 Passing /home/club/index/数学/C_高三年级（2017届）/冯光耀/课件/2－1
+19:9:11 Passing /home/club/cache/数学/C_高三年级（2017届）/冯光耀/课件/2－1
+19:9:11 Read index Done
+19:9:11 Read cache Done
+19:9:11 Write dirs in index Done
+19:9:11 Write dirs in cache Done
+19:9:11 Copying No.4710 3.1.3空间向量的数量积运算课件.ppt	1.85 MB
+19:9:11 Update index Done
+19:9:11 Update cache Done
+19:9:11 Copying No.4711 3.2 立体几何中的向量方法(4).ppt	1.21 MB
+19:9:11 Update index Done
+19:9:11 Update cache Done
+19:9:11 Copying No.4712 3.2立体几何中的向量方法.ppt	0.99 MB
+19:9:11 Update index Done
+19:9:11 Update cache Done
+19:9:11 Queue total size: 20.8 MB
+19:9:11 Add 3.2立体几何中的向量方法.ppt
+19:9:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 3.2立体几何中的向量方法.ppt'])
+19:9:11 Commit Update
+19:9:11 Ready to Push
+19:9:11 Add Log

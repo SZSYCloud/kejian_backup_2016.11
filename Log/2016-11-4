@@ -26845,3 +26845,15 @@
 18:59:11 Commit Update
 19:0:11 Ready to Push
 19:0:11 Add Log
+19:0:11 Commit Update
+19:0:11 Ready to Push
+19:0:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第8单元-解析几何-数学（理科）-新课标-全国卷.pptx
+19:0:11 Copying No.4538 第8单元-解析几何-数学（理科）-新课标-全国卷.pptx	21.16 MB
+19:0:11 Update index Done
+19:0:11 Update cache Done
+19:0:11 Queue total size: 21.16 MB
+19:0:11 Add 第8单元-解析几何-数学（理科）-新课标-全国卷.pptx
+19:0:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第8单元-解析几何-数学（理科）-新课标-全国卷.pptx'])
+19:0:11 Commit Update
+19:0:11 Ready to Push
+19:0:11 Add Log

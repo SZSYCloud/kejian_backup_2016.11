@@ -21590,3 +21590,80 @@
 18:22:11 Commit Update
 18:22:11 Ready to Push
 18:22:11 Add Log
+18:22:11 Commit Update
+18:22:11 Ready to Push
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/选修2-1_全品/第3章-空间向量与立体几何-选修2-1-新课标（RJA）-数学_.pptx
+18:22:11 Delete /home/club/local/数学/B_新高二年级（2018届）/选修2-1_全品/第2章-圆锥曲线与方程-选修2-1-新课标（RJA）-数学.pptx
+18:22:11 Copying No.3518 第3章-空间向量与立体几何-选修2-1-新课标（RJA）-数学 .pptx	14.82 MB
+18:22:11 Update index Done
+18:22:11 Update cache Done
+18:22:11 Passing /home/club/local/数学/B_新高二年级（2018届）/曾玉泉
+18:22:11 Passing /home/club/index/数学/B_新高二年级（2018届）/曾玉泉
+18:22:11 Passing /home/club/cache/数学/B_新高二年级（2018届）/曾玉泉
+18:22:11 Read index Done
+18:22:11 Read cache Done
+18:22:11 Write dirs in index Done
+18:22:11 Write dirs in cache Done
+18:22:11 Copying No.3519 3班学生成绩理科.xls	34.5 KB
+18:22:11 Update index Done
+18:22:11 Update cache Done
+18:22:11 Copying No.3520 分类加法计数原理和分步乘法计数原理.doc	623.0 KB
+18:22:11 Update index Done
+18:22:11 Update cache Done
+18:22:11 Copying No.3521 高二第一学期第一阶段.xls	147.5 KB
+18:22:11 Update index Done
+18:22:11 Update cache Done
+18:22:11 Copying No.3522 高二数学（理科）参考答案.doc	282.5 KB
+18:22:11 Update index Done
+18:22:11 Update cache Done
+18:22:11 Copying No.3523 高二数学（理科）试题.doc	255.5 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3524 高二一学期一阶段数学成绩.xls	155.0 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3525 高一第二学期第三阶段理科数学考试成绩.xls	154.0 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3526 高一第四阶段数学考试成绩.xls	151.5 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3527 高一数学（理）答案及评分标准.docx	178.11 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3528 高一数学（理）答案及评分标准.docx	178.11 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3529 高一数学第二学期二阶段数学考试成绩.xls	151.0 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3530 高一数学第三阶段数学考试成绩.xls	169.0 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3531 高一数学理答案(2015-2016).doc	837.0 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3532 解三角形、不等式、数列复习课.doc	668.0 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3533 立体几何复习题选.docx	382.38 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3534 立体几何复习题选.docx	382.38 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3535 三角形中的三角函数问题.doc	354.5 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3536 深圳实验学校高中部2015-2016年度第二学期第三学段数学试题答案及评分标准.docx	179.56 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Copying No.3537 深圳实验学校高中部2015-2016年度第二学期第三学段数学试题答案及评分标准.docx	179.56 KB
+18:23:11 Update index Done
+18:23:11 Update cache Done
+18:23:11 Queue total size: 20.15 MB
+18:23:11 Add 深圳实验学校高中部2015-2016年度第二学期第三学段数学试题答案及评分标准.docx
+18:23:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 深圳实验学校高中部2015-2016年度第二学期第三学段数学试题答案及评分标准.docx'])
+18:23:11 Commit Update
+18:23:11 Ready to Push
+18:23:11 Add Log

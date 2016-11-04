@@ -16783,3 +16783,22 @@
 18:0:11 Commit Update
 18:0:11 Ready to Push
 18:0:11 Add Log
+18:0:11 Commit Update
+18:0:11 Ready to Push
+18:0:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件/专题七_概率与统计-数学（理科）-全国卷地区专用.pptx
+18:0:11 Delete /home/club/local/数学/A_新高一年级（2019届）/冯光耀/课件/2016第二轮复习/PPT听课手册配套课件/专题三_三角函数、三角恒等变换与解三角形-数学（理科）-全国卷地区专用.pptx
+18:0:11 Copying No.2559 专题四 数列-数学（理科）-全国卷地区专用.pptx	3.39 MB
+18:0:11 Update index Done
+18:0:11 Update cache Done
+18:0:11 Copying No.2560 专题四 数列-数学（理科）-全国卷地区专用.pptx	3.39 MB
+18:0:11 Update index Done
+18:0:11 Update cache Done
+18:0:11 Copying No.2561 专题五 立体几何-数学（理科）-全国卷地区专用.pptx	15.3 MB
+18:1:11 Update index Done
+18:1:11 Update cache Done
+18:1:11 Queue total size: 22.08 MB
+18:1:11 Add 专题五 立体几何-数学（理科）-全国卷地区专用.pptx
+18:1:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 专题五 立体几何-数学（理科）-全国卷地区专用.pptx'])
+18:1:11 Commit Update
+18:1:11 Ready to Push
+18:1:11 Add Log

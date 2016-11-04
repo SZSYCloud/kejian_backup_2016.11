@@ -26809,3 +26809,15 @@
 18:58:11 Commit Update
 18:58:11 Ready to Push
 18:58:11 Add Log
+18:58:11 Commit Update
+18:58:11 Ready to Push
+18:58:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第6单元-不等式、推理与证明-数学（理科）-新课标-全国卷.pptx
+18:58:11 Copying No.4535 第7单元-立体几何-数学（理科）-新课标-全国卷.pptx	21.52 MB
+18:58:11 Update index Done
+18:58:11 Update cache Done
+18:58:11 Queue total size: 21.52 MB
+18:58:11 Add 第7单元-立体几何-数学（理科）-新课标-全国卷.pptx
+18:58:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第7单元-立体几何-数学（理科）-新课标-全国卷.pptx'])
+18:58:11 Commit Update
+18:59:11 Ready to Push
+18:59:11 Add Log

@@ -27124,3 +27124,47 @@
 19:3:11 Commit Update
 19:3:11 Ready to Push
 19:3:11 Add Log
+19:3:11 Commit Update
+19:3:11 Ready to Push
+19:3:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/G单元__立体几何.doc
+19:3:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/F单元　平面向量.doc
+19:3:11 Copying No.4577 H单元　解析几何.doc	6.49 MB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Copying No.4578 I单元　统计.doc	1.52 MB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Copying No.4579 J单元　计数原理.doc	292.5 KB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Copying No.4580 K单元  概率.doc	1.85 MB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Copying No.4581 L单元　算法初步与复数.doc	3.29 MB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Copying No.4582 M单元　推理与证明.doc	348.0 KB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Copying No.4583 N单元  选修4系列.doc	2.46 MB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Passing /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）
+19:3:11 Passing /home/club/index/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）
+19:3:11 Passing /home/club/cache/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/Word 5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）
+19:3:11 Read index Done
+19:3:11 Read cache Done
+19:3:11 Write dirs in index Done
+19:3:11 Write dirs in cache Done
+19:3:11 Copying No.4584 A单元  集合与常用逻辑用语.doc	135.0 KB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Copying No.4585 B单元  函数与导数.doc	4.97 MB
+19:3:11 Update index Done
+19:3:11 Update cache Done
+19:3:11 Queue total size: 21.34 MB
+19:3:11 Add B单元  函数与导数.doc
+19:3:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update B单元  函数与导数.doc'])
+19:3:11 Commit Update
+19:3:11 Ready to Push
+19:3:11 Add Log

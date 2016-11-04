@@ -26736,3 +26736,16 @@
 18:56:11 Commit Update
 18:56:11 Ready to Push
 18:56:11 Add Log
+18:56:11 Commit Update
+18:56:11 Ready to Push
+18:56:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:56:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第1单元-集合与常用逻辑用语_-数学（理科）-新课标-全国卷.pptx
+18:56:11 Copying No.4526 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx	34.51 MB
+18:56:11 Update index Done
+18:56:11 Update cache Done
+18:56:11 Queue total size: 34.51 MB
+18:56:11 Add 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:56:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx'])
+18:56:11 Commit Update
+18:56:11 Ready to Push
+18:56:11 Add Log

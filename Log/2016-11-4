@@ -12289,3 +12289,42 @@
 17:34:11 Commit Update
 17:34:11 Ready to Push
 17:34:11 Add Log
+17:34:11 Commit Update
+17:34:11 Ready to Push
+17:34:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题一_突破高考客观题常考问题_-数学（理科）-全国卷地区专用.pptx
+17:34:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/PPT听课手册配套课件/专题五_立体几何-数学（理科）-全国卷地区专用.pptx
+17:34:11 Copying No.1664 专题一 突破高考客观题常考问题 -数学（理科）-全国卷地区专用.pptx	16.76 MB
+17:34:11 Update index Done
+17:34:11 Update cache Done
+17:34:11 Passing /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/Word格式5年真题
+17:34:11 Passing /home/club/index/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/Word格式5年真题
+17:34:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/Word格式5年真题
+17:34:11 Read index Done
+17:34:11 Read cache Done
+17:34:11 Write dirs in index Done
+17:34:11 Write dirs in cache Done
+17:34:11 Copying No.1665 2013·新课标全国卷Ⅰ（理）.doc	745.0 KB
+17:35:11 Update index Done
+17:35:11 Update cache Done
+17:35:11 Copying No.1666 2013·新课标全国卷Ⅱ（理）.doc	583.5 KB
+17:35:11 Update index Done
+17:35:11 Update cache Done
+17:35:11 Passing /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/Word格式全书稿件
+17:35:11 Passing /home/club/index/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/Word格式全书稿件
+17:35:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/2016高三数学复习/全品第2轮专题/Word格式全书稿件
+17:35:11 Read index Done
+17:35:11 Read cache Done
+17:35:11 Write dirs in index Done
+17:35:11 Write dirs in cache Done
+17:35:11 Copying No.1667 二轮理科听课答案表格.docx	1.67 MB
+17:35:11 Update index Done
+17:35:11 Update cache Done
+17:35:11 Copying No.1668 二轮理科听课答案表格.docx	1.67 MB
+17:35:11 Update index Done
+17:35:11 Update cache Done
+17:35:11 Queue total size: 21.4 MB
+17:35:11 Add 二轮理科听课答案表格.docx
+17:35:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 二轮理科听课答案表格.docx'])
+17:35:11 Commit Update
+17:35:11 Ready to Push
+17:35:11 Add Log

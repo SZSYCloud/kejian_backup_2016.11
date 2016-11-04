@@ -4610,3 +4610,56 @@
 16:50:11 Commit Update
 16:50:11 Ready to Push
 16:50:11 Add Log
+16:50:11 Commit Update
+16:50:11 Ready to Push
+16:50:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/3D小人.ppt
+16:50:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/3D小人PPT.ppt
+16:50:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/3D质感PPT图表.ppt
+16:50:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/3D质感图表.ppt
+16:50:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/ppt图表模板大全.ppt
+16:50:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/31页目录形式PPT.ppt
+16:50:11 Copying No.365 【城市生活PPT模板www.1ppt.com】.ppt	791.0 KB
+16:50:11 Update index Done
+16:50:11 Update cache Done
+16:50:11 Copying No.366 表情清新.ppt	171.0 KB
+16:50:11 Update index Done
+16:50:11 Update cache Done
+16:50:11 Copying No.367 表情清新PPT.ppt	173.0 KB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.368 彩色缤纷文件夹背景PPT模板.ppt	1.95 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.369 彩色缤纷文件夹背景PPT模板，www.1ppt.com.ppt	1.94 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.370 城市生活PPT模板.ppt	595.0 KB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.371 橙蓝撞色PPT色彩模板.ppt	202.5 KB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.372 橙色模板PPT.ppt	6.54 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.373 创新科技模板PPT.ppt	1.59 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.374 创新科技模板PPT.pptm	1.16 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.375 创意.ppt	1.4 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.376 创意7.ppt	1.39 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Copying No.377 创意图形示意图.ppt	16.77 MB
+16:51:11 Update index Done
+16:51:11 Update cache Done
+16:51:11 Queue total size: 34.63 MB
+16:51:11 Add 创意图形示意图.ppt
+16:51:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 创意图形示意图.ppt'])
+16:51:11 Commit Update
+16:51:11 Ready to Push
+16:51:11 Add Log

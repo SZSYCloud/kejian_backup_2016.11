@@ -4743,3 +4743,69 @@
 16:52:11 Commit Update
 16:52:11 Ready to Push
 16:52:11 Add Log
+16:52:11 Commit Update
+16:52:11 Ready to Push
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/动态模板PPT.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/风.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/高画质的精美PPT.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/古典风韵.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/荷韵.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/黑色.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/红白经典.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/红色幕布.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/金格子商务.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/精美彩色立体图表ppt.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/经典商务.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/蓝色背景多图案.ppt
+16:52:11 Delete /home/club/local/数学/16级高一数学(康方陈潘廖谢徐)/备课组公共资料/图片素材/课件模板/创意/灯光.ppt
+16:52:11 Copying No.394 蓝色格调.ppt	975.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.395 蓝色简约.ppt	174.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.396 兰花.ppt	401.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.397 梅花.ppt	647.0 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.398 模板小人红.ppt	257.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.399 木质背景.ppt	4.44 MB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.400 目录形式.ppt	4.21 MB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.401 牛皮纸.ppt	750.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.402 生如夏花艺术PPT.ppt	702.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.403 时尚模板PPT.ppt	1.58 MB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.404 实用创意模板PPT.ppt	3.97 MB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.405 水墨.ppt	286.0 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.406 水墨梅花.ppt	567.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.407 水墨中国.ppt	939.5 KB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Copying No.408 图表模板大全.ppt	8.85 MB
+16:52:11 Update index Done
+16:52:11 Update cache Done
+16:52:11 Queue total size: 28.62 MB
+16:52:11 Add 图表模板大全.ppt
+16:52:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 图表模板大全.ppt'])
+16:52:11 Commit Update
+16:52:11 Ready to Push
+16:52:11 Add Log

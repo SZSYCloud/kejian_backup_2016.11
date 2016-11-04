@@ -23431,3 +23431,18 @@
 18:33:11 Commit Update
 18:33:11 Ready to Push
 18:33:11 Add Log
+18:33:11 Commit Update
+18:33:11 Ready to Push
+18:33:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第5单元-数列-数学（理科）-新课标-全国卷地区.pptx
+18:33:11 Copying No.3909 第6单元-不等式、推理与证明-数学（理科）-新课标-全国卷.pptx	14.88 MB
+18:33:11 Update index Done
+18:33:11 Update cache Done
+18:33:11 Copying No.3910 第6单元-不等式、推理与证明-数学（理科）-新课标-全国卷.pptx	14.88 MB
+18:33:11 Update index Done
+18:33:11 Update cache Done
+18:33:11 Queue total size: 29.76 MB
+18:33:11 Add 第6单元-不等式、推理与证明-数学（理科）-新课标-全国卷.pptx
+18:33:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第6单元-不等式、推理与证明-数学（理科）-新课标-全国卷.pptx'])
+18:33:11 Commit Update
+18:33:11 Ready to Push
+18:33:11 Add Log

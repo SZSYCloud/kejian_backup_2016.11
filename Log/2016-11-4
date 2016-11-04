@@ -26857,3 +26857,18 @@
 19:0:11 Commit Update
 19:0:11 Ready to Push
 19:0:11 Add Log
+19:0:11 Commit Update
+19:0:11 Ready to Push
+19:0:11 Delete /home/club/local/数学/C_高三年级（2017届）/冯光耀/2017高三数学复习/第一轮复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第8单元-解析几何-数学（理科）-新课标-全国卷.pptx
+19:0:11 Copying No.4539 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx	18.41 MB
+19:0:11 Update index Done
+19:0:11 Update cache Done
+19:0:11 Copying No.4540 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx	18.41 MB
+19:0:11 Update index Done
+19:0:11 Update cache Done
+19:0:11 Queue total size: 36.81 MB
+19:0:11 Add 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx
+19:0:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx'])
+19:0:11 Commit Update
+19:0:11 Ready to Push
+19:0:11 Add Log

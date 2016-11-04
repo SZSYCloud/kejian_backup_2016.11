@@ -11992,3 +11992,68 @@
 17:30:11 Commit Update
 17:31:11 Ready to Push
 17:31:11 Add Log
+17:31:11 Commit Update
+17:31:11 Ready to Push
+17:31:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）/D单元　数列.doc
+17:31:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）/E单元　不等式.doc
+17:31:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）/F单元　平面向量.doc
+17:31:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）/G单元__立体几何.doc
+17:31:11 Delete /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word版高考真题分类汇编（2012-2014）/2014/数学-文科（2014高考真题+模拟新题）/C单元　三角函数.doc
+17:31:11 Copying No.1627 H单元　解析几何.doc	8.01 MB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Copying No.1628 I单元　统计.doc	2.21 MB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Copying No.1629 J单元　计数原理.doc	31.5 KB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Copying No.1630 K单元  概率.doc	989.0 KB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Copying No.1631 L单元　算法初步与复数.doc	3.28 MB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Copying No.1632 M单元　推理与证明.doc	86.5 KB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Copying No.1633 N单元  选修4系列.doc	1.76 MB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Passing /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册
+17:31:11 Passing /home/club/index/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册
+17:31:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册
+17:31:11 Read index Done
+17:31:11 Read cache Done
+17:31:11 Write dirs in index Done
+17:31:11 Write dirs in cache Done
+17:31:11 Passing /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册/测评手册
+17:31:11 Passing /home/club/index/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册/测评手册
+17:31:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册/测评手册
+17:31:11 Read index Done
+17:31:11 Read cache Done
+17:31:11 Write dirs in index Done
+17:31:11 Write dirs in cache Done
+17:31:11 Passing /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册/作业手册
+17:31:11 Passing /home/club/index/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册/作业手册
+17:31:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/2016高三数学复习/word格式作测手册/作业手册
+17:31:11 Read index Done
+17:31:11 Read cache Done
+17:31:11 Write dirs in index Done
+17:31:11 Write dirs in cache Done
+17:31:11 Passing /home/club/local/数学/A_新高一年级（2019届）/2016高三数学复习/“逐字编辑”PPT课件
+17:31:11 Passing /home/club/index/数学/A_新高一年级（2019届）/2016高三数学复习/“逐字编辑”PPT课件
+17:31:11 Passing /home/club/cache/数学/A_新高一年级（2019届）/2016高三数学复习/“逐字编辑”PPT课件
+17:31:11 Read index Done
+17:31:11 Read cache Done
+17:31:11 Write dirs in index Done
+17:31:11 Write dirs in cache Done
+17:31:11 Copying No.1634 第10单元　算法初步、统计、统计案例 -数学（理科）-新课标.ppt	16.03 MB
+17:31:11 Update index Done
+17:31:11 Update cache Done
+17:31:11 Queue total size: 32.37 MB
+17:31:11 Add 第10单元　算法初步、统计、统计案例 -数学（理科）-新课标.ppt
+17:31:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第10单元\u3000算法初步、统计、统计案例 -数学（理科）-新课标.ppt'])
+17:31:11 Commit Update
+17:31:11 Ready to Push
+17:31:11 Add Log

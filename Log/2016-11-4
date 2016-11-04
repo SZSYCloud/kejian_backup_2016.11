@@ -23482,3 +23482,15 @@
 18:35:11 Commit Update
 18:35:11 Ready to Push
 18:35:11 Add Log
+18:35:11 Commit Update
+18:35:11 Ready to Push
+18:35:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第8单元-解析几何-数学（理科）-新课标-全国卷.pptx
+18:35:11 Copying No.3914 第8单元-解析几何-数学（理科）-新课标-全国卷.pptx	21.16 MB
+18:35:11 Update index Done
+18:35:11 Update cache Done
+18:35:11 Queue total size: 21.16 MB
+18:35:11 Add 第8单元-解析几何-数学（理科）-新课标-全国卷.pptx
+18:35:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第8单元-解析几何-数学（理科）-新课标-全国卷.pptx'])
+18:35:11 Commit Update
+18:35:11 Ready to Push
+18:35:11 Add Log

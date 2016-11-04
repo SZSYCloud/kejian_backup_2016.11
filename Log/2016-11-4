@@ -23321,3 +23321,39 @@
 18:31:11 Commit Update
 18:31:11 Ready to Push
 18:31:11 Add Log
+18:31:11 Commit Update
+18:31:11 Ready to Push
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/深圳实验学校_10_原始数据.xls
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/深圳实验学校_11_原始数据.xls
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/深圳实验学校高中部高二年级第二学期周末练习20160520（含答案）.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/深圳实验学校高中部高二年级第二学期周末练习20160625.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/深圳实验学校高中部高二年级数学周练03.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/深圳实验学校高中部高二年级数学周练19.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/周末练习—推理与证明.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/20140223答案及详细解析.docx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/2014年深圳一模（理数）答案及评分标准.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/2014年深圳一模（理数）试题.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/2014深圳一模文理科数学阅卷安排表（02_28).xls
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/高三数学(理)周二训练20140211.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/高三数学(理)周二训练20140218.docx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/高三数学(理)周末练习20140213深一模考前综合训练.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/高三数学（理）测验试题（2014.3.4）.docx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/广东省深圳市2014届高三2月第一次调研数学文试题（WORD版）.doc
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2014届高三数学练习答案/周二测验__综合练习20140401.docx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/2017届高三数学理科答题卷.docx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/临界生培优/平面向量的数量积20161011.docx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/培优/处理“导数零点不可求问题”的方法.docx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第10单元　算法初步、统计、统计案例_-数学（理科）-新课标-全国卷.pptx
+18:31:11 Delete /home/club/local/数学/C_高三年级（2017届）/排列、组合与概率测验试题.docx
+18:31:11 Copying No.3898 第10单元　算法初步、统计、统计案例 -数学（理科）-新课标-全国卷.pptx	15.12 MB
+18:31:11 Update index Done
+18:31:11 Update cache Done
+18:31:11 Copying No.3899 第1单元-集合与常用逻辑用语 -数学（理科）-新课标-全国卷.pptx	6.47 MB
+18:31:11 Update index Done
+18:31:11 Update cache Done
+18:31:11 Queue total size: 21.59 MB
+18:31:11 Add 第1单元-集合与常用逻辑用语 -数学（理科）-新课标-全国卷.pptx
+18:31:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第1单元-集合与常用逻辑用语 -数学（理科）-新课标-全国卷.pptx'])
+18:31:11 Commit Update
+18:31:11 Ready to Push
+18:31:11 Add Log

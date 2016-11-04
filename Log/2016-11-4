@@ -23805,3 +23805,35 @@
 18:38:11 Commit Update
 18:38:11 Ready to Push
 18:38:11 Add Log
+18:38:11 Commit Update
+18:38:11 Ready to Push
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/I单元　统计.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/J单元　计数原理.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/K单元__概率.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/L单元　算法初步与复数.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/M单元　推理与证明.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/N单元__选修4系列.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）/A单元__集合与常用逻辑用语.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-文科（2014高考真题+模拟新题）/B单元__函数与导数.doc
+18:38:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/Word_5年真题分类汇编/2014/数学-理科（2014高考真题+模拟新题）/H单元　解析几何.doc
+18:38:11 Copying No.3962 C单元　三角函数.doc	2.77 MB
+18:38:11 Update index Done
+18:38:11 Update cache Done
+18:38:11 Copying No.3963 D单元　数列.doc	481.5 KB
+18:38:11 Update index Done
+18:38:11 Update cache Done
+18:38:11 Copying No.3964 E单元　不等式.doc	3.64 MB
+18:38:11 Update index Done
+18:38:11 Update cache Done
+18:38:11 Copying No.3965 F单元　平面向量.doc	0.98 MB
+18:38:11 Update index Done
+18:38:11 Update cache Done
+18:38:11 Copying No.3966 G单元  立体几何.doc	15.73 MB
+18:38:11 Update index Done
+18:38:11 Update cache Done
+18:38:11 Queue total size: 23.6 MB
+18:38:11 Add G单元  立体几何.doc
+18:38:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update G单元  立体几何.doc'])
+18:38:11 Commit Update
+18:38:11 Ready to Push
+18:38:11 Add Log

@@ -24855,3 +24855,20 @@
 18:44:11 Commit Update
 18:44:11 Ready to Push
 18:44:11 Add Log
+18:44:11 Commit Update
+18:44:11 Ready to Push
+18:44:11 Delete /home/club/local/数学/C_高三年级（2017届）/rah/导数的应用（复习）.docx
+18:44:11 Delete /home/club/local/数学/C_高三年级（2017届）/rah/导数应用问题分类导练（级补充作业20160411）.docx
+18:44:11 Delete /home/club/local/数学/C_高三年级（2017届）/rah/导数与定积分周末练习_(1).doc
+18:44:11 Delete /home/club/local/数学/C_高三年级（2017届）/rah/等差数列补充练习2016.1023.docx
+18:44:11 Delete /home/club/local/数学/C_高三年级（2017届）/rah/第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:44:11 Delete /home/club/local/数学/C_高三年级（2017届）/rah/导数、坐标系与参数方程、排列与组合.docx
+18:44:11 Copying No.4191 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx	34.51 MB
+18:44:11 Update index Done
+18:44:11 Update cache Done
+18:44:11 Queue total size: 34.51 MB
+18:44:11 Add 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:44:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx'])
+18:44:11 Commit Update
+18:44:11 Ready to Push
+18:44:11 Add Log

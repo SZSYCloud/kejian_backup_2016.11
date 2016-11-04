@@ -23446,3 +23446,15 @@
 18:33:11 Commit Update
 18:33:11 Ready to Push
 18:33:11 Add Log
+18:33:11 Commit Update
+18:34:11 Ready to Push
+18:34:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第6单元-不等式、推理与证明-数学（理科）-新课标-全国卷.pptx
+18:34:11 Copying No.3911 第7单元-立体几何-数学（理科）-新课标-全国卷.pptx	21.52 MB
+18:34:11 Update index Done
+18:34:11 Update cache Done
+18:34:11 Queue total size: 21.52 MB
+18:34:11 Add 第7单元-立体几何-数学（理科）-新课标-全国卷.pptx
+18:34:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第7单元-立体几何-数学（理科）-新课标-全国卷.pptx'])
+18:34:11 Commit Update
+18:34:11 Ready to Push
+18:34:11 Add Log

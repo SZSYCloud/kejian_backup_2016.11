@@ -20394,3 +20394,22 @@
 18:14:11 Commit Update
 18:14:11 Ready to Push
 18:14:11 Add Log
+18:14:11 Commit Update
+18:15:11 Ready to Push
+18:15:11 Delete /home/club/local/数学/B_新高二年级（2018届）/必修一全品课件2015.9.6/单元综合测试二(第二章).doc
+18:15:11 Delete /home/club/local/数学/B_新高二年级（2018届）/必修一全品课件2015.9.6/单元综合测试三(第三章).doc
+18:15:11 Delete /home/club/local/数学/B_新高二年级（2018届）/必修一全品课件2015.9.6/单元综合测试一(第一章).doc
+18:15:11 Delete /home/club/local/数学/B_新高二年级（2018届）/必修一全品课件2015.9.6/第二章-基本初等函数（Ⅰ）-必修1-人教A版-数学.ppt
+18:15:11 Delete /home/club/local/数学/B_新高二年级（2018届）/必修一全品课件2015.9.6/测评卷正文.doc
+18:15:11 Copying No.3287 第三章-集合与函数概念-必修1-人教A版-数学.ppt	8.22 MB
+18:15:11 Update index Done
+18:15:11 Update cache Done
+18:15:11 Copying No.3288 第一章-集合与函数概念-必修1-人教A版-数学.ppt	28.5 MB
+18:15:11 Update index Done
+18:15:11 Update cache Done
+18:15:11 Queue total size: 36.72 MB
+18:15:11 Add 第一章-集合与函数概念-必修1-人教A版-数学.ppt
+18:15:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第一章-集合与函数概念-必修1-人教A版-数学.ppt'])
+18:15:11 Commit Update
+18:15:11 Ready to Push
+18:15:11 Add Log

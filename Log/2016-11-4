@@ -25966,3 +25966,39 @@
 18:52:11 Commit Update
 18:52:11 Ready to Push
 18:52:11 Add Log
+18:52:11 Commit Update
+18:52:11 Ready to Push
+18:52:11 Delete /home/club/local/数学/C_高三年级（2017届）/ywl/二_函数导数/第2单元-函数、导数及其应用-数学（理科）-新课标-全国卷.pptx
+18:52:11 Copying No.4401 第4讲　函数的概念及其表示.pptx	2.9 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4402 第4讲　函数的概念及其表示.pptx	2.9 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4403 第5讲  函数的单调性与最值.pptx	1.68 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4404 第5讲  函数的单调性与最值.pptx	1.68 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4405 第6讲  函数的奇偶性与周期性.pptx	1.38 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4406 第6讲  函数的奇偶性与周期性.pptx	1.38 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4407 第7讲  二次函数与幂函数.pptx	3.18 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4408 第7讲  二次函数与幂函数.pptx	3.18 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Copying No.4409 第8讲  指数与指数函数.pptx	2.15 MB
+18:52:11 Update index Done
+18:52:11 Update cache Done
+18:52:11 Queue total size: 20.42 MB
+18:52:11 Add 第8讲  指数与指数函数.pptx
+18:52:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第8讲  指数与指数函数.pptx'])
+18:52:11 Commit Update
+18:52:11 Ready to Push
+18:52:11 Add Log

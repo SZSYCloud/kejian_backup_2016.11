@@ -23494,3 +23494,18 @@
 18:35:11 Commit Update
 18:35:11 Ready to Push
 18:35:11 Add Log
+18:35:11 Commit Update
+18:35:11 Ready to Push
+18:35:11 Delete /home/club/local/数学/C_高三年级（2017届）/2017届深圳实验高中部高三数学复习/全品高考复习方案数学第一轮复习资料/PPT听课手册配套课件/第8单元-解析几何-数学（理科）-新课标-全国卷.pptx
+18:35:11 Copying No.3915 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx	18.41 MB
+18:35:11 Update index Done
+18:35:11 Update cache Done
+18:35:11 Copying No.3916 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx	18.41 MB
+18:35:11 Update index Done
+18:35:11 Update cache Done
+18:35:11 Queue total size: 36.81 MB
+18:35:11 Add 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx
+18:35:11 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第9单元-计数原理、概率、随机变量及其分布-数学（理科）-新课标-全国卷.pptx'])
+18:35:11 Commit Update
+18:35:11 Ready to Push
+18:35:11 Add Log

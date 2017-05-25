@@ -26221,3 +26221,43 @@
 15:12:5 Commit Update
 15:12:5 Ready to Push
 15:12:5 Add Log
+15:12:5 Commit Update
+15:13:5 Ready to Push
+15:13:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/《成语：中华文化的微缩景观》优秀课件.ppt
+15:13:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/必修2-探究梳理01-成语_中华文化的微缩景观（红树主人）.ppt
+15:13:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/成语_中华文化的微缩景观课件3.ppt
+15:13:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/成语：中华文化的微缩景观(公开课).ppt
+15:13:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/成语：中华文化的微缩景观(选用).ppt
+15:13:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/《成语：中华文化的微缩景观》实用课件.ppt
+15:13:5 Copying No.5164 成语：中华文化的微缩景观（涉及门类齐全）.ppt	6.6 MB
+15:13:5 Update index Done
+15:13:5 Update cache Done
+15:13:5 Copying No.5165 成语：中华文化的微缩景观（十分类 例句丰富）.ppt	2.22 MB
+15:13:5 Update index Done
+15:13:5 Update cache Done
+15:13:5 Creating /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/姓氏
+15:13:5 Creating /home/club/index/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/姓氏
+15:13:5 Creating /home/club/cache/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/姓氏
+15:13:5 Write dirs in index Done
+15:13:5 Write dirs in cache Done
+15:13:5 Copying No.5166 《姓氏源流与文化寻根》最新课件.ppt	2.32 MB
+15:13:5 Update index Done
+15:13:5 Update cache Done
+15:13:5 Copying No.5167 必修2-探究梳理03-姓氏源流与文化寻根（红树主人）.ppt	1.9 MB
+15:13:5 Update index Done
+15:13:5 Update cache Done
+15:13:5 Copying No.5168 高一语文必修二《姓氏源流与文化寻根》课件1.ppt	828.0 KB
+15:13:5 Update index Done
+15:13:5 Update cache Done
+15:13:5 Copying No.5169 姓氏源流与文化寻根(赖华).ppt	8.65 MB
+15:13:5 Update index Done
+15:13:5 Update cache Done
+15:13:5 Copying No.5170 姓氏源流与文化寻根.ppt	8.95 MB
+15:13:5 Update index Done
+15:13:5 Update cache Done
+15:13:5 Queue total size: 31.46 MB
+15:13:5 Add 姓氏源流与文化寻根.ppt
+15:13:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 姓氏源流与文化寻根.ppt'])
+15:13:5 Commit Update
+15:13:5 Ready to Push
+15:13:5 Add Log

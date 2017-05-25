@@ -22390,3 +22390,53 @@
 13:21:5 Commit Update
 13:21:5 Ready to Push
 13:21:5 Add Log
+13:21:5 Commit Update
+13:22:5 Ready to Push
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第5课.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第6课.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第7课.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第8课.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第9课.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案1.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案2.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案3.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/写作导学案4.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构/【语文】第10课《短文三篇》课件1（人教版必修4）.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/同课异构/【语文】第10课《短文三篇》课件2（人教版必修4）.ppt
+13:22:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015创新设计人教版必修4/配套课件/课堂讲义配套课件/第4课.ppt
+13:22:5 Copying No.4352 【语文】第11课《廉颇蔺相如列传》课件1（人教版必修4）.ppt	3.25 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4353 【语文】第11课《廉颇蔺相如列传》课件2（人教版必修4）.ppt	2.82 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4354 【语文】第12课《苏武传》课件1（人教版必修4）.ppt	3.88 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4355 【语文】第12课《苏武传》课件2（人教版必修4）.ppt	3.03 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4356 【语文】第13课《张衡传》课件1（人教版必修4）.ppt	2.86 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4357 【语文】第13课《张衡传》课件2（人教版必修4）.ppt	2.43 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4358 【语文】第1课《窦娥冤》课件1（人教版必修4）.ppt	3.85 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4359 【语文】第1课《窦娥冤》课件2（人教版必修4）.ppt	2.59 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4360 【语文】第2课《雷雨》课件1（人教版必修4）.ppt	2.54 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Copying No.4361 【语文】第2课《雷雨》课件2（人教版必修4）.ppt	2.81 MB
+13:22:5 Update index Done
+13:22:5 Update cache Done
+13:22:5 Queue total size: 30.06 MB
+13:22:5 Add 【语文】第2课《雷雨》课件2（人教版必修4）.ppt
+13:22:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 【语文】第2课《雷雨》课件2（人教版必修4）.ppt'])
+13:22:5 Commit Update
+13:22:5 Ready to Push
+13:22:5 Add Log

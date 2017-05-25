@@ -26176,3 +26176,48 @@
 15:10:5 Commit Update
 15:12:5 Ready to Push
 15:12:5 Add Log
+15:12:5 Commit Update
+15:12:5 Ready to Push
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/登岳阳楼鉴赏.docx
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/第9课说木叶.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/闺怨诗合辑_-_讲评版.docx
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/红树主人2017全品语言运用_成语实词虚词_（考纲修改后）---背诵版.doc
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/红树主人2017全品语言运用_成语实词虚词_（考纲修改后）.doc
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/散文题型一__结构思路.pptx
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/散文之技巧、语言鉴赏题.pptx
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/说木叶.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/说木叶教案.doc
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/滕王阁序d.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/2014高一新闻阅读训练/2014高一新闻阅读指导训练（二）.doc
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/2014高一新闻阅读训练/2014高一新闻阅读指导训练（一）.doc
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/必修2-探究梳理01-成语_中华文化的微缩景观（红树主人）.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/必修2-探究梳理02-修辞无处不在（红树主人）.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/必修2-探究梳理03-姓氏源流与文化寻根（红树主人）.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/《成语：中华文化的微缩景观》-语文公社.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/《成语：中华文化的微缩景观》课件（错误十大分类很好）.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/必修2-梳理探究（三个专题）/成语/《成语：中华文化的微缩景观》课件（靠谱）.ppt
+15:12:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/教学课件/边城2015.ppt
+15:12:5 Copying No.5158 《成语：中华文化的微缩景观》实用课件.ppt	4.4 MB
+15:12:5 Update index Done
+15:12:5 Update cache Done
+15:12:5 Copying No.5159 《成语：中华文化的微缩景观》优秀课件.ppt	4.4 MB
+15:12:5 Update index Done
+15:12:5 Update cache Done
+15:12:5 Copying No.5160 必修2-探究梳理01-成语 中华文化的微缩景观（红树主人）.ppt	9.98 MB
+15:12:5 Update index Done
+15:12:5 Update cache Done
+15:12:5 Copying No.5161 成语_中华文化的微缩景观课件3.ppt	2.7 MB
+15:12:5 Update index Done
+15:12:5 Update cache Done
+15:12:5 Copying No.5162 成语：中华文化的微缩景观(公开课).ppt	7.03 MB
+15:12:5 Update index Done
+15:12:5 Update cache Done
+15:12:5 Copying No.5163 成语：中华文化的微缩景观(选用).ppt	2.76 MB
+15:12:5 Update index Done
+15:12:5 Update cache Done
+15:12:5 Queue total size: 31.28 MB
+15:12:5 Add 成语：中华文化的微缩景观(选用).ppt
+15:12:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 成语：中华文化的微缩景观(选用).ppt'])
+15:12:5 Commit Update
+15:12:5 Ready to Push
+15:12:5 Add Log

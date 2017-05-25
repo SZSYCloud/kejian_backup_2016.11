@@ -1025,3 +1025,29 @@
 11:14:5 Commit Update
 11:16:5 Ready to Push
 11:16:5 Add Log
+11:16:5 Commit Update
+11:16:5 Ready to Push
+11:16:5 Delete /home/club/local/语文/2015——2018语文资源共享/2017年高三语文培训_文件包/中山韩宜奋：奇谈怪论话语文.ppt
+11:16:5 Delete /home/club/local/语文/2015——2018语文资源共享/2017年高三语文培训_文件包/标杆作文文件包/2016年高考广东阅卷标杆作文17篇.doc
+11:16:5 Delete /home/club/local/语文/2015——2018语文资源共享/2017年高三语文培训_文件包/标杆作文文件包/从标杆作文看写作备考（高三教师培训）.ppt
+11:16:5 Delete /home/club/local/语文/2015——2018语文资源共享/2017年高三语文培训_文件包/王雪娟（大梅沙）.pptx
+11:16:5 Copying No.95 葛福安下水作文+吻痕.doc	27.0 KB
+11:16:5 Update index Done
+11:16:5 Update cache Done
+11:16:5 Copying No.96 修改：从标杆作文看2017年高考作文备考.doc	78.0 KB
+11:16:5 Update index Done
+11:16:5 Update cache Done
+11:16:5 Creating /home/club/local/语文/2015——2018语文资源共享/2017年高三语文培训 文件包/高三教师培训讲座（茹清平）
+11:16:5 Creating /home/club/index/语文/2015——2018语文资源共享/2017年高三语文培训 文件包/高三教师培训讲座（茹清平）
+11:16:5 Creating /home/club/cache/语文/2015——2018语文资源共享/2017年高三语文培训 文件包/高三教师培训讲座（茹清平）
+11:16:5 Write dirs in index Done
+11:16:5 Write dirs in cache Done
+11:16:5 Copying No.97 2017年高考语文备考的几点思考——茹清平（20160908）修改稿 .ppt	36.71 MB
+11:17:5 Update index Done
+11:17:5 Update cache Done
+11:17:5 Queue total size: 36.81 MB
+11:17:5 Add 2017年高考语文备考的几点思考——茹清平（20160908）修改稿 .ppt
+11:17:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 2017年高考语文备考的几点思考——茹清平（20160908）修改稿 .ppt'])
+11:17:5 Commit Update
+11:17:5 Ready to Push
+11:17:5 Add Log

@@ -1857,3 +1857,47 @@
 6:43:5 Commit Update
 6:43:5 Ready to Push
 6:43:5 Add Log
+6:43:5 Commit Update
+6:44:5 Ready to Push
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第11章-实验12.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第12章-第1课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第12章-第2课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第12章-第3课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第12章-第4课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第12章-实验13.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第12章-实验14.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第12章-实验15.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第13章-第1课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第13章-第2课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第13章-第3课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第11章-第3课时.ppt
+6:44:5 Copying No.175 第13章-实验16.ppt	2.13 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.176 第1章-第1课时.ppt	11.28 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.177 第1章-第2课时.ppt	3.15 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.178 第1章-第3课时.ppt	2.0 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.179 第1章-实验1.ppt	2.75 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.180 第2章-第1课时.ppt	2.1 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.181 第2章-第2课时.ppt	3.77 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.182 第2章-第3课时.ppt	2.82 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Queue total size: 30.01 MB
+6:44:5 Add 第2章-第3课时.ppt
+6:44:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第2章-第3课时.ppt'])
+6:44:5 Commit Update
+6:44:5 Ready to Push
+6:44:5 Add Log

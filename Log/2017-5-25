@@ -20441,3 +20441,59 @@
 13:3:5 Commit Update
 13:3:5 Ready to Push
 13:3:5 Add Log
+13:3:5 Commit Update
+13:4:5 Ready to Push
+13:4:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点二.docx
+13:4:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点六.docx
+13:4:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点三.docx
+13:4:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点四.docx
+13:4:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点五.docx
+13:4:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/现代文阅读_第二章_第二节_专题二_考点一.docx
+13:4:5 Copying No.3926 现代文阅读 第二章 第二节 专题一.docx	1.13 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3927 现代文阅读 第二章 第二节 专题一.docx	1.13 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3928 现代文阅读 第二章 第一节 专题二.docx	188.3 KB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3929 现代文阅读 第二章 第一节 专题二.docx	188.3 KB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3930 现代文阅读 第二章 第一节 专题三 考点二.docx	91.12 KB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3931 现代文阅读 第二章 第一节 专题三 考点二.docx	91.12 KB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3932 现代文阅读 第二章 第一节 专题三 考点三.docx	1.68 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3933 现代文阅读 第二章 第一节 专题三 考点三.docx	1.68 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3934 现代文阅读 第二章 第一节 专题三 考点四.docx	1.66 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3935 现代文阅读 第二章 第一节 专题三 考点四.docx	1.66 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3936 现代文阅读 第二章 第一节 专题三 考点五.docx	105.77 KB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3937 现代文阅读 第二章 第一节 专题三 考点五.docx	105.77 KB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3938 现代文阅读 第二章 第一节 专题三 考点一.docx	18.57 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Copying No.3939 现代文阅读 第二章 第一节 专题三 考点一.docx	18.57 MB
+13:4:5 Update index Done
+13:4:5 Update cache Done
+13:4:5 Queue total size: 46.82 MB
+13:4:5 Add 现代文阅读 第二章 第一节 专题三 考点一.docx
+13:4:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 现代文阅读 第二章 第一节 专题三 考点一.docx'])
+13:4:5 Commit Update
+13:5:5 Ready to Push
+13:5:5 Add Log

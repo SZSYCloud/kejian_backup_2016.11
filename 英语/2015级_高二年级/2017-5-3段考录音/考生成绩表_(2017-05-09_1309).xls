@@ -1,0 +1,234 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+  <Style ss:ID="sBorder">
+     <Borders>
+         <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+     </Borders>
+     <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="txtNumStyle">
+     <Borders>
+         <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+     </Borders>
+     <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+     <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="sTitle">
+     <Borders>
+         <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+     </Borders>
+     <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+     <Interior ss:Color="#DBEEF3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="sGrayTxt">
+     <Borders>
+         <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+     </Borders>
+     <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+     <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="sGrayNum">
+     <Borders>
+         <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+         <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+     </Borders>
+     <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+     <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+     <NumberFormat ss:Format="@"/>
+  </Style>
+</Styles>
+<Worksheet ss:Name="
+高二练习名单_3_2017.05.09.13.10">    <Table>
+<Column ss:Width="38"/>
+<Column ss:Width="86"/>
+<Column ss:Width="48"/>
+<Column ss:Width="48"/>
+<Column ss:Width="48"/>
+<Column ss:Width="48"/>
+<Column ss:Width="90"/>
+<Column ss:Width="200"/>
+<Column ss:Width="80"/>
+<Column ss:Width="80"/>
+<Column ss:Width="80"/>
+<Column ss:Width="80"/>
+<Column ss:Width="47"/>
+<Column ss:Width="35"/>
+<Row>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">序号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">考号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">姓名</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">考场号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">试室号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">场次号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">状态</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">试卷名称</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">Part A</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">Part B</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">Part C</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">总成绩</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2151008</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">曾华玥</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">9</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4.4</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.8</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">5.3</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">14</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2151029</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">陈怡昕</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">6</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4.2</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.8</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">5.7</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">14</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2151081</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">纪逸洋</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">12</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.8</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">5.9</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">14</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2151232</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">杨湘琪</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">12</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4.2</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.9</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">6</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">14</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">5</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2151296</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">庄依暖</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">11</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.7</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.6</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">5.2</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">13</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">6</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2152061</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">黄振</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">8</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.8</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.4</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4.7</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">12</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">7</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2152063</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">江岚</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.9</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">5.9</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">14</Data></Cell>
+</Row>
+
+    </Table>
+</Worksheet>
+<Worksheet ss:Name="
+高二练习名单_3_2017.05.09.13.38">    <Table>
+<Column ss:Width="38"/>
+<Column ss:Width="86"/>
+<Column ss:Width="48"/>
+<Column ss:Width="48"/>
+<Column ss:Width="48"/>
+<Column ss:Width="48"/>
+<Column ss:Width="90"/>
+<Column ss:Width="200"/>
+<Column ss:Width="80"/>
+<Column ss:Width="80"/>
+<Column ss:Width="80"/>
+<Column ss:Width="80"/>
+<Column ss:Width="47"/>
+<Column ss:Width="35"/>
+<Row>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">序号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">考号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">姓名</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">考场号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">试室号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">场次号</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">状态</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">试卷名称</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">Part A</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">Part B</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">Part C</Data></Cell>
+   <Cell ss:StyleID="sTitle" ><Data ss:Type="String">总成绩</Data></Cell>
+</Row>
+ <Row>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="txtNumStyle" ><Data ss:Type="String">2152019</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">陈睿越</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">深圳实验学校高中部</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">9</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">1</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">正常</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">2016广一测英语听说试题B</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">4.3</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">3.6</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">5.8</Data></Cell>
+   <Cell ss:StyleID="sBorder" ><Data ss:Type="String">14</Data></Cell>
+</Row>
+
+    </Table>
+</Worksheet>
+</Workbook>

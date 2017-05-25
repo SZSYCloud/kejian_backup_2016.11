@@ -20260,3 +20260,43 @@
 12:59:5 Commit Update
 12:59:5 Ready to Push
 12:59:5 Add Log
+12:59:5 Commit Update
+13:0:5 Ready to Push
+13:0:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/古代诗文阅读_第二章_专题一.docx
+13:0:5 Delete /home/club/local/语文/【2017届】高三语文共享文件/电子图书/2015-08-30_步步高高考复习（2016人教版）/全书完整的word版文档/复习讲义/古代诗文阅读_第三章.docx
+13:0:5 Copying No.3880 古代诗文阅读 第一章 专题二.docx	106.84 KB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3881 古代诗文阅读 第一章 专题二.docx	106.84 KB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3882 古代诗文阅读 第一章 专题三 考点二.docx	1.46 MB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3883 古代诗文阅读 第一章 专题三 考点二.docx	1.46 MB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3884 古代诗文阅读 第一章 专题三 考点三.docx	149.38 KB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3885 古代诗文阅读 第一章 专题三 考点三.docx	149.38 KB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3886 古代诗文阅读 第一章 专题三 考点四.docx	110.22 KB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3887 古代诗文阅读 第一章 专题三 考点四.docx	110.22 KB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3888 古代诗文阅读 第一章 专题三 考点一.docx	24.3 MB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Copying No.3889 古代诗文阅读 第一章 专题三 考点一.docx	24.3 MB
+13:0:5 Update index Done
+13:0:5 Update cache Done
+13:0:5 Queue total size: 52.24 MB
+13:0:5 Add 古代诗文阅读 第一章 专题三 考点一.docx
+13:0:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 古代诗文阅读 第一章 专题三 考点一.docx'])
+13:0:5 Commit Update
+13:0:5 Ready to Push
+13:0:5 Add Log

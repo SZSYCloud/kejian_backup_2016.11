@@ -2422,3 +2422,31 @@
 6:47:5 Commit Update
 6:47:5 Ready to Push
 6:47:5 Add Log
+6:47:5 Commit Update
+6:48:5 Ready to Push
+6:48:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/12-2.ppt
+6:48:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/13-1.ppt
+6:48:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/13-2.ppt
+6:48:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/14.ppt
+6:48:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_金版教程一轮物理/12-1.ppt
+6:48:5 Copying No.283 15.ppt	8.01 MB
+6:48:5 Update index Done
+6:48:5 Update cache Done
+6:48:5 Copying No.284 16.ppt	6.27 MB
+6:48:5 Update index Done
+6:48:5 Update cache Done
+6:48:5 Copying No.285 17-1.ppt	5.22 MB
+6:48:5 Update index Done
+6:48:5 Update cache Done
+6:48:5 Copying No.286 17-2.ppt	6.2 MB
+6:48:5 Update index Done
+6:48:5 Update cache Done
+6:48:5 Copying No.287 2-1.ppt	7.58 MB
+6:48:5 Update index Done
+6:48:5 Update cache Done
+6:48:5 Queue total size: 33.29 MB
+6:48:5 Add 2-1.ppt
+6:48:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 2-1.ppt'])
+6:48:5 Commit Update
+6:48:5 Ready to Push
+6:48:5 Add Log

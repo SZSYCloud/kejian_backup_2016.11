@@ -3388,3 +3388,46 @@
 2:39:5 Commit Update
 2:39:5 Ready to Push
 2:39:5 Add Log
+2:39:5 Commit Update
+2:39:5 Ready to Push
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_2/teens.docx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_2/0930/Unit2_English_around_the_world(含答案解析及听力mp3).doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_3/1010.pptx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_3/1011grammar.ppt
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_3/U3P1_.ppt
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_3/U3P2_Reading1009.ppt
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_3/Unit_1-3_words_and_phrases.ppt
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/Eng_Files/unit_3/改错题.pptx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/班级事务/12座位表_(Null).docx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/班级事务/2015年高一新生常规考试考号.xls
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/Twelve/班级事务/班干部名单201509.xls
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/luo/1.pptx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/luo/暑假作业.pptx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/luo/英语周报1.pptx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/xyz/学英语第9期作文[1].docx
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/Cancer_report_shows_disparities_between_developing,_developed_countries.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/Developing_Countries_List.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/Europe_for_citizens_programme_2007-2013.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/European_connections_and_town_twinning.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/The_Human_Development_Index.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/The_Human_Development_concept.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/Town_Twinning.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/格勒诺布尔.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M2_Developing_and_Developed_Countries/资料(参考)/阅读/牛津.doc
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M3_The_Violence_of_Nature/精制课时课件(含教案)/M3P1_Warming_up.ppt
+2:39:5 Delete /home/club/local/英语/2015级_高二年级/必修三课件（录音）/M3_The_Violence_of_Nature/精制课时课件(含教案)/M3P2_Reading_and_Vocabulary.ppt
+2:39:5 Copying No.1265 M3P3 Language Points.ppt	6.39 MB
+2:39:5 Update index Done
+2:39:5 Update cache Done
+2:39:5 Copying No.1266 M3P4 Grammar 1 The past perfect passive.ppt	17.68 MB
+2:39:5 Update index Done
+2:39:5 Update cache Done
+2:39:5 Copying No.1267 M3P4 Grammar 2 Indirect speech.ppt	7.67 MB
+2:39:5 Update index Done
+2:39:5 Update cache Done
+2:39:5 Queue total size: 31.74 MB
+2:39:5 Add M3P4 Grammar 2 Indirect speech.ppt
+2:39:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update M3P4 Grammar 2 Indirect speech.ppt'])
+2:39:5 Commit Update
+2:39:5 Ready to Push
+2:39:5 Add Log

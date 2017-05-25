@@ -1947,3 +1947,57 @@
 6:44:5 Commit Update
 6:44:5 Ready to Push
 6:44:5 Add Log
+6:44:5 Commit Update
+6:44:5 Ready to Push
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第2章-实验3.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第3章-第1课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第3章-第2课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第3章-第3课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第3章-实验4.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第4章-第1课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第4章-第2课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第4章-第3课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第4章-第4课时.ppt
+6:44:5 Delete /home/club/local/物理/2015-2016_高二年级/2016-2017_非常一轮通用物理/PPT课件/第2章-实验2.ppt
+6:44:5 Copying No.193 第5章-第1课时.ppt	1.81 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.194 第5章-第2课时.ppt	2.36 MB
+6:44:5 Update index Done
+6:44:5 Update cache Done
+6:44:5 Copying No.195 第5章-第3课时.ppt	1.85 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.196 第5章-第4课时.ppt	3.3 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.197 第5章-实验5.ppt	2.34 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.198 第5章-实验6.ppt	3.31 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.199 第6章-第1课时.ppt	2.64 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.200 第6章-第2课时.ppt	2.49 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.201 第6章-第3课时.ppt	2.62 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.202 第7章-第1课时.ppt	1.87 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.203 第7章-第2课时.ppt	2.01 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Copying No.204 第7章-实验10.ppt	3.45 MB
+6:45:5 Update index Done
+6:45:5 Update cache Done
+6:45:5 Queue total size: 30.05 MB
+6:45:5 Add 第7章-实验10.ppt
+6:45:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update 第7章-实验10.ppt'])
+6:45:5 Commit Update
+6:45:5 Ready to Push
+6:45:5 Add Log

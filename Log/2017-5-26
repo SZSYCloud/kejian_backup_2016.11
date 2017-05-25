@@ -7255,3 +7255,25 @@
 3:19:5 Commit Update
 3:55:5 Ready to Push
 3:55:5 Add Log
+3:55:5 Commit Update
+3:55:5 Ready to Push
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/zoe/高一写作/系列写作专题讲座20讲/系列写作专题讲座20讲/第4讲_名词性从句的写作与训练.ppt
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/zoe/高一写作/系列写作专题讲座20讲/系列写作专题讲座20讲/第5讲_定语从句的写作与训练.ppt
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/zoe/高一写作/系列写作专题讲座20讲/系列写作专题讲座20讲/第6讲_状语从句的写作与训练.ppt
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/zoe/高一写作/系列写作专题讲座20讲/系列写作专题讲座20讲/第7讲_高级词汇和较复杂结构的写作与训练.ppt
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/zoe/高一写作/系列写作专题讲座20讲/系列写作专题讲座20讲/第8讲_句子间、段落间的衔接、过渡的写作与训练.ppt
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/zoe/高一写作/系列写作专题讲座20讲/系列写作专题讲座20讲/第9讲_记叙文（一）写人记叙文.ppt
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/虚拟语气/虚拟语气.ppt
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/曾/11.xlsx
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/曾/1213.pptx
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/曾/PPT_3.5.pptx
+3:55:5 Delete /home/club/local/英语/2016级_高一年级/zoe/高一写作/系列写作专题讲座20讲/系列写作专题讲座20讲/第3讲_并列句的写作与训练.ppt
+3:55:5 Copying No.1798 PPT 3.5.pptx	35.06 MB
+3:56:5 Update index Done
+3:56:5 Update cache Done
+3:56:5 Queue total size: 35.06 MB
+3:56:5 Add PPT 3.5.pptx
+3:56:5 CalledProcessError(1, ['git', 'commit', '-m', 'Update PPT 3.5.pptx'])
+3:56:5 Commit Update
+3:56:5 Ready to Push
+3:56:5 Add Log
